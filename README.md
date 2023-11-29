@@ -25,6 +25,8 @@ Download all files in the github and ensure the file structure is as follow:
 
 │   └── model_weights
 
+Note: Due to the limit of upload file size in GitHub, complete files in folder **model_weights** can be obtained at http://www.rnainter.org/riscoper/download.
+
 ```{r}
 import os
 os.chdir("RIscoper")
