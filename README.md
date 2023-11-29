@@ -18,6 +18,7 @@ os.mkdir("RIscoper")
 Download all files in the github and ensure the file structure is as follow:
 
 ├── RIscoper
+
 │   ├── code
 
 │   ├── data
