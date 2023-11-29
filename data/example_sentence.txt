@@ -1,0 +1,1000 @@
+"taken together, our data suggest that mir-155 may attenuate the expression of smad2 by directly targeting the 3'utr of smad2."
+we showed that only the 8-mer site contributed to mir-155 repressing actions on the 3'utr of smad2; similar results were obtained in a recent study on mir-155 targeting smad2 in macrophages.
+"in addition to the known target p27 and p57, we identify aryl hydrocarbon nuclear translocator messenger rna as a novel target of mir-221, which contributes to the pro-proliferative activity of mir-221."
+"next, to investigate whether cell cycle regulators are affected by knockdown of arnt mrna, we determined the protein levels of the cdk inhibitors, p21 and p27."
+"the mirna target analysis tool mirwalk 23 was used to screen validated targets of mir-27a,mir-181a and mir-20b: hif1a was found to be a validated target of mir-20b, mdr1 a validated target of mir-27a and hipk2a gene regulated by mir-181a and mir-27a."
+"to confirm the targeting of hif1a, mdr1 and hipk2 by mir-27a, mir-181a and mir-20b, a correlation analysis was carried out."
+"a negative correlation was found between each gene hif1a, mdr1 and hipk2 and the correlated mirna."
+"the expression of the three mirna target genes hif1a, mdr1 and hipk2 was studied."
+"interestingly, an inverse trend of gene expression was highlighted compared to that of mir-27a, mir-181a and mir-20b."
+"higher median expression levels of hif1a, mdr1 and hipk2 were found in gastric n3 tumors and in males, while no difference was found in gene expression with respect to tumor size or gc patient age."
+"these data established that mir-200b binds the gata-4 3'-utr region, resulting in mrna degradation and translation repression."
+mir-199a* is a direct regulator of cox-2 expression in oa chondrocytes.
+"these results demonstrated that mir-199a* and mir-101_3 both bindthe seed sequence present in the 3'-utr of human cox-2 mrna, but the inhibitory effect on luciferase activity was more pronounced for mir-199a*."
+this suggests an indirect effect of mir-101_3 on the post-transcriptional regulation of cox-2 expression in oa chondrocytes.
+these data suggest that il-1-beta-induced activation of p38-mapk negatively regulates the expression of mir-199a* which may be necessary for the unobstructed translation of cox-2 mrna and expression of cox-2 protein in human oa chondrocytes.
+"to identify the target gene of the mir-17-5p with ulk1 through the informatics software, we found the binding site as ; dual luciferase data shows that the mir-17-5p can obviously inhibit the luciferase activity of ulk1-3'-utr, but not the luciferase activity of ulk1-3'-utr mutant, ; our data shows that the mir-17-5p can obviously inhibit the expression of ulk1 protein by western-blot ."
+"thus, our data demonstrate that mir-31 is capable of directly targeting a sequence within the 3'-utr of gprc5a mrna and that gprc5a is one of the key targets of mir-31 in treg-cell differentiation."
+mll and af4 mrnas possess several putative mir-128b binding sites that are responsible for down-regulation by mir-128b.
+"to determine whether these sites allow down-regulation by mir-128b, and thus whether mir-128 can down-regulate mll and af4, as well as the chimeric mll-af4 and af4-mll mrnas, the 3'-utr regions containing these mir-128b binding sites were cloned downstream of the reporter renilla luciferase open reading frame."
+"in this study, we observed that the expression of mir-125a was inversely correlated with hur expression in several different breast carcinoma cell lines."
+increased cytoplasmic localization of hur is a prognostic marker in breast cancer.
+real time pcr and gene reporter assays indicated that hur was translationally repressed by mir-125a.
+re-establishing mir-125a expression in breast cancer cells decreased hur protein level and inhibited cell growth.
+"importantly, the repression of cell proliferation and migration engendered by mir-125a was partly rescued by hur re-expression."
+"our results suggest that mir-125a may function as a tumor suppressor for breast cancer, with hur as a direct and functional target."
+"we found that apobec3g also blocks dnd1 function to restore mir-372 and mir-206 inhibition through the 3'-utrs of lats2 and cx43, respectively."
+"in summary, these experiments lead us to conclude that apobec3g is able to block dnd1 function and restore mirna-mediated translation repression."
+"in turn, zeb2 is also a direct target of mir-145."
+"taken together, our results demonstrated that zeb2 was a bona fide target of mir-145. in this study, we have found that mir-145 directly targets zeb2 and represses zeb2 expression, and in turn, zeb2 suppresses the expression of mir-145 in pca."
+modulation of mir-155 and mir-125b levels following lipopolysaccharide/tnf-alpha stimulation and their possible roles in regulating the response to endotoxin shock.
+we find a significant negative regulatory effect on the myo6 3'utr by both mir-143 and mir-145.
+mutation of the potential binding sites for mir-143 and mir-145 in the myo6 3'utr resulted in a loss of responsiveness to the corresponding mirna.
+our data indicate that mir-143 and mir-145 are involved in the regulation of myo6 expression and possibly in the development of prostate cancer.
+myo6 is a direct target of mir-143 and mir-145.
+these data show that the myo6 mrna is an independent targetfor both mir-145 and mir-143.
+"since the stimulation of rcsa transcription by this small rna does not depend on any sequences from within the rcsa transcript, dsra acts, either directly or indirectly, on rcsa transcription initiation."
+"in addition, pten was identified to be directly regulated by mir-1297 through western blot and luciferase reporter assay."
+"luciferase reporter assay and western blot were performed to validate the relationship between mir-1297 and pten. in the western blot analysis, the downregulation of mir-1297 could significantly upregulate pten expression compared with the control group ."
+"as for the luciferase reporter assay, mir-1297 decreased luciferase activity with pten 3'utr, but had no effect on luciferase reporter with mutated mir-1297 binding elements ."
+"levels of lincrna-ufc1 correlated with those of -beta-catenin in hcc tissues. in contrast, there was a negative correlation between levels of microrna 34a and lincrna-ufc1 in hcc tissues; microrna 34a reduced the stability of lincrna-ufc1."
+"overexpression of a second srna, glmy, also activates glms expression in an unknown way.the data reveal a regulatory that glmy acts indirectly in a way that depends on glmz."
+"when the intracellular glcn-6-p concentration decreases, glmy accumulates and causes in turn accumulation of full-length glmz, which finally activates glms expression. in glmz mutants, glmy has no effect on glms, whereas artificially expressed glmz can activate glms expression also in the absence of glmy."
+"impressively, overexpression of mir-296-5p showed the same phenocopy as the effect of plk1 knockdown in nsclc cells, indicating that plk1 was a major target of mir-296-5p."
+"furthermore, using western blot analysis and luciferase reporter assay, plk1 protein expression was proved to be regulated by mir-296-5p through binding to the putative binding sites in its 3'-untranslated region ."
+the above results suggested that mir-296-5p could directly target 3'-utr of plk1.
+these results further proved that plk1 expression could be mediated by mir-296-5p through targeting its mrna 3'-utr.
+figure 5. curcuminoids regulate the expression of zbtb10 through a mir-27a-ros-dependent suppression.
+"in addition, zbtb10 is a mir-27a mrna target and a member of the pok family of transcriptional repressors ."
+"moreover, in cells transfected with pzbtb10-3'utr luciferase construct, treatment with curcuminoids increased luciferase activity directly linked to suppression of mir-27a and decreased interaction with the 3'-utr of zbtb10 ,and transfection with the zbtb10 expression vector, decreased expression of sp1, sp3, sp4, and sp-regulated gene mdr1 ."
+the results indicated that the suppression of mir-21 by mir-21 aso significantly increased both the mrna and protein level of lrrfip1 .
+"combining targetprediction bioinformatics with expression profiling, we identified lrrfip1, which was remarkably upregulated in mir-21 aso treated cells, as a candidate targetgene of mir-21."
+these findings suggested that lrrfip1 was directly regulated by mir-21.
+notch 1 and yy1 are confirmed targets of mir-34a .
+"exposure of esophageal cells to bile acids activates fxr and increases levels of mirs 221 and 222, reducing levels of p27kip1 and promoting degradation of cdx2 by the proteasome."
+"subsequently, mir-125a-5p silenced hdac5 post-transcriptionally in the cells treated with hdaci."
+"thus, a regulatory loop may exist in human breast cancer cells involving mir-125a-5p and hdac5 that is controlled by runx3 signaling."
+"silencing of mir-125a-5p and runx3 inhibited cancer progression and activated apoptosis, but silencing of hdac5 had a converse effect."
+"based on computational analyses revealing 3 mir-16-binding sites in the 3- utr of kcnj2 , we conducted western blot analysis and luciferase reporter gene assays to experimentally clarify whether kcnj2 is in fact a target for mir-16."
+transfection of mir-16 into h9c2 rat ventricular cells produced marked downregulation of kir2.1 protein expression compared to sham-treated control cells .
+kcnj2 mrna expression was also decreased by mir-16 .
+"the regulation of the kcnj2 gene by mir-16 was confirmed by a luciferase assay, which indicated that all 3 binding sites for mir-16 responded to mir-16 expression changes."
+"we also found that mir-181a negatively regulated the expression of prkcd, a pro-apoptotic protein kinase, via targeting its 3'-untranslated region , thereby inhibiting irradiation-induced apoptosis and decreasing g2/m block."
+these data suggest that xbp1 also is a target of mir-214 in cardiomyocyte.
+"the suppression of mir-221 resulted in decreased expression of k-ras, and nf-kappab both at the mrna level and at the protein level ."
+"these results suggest that inhibiting the expression of mir-221 in caf-19 cells led to the inhibition of cell migration, invasion, and the expression of its targets k-ras and nf-kappab."
+tp53inp1 phosphorylates p53 protein at serine-46.
+"this enhances p53 protein stability and its transcriptional activity, leading to transcriptional activation of p53-target genes such as p21 and pig3, cell growth arrest and apoptosis upon dna damage stress."
+"deficiency in tp53inp1 expression results in increased tumorigenesis, whereas tp53inp1 expression is repressed during early stages of cancer by factors such as mir-155."
+mir-195 can repress the migration and invasion of prostate cancer cells via regulating fra-1.
+"we found that mir-195 expression was downregulated in two prostate cancer cell lines, ectopic expression of mir-195 significantly suppressed cell migratory and invasive capacities of pc3 and du145 cells through inhibition of fra-1."
+these findings indicated that mir-195 could be a potential tumor suppressor by directly binding to fra-1 in prostate cancer.
+these findings indicated that mir-195 inhibited fra-1 expression through direct binding of 3'-utr of its transcript.
+"moreover, dual luciferase reporter assay confirmed that mir-195 could specifically inhibit fra-1 by binding to a critical region located on its 3'-utr."
+"it was confirmed flotillin-1 as a direct target of mir-485-5p, and up-regulation of mir-485-5p could decrease expression of flot1 in gastric cancer cells."
+"our study suggested that mir-485-5p could be a potential prognostic marker and functions as a tumor suppressor in human gastric cancer by post-transcriptionally targeting flot1. in a conclusion, our study found that mir-485-5p was identified a tumor suppressor mirna in gastric cancer cells and can negatively regulate flot1 expression in vitro and in vivo."
+lats2 is direct target gene of rno-mir-31.
+the online software targetscan predicts that lats2 has a mir-31 binding site in its 3'-utr.
+the results demonstrated that lats2 is indeed a target gene protein of rno-mir-31 in vivo.
+"to explore whether mir-21 can serve as a therapeutic target for glioblastoma, we downregulated mir-21 with a specific antisense oligonucleotide and found that apoptosis was induced and cell-cycle progression was inhibited in vitro in u251 and ln229 gbm cells; xenograft tumors from antisense-treated u251 cells were suppressed in vivo."
+"targetscan 6.2 21 and pictar 22 were used to select the target of mir-18a, and interferon regulatory factor 2 , which was found to be related with cell proliferation by go analysis, was predicted as a potential target."
+"mir-18a suppressed the luciferase activity of the wt irf2 3'utr , without effect on mut irf2 3'utr in 293 t cells."
+these results indicated that mir-18a suppressed irf2 expression post-transcriptionally.
+"e confirmation of predicted mir-10a gene target by luciferase reporter assay: arnt, gtfh1, id4, klf4, mapre1, nr4a3, rb1cc1 and tfap2c were confirmed to be mir-10a repressible by this assay."
+"reporter assay confirmed arnt, gtfh1, id4, klf4, mapre1, nr4a3, rb1cc1 and tfap2c to be mir-10a repressible genes, with further evidence of targeting specificity provided by site directed mutagenesis of the mir-10a binding site ."
+"mir-221 binds the targetsite in the 3 '-utr of the cdkn1c/p57 mrna to inhibit cdkn1c/p57 expression by post-transcriptional gene silencing to promote crc occurrence and progress, therefore serving as a potential therapeutic targetfor the prevention and treatment of crc. to investigate the regulatory effect of mir-221 on cdkn1c/p57 protein expression in crc, we examined cdkn1c/p57 mrna expression in 34 crc samples by semi-quantitative rt-pcr."
+"luciferase report assay further confirmed that tgf-alpha 3'-utr is a direct target of mir-205. in this study, we provide an important insight in support of mir-205 functioning as a tumor suppressor in os via targeting tgf-alpha."
+"moreover, mir-205-transfected cells showed a dramatic decrease in cell invasion and migration, accompanied with suppressed expression of tgf-alpha, which contains a putative binding site of mir-205 in its 3'-utr confirmed by luciferase assays; and qrt-pcr and western blot results confirmed that in os cells transfection with mir-205, the expression of tgf-alpha mrna and protein were both suppressed."
+our data also verified that bcl-2 is the target of mir-125b.
+"more importantly, we proved that mir-125b increased the chemosensitivity of osteosarcoma cell lines to cisplatin by targeting bcl-2."
+"additionally, we demonstrated that bcl-2 is a downstream target of mir-125b and negatively regulated by mir-125b binding to its 3 ' untranslated region ."
+these results suggest that mir-125b directly targets bcl-2 by binding its seed region to their 3 ' -utr in os cells.
+"taken together, these results showed clearly that oxr1 is a downstream target of mir-200b."
+these results confirmed hsf2 as a direct target of mir-18 and identified the site of interaction in the 3'utr of hsf2 mrna.
+"interestingly, the mrna levels of hsf2 also decreased in relation to the transfected amount of mir-18 , suggesting that mir-18 is able to operate through destabilizing hsf2 mrna."
+we therefore conclude that endogenous mir-18 is able to regulate the expression of hsf2.
+"this pattern of expression, exhibiting an inverse correlation between mir-18 and hsf2 , strongly suggests that mir-18 targets hsf2 in spermatogenesis."
+these results clearly demonstrate that mir-18 downregulates hsf2 in spermatogenesis.
+"next we used luciferase reporter assays based on luciferase constructs harboring wt or mutated mir-200c mres sequences in the 3- utr to confirm that all four genes were direct targets of mir-200c, but not of mir-141 ."
+"mir-200 targets dnajc3, which encodes an established and crucial chaperone in beta cells, and lower dnajc3 levels may partially explain the higher atf3 mrna levels detected upon mir-200 overexpression."
+we show that mir-200 negatively regulates a conserved anti-apoptotic and stress-resistance network that includes the essential beta cell chaperone dnajc3 and the caspase inhibitor xiap.
+in silico database and genome-wide gene expression analyses revealed that itga3 and itgb1 were direct targets of mir-223 regulation.
+these data suggested that mir-223 bound directly to specific sites in the 3'-utrs of itga3 and itgb1 mrna.
+these data suggested that the role of itga3 or itgb1 protein was modulated by mir-223 and the effects of migration and invasion in pca cells.
+"b-cell translocationgene 1 was identified as a new target of mir-22, which could reverse theinhibition of autophagy induced by mir-22."
+"thus, p21 is a key targetfor the cell cycle function of the mir-106b family."
+we show that p21 is a direct target of mir-106b and that its silencing plays a key role in mir-106b-induced cell cycle phenotypes.
+the p21 mrna 3'-utr contains two hexamers complementary to the mir-106b family seed region.
+"to test for direct effects on the p21 transcript by mir-106b micrornas, we used a luciferase reporter carrying the complete p21 mrna 3'-utr."
+"here, we investigate the expression of mir-203 and two of its targets, p63 and suppressor of cytokine signalling-3, during human skin morphogenesis."
+"as one may expect it with mirna:target pairs, p63 and socs-3 as its targets were preferentially expressed in the basal epidermal layer where mir-203 was absent ."
+"to demonstrate the specificity of interaction between mir-203 and the mirna recognition motif within socs-3 3'-utr, we generated a site-specific mutation in the mir-203 binding site."
+"when the predicted mir-203 binding site in the 3'-utr of socs-3 mrna was mutated, luciferase activity was restored ."
+"p63 has been shown to be directly targeted by mir-203 . in concordance, we found that p63 and mir-203 showed mutually exclusive expression pattern within the epidermis during human skin development, further supporting a role for mir-203 as a switch between proliferating basal cells and differentiating suprabasal cells."
+the results indicated that mir-493 obviously reduced the expression of mrna and protein of rhoc but not fzd4 and igf1r.
+mir-493 inhibited the capability of invasion of gastric cancer in vitro by targeting rhoc.
+these results suggested that rab27b is the target of mir-193a-3p and that srr is the target of mir-193a-5p.
+"thus, mir-193a-3p and mir-193a-5p decrease the expression of rab27b and srr, respectively, by directly targeting their 3'utrs."
+"overexpression of mir-335 resulted in an upregulation of brca1 mrna expression, suggesting a functional dominance of id4 signaling."
+"in summary, our data indicate that mir-335 affects different targets in the upstream brca1-regulatory cascade with impact on key cellular functions such as proliferation and apoptosis."
+overexpression of let-7a can inhibit the growth of lung cancer transplanted subcutaneously in nude mice by suppression of k-ras and c-myc.
+these data provided a strong indication that let-7a significantly inhibited the expression of k-ras and c-myc in vivo.
+"our data as well as other previous studies indicated that overexpression of let-7a could suppress the expression of k-ras and c-myc, thus leading to the growth inhibition of lung cancer in vivo. in summary, our study showed that let-7a prevented the tumor growth of human lung cancer transplanted subcutaneously in nude mice by suppression of k-ras and c-myc expression."
+"furthermore, mir-181b contributed to proliferation of aml cells by targeting mlk2."
+the results indicated that suppression of mir-181b significantly increased both the level of mlk2 mrna and protein .
+"knockdown of mir-21 resulted in significant upregulation of programmed cell death protein 4, a proapoptotic target gene of mir-21, and substantially increased tubular cell apoptosis."
+"furthermore, mir-490-3p bound directly to hmga2 mrna 3 ' utr and mediated a decrease in hmga2 mrna and protein expression."
+these results demonstrate that hmga2 is a functional target of mir-490-3p in osteosarcoma cells.
+"taken together, our findings suggest that mir-1915 could play a role in the development of mdr in colorectal carcinoma cells at least in part by modulation of apoptosis via targeting bcl-2."
+"these data demonstrate the hwnk4 3'-utr plays an enhancer role by crosstalking with the promoter, and mir-296 suppresses hwnk4 expression through targeting on its 3'-utr in a cell-specific fashion."
+these results verified that mir-296 regulated gene expression through binding to the specific sequence of the hwnk4 3'-utr.
+"the data suggested that the function of mir-296 was indeed characterized as cell-specific, and mir-296 could downregulate gene expression in certain cell lines."
+that demonstrated mir-296 downregulated hwnk4 expression mainly at the translational level.
+these finding showed that mir-340 may directly target the 3'utr of mdm2 and have an effect on the regulation of its expression.
+"we then carried out a dual-luciferase reporter assay and confirmed that in huh7 and mhcc97l cells, cdc42 was the downstream target of mir-137 ."
+"moreover, we identified cdc42 as another downstream target gene of mir-137 in hcc."
+dual-luciferase reporter and western blot assays showed that cdc42 was directly regulated by mir-137 in hcc cells.
+"further investigations demonstrate that mir-328 acts directly on the 3'utr of ptprj, resulting in reduced mrna levels."
+"in this study, we show that overexpression of microrna-328 decreases ptprj expression in hela and skbr3 cells."
+"further investigations demonstrate that mir-328 acts directly on the 3'utr of ptprj. in this study, we report that microrna-328 target the 3'utr of ptprj resulting in its decreased expression."
+figure 3. mir-328 increases proliferation in hela cells by repressing ptprj.
+"taken together, these data indicate that mir-328 directly regulates ptprj expression mainly through interaction with the predicted mre_4 in the 3'-utr of ptprj."
+targeting and regulation of creb1 by mir-200b.
+all of these data suggest that mir-200b directly target creb1 expression in glioma cells.
+"taken together, the results in this work demonstrated that the transcription factor creb1 is regulated by mir-200b in glioma, thereby indirectly regulating its targetgenes."
+"in this way, we identified a novel regulatory mechanism of creb1 using mir-200b."
+the luciferase activity assays demonstrated that mir-200b could bindto the 3'utr of creb1 mrna .
+the finding that mir-302b and mir-372 inhibited tgfbr2 and rhoc expression.
+"follow-up experiments confirmed that the escc mirnas function in part through met by targeting at least tgfbr2 and rhoc, but also likely smad2, zeb1 and fn1 to enhance reprogramming."
+"furthermore, two binding sites for mir-125b are identified in the 3'utr of e2f2 and overexpression of mir-125b in cd133 positive gscs represses the endogenous level of e2f2 protein."
+e2f2 is directly regulated by mir-125b.
+mir-125b inhibits the proliferation of cd133 positive gscs mediated by direct downregulation of e2f2.
+these results indicate that mir-125b is a regulator of e2f2 in cd133 positive gscs by binding to the two sites in the e2f2 3'-utr.
+the results indicate that downregulation of e2f2 is closely related to the effect of mir125b on anti-proliferation.
+"ttp promotes an increase in expression of mature let-7, which leads to the inhibition of let-7 targetgene cdc34 expression and suppresses cell growth."
+"collectively, these results indicate that ttp inhibits cdc34 expression and let-7b mediates the effect."
+figure 2. ttp negatively regulates the expression of the let-7b targetgene cdc34.
+these results indicate that ttp affects the expression level of let-7b and cdc34 and the cell growth through down-regulation of lin28a in pa1 cells.
+"bcl2, an antiapoptotic molecule, was identified to be a direct target of mir-449a, and the proapoptotic function of mir-449a was mainly through targeting bcl2 expression."
+"however, mir-124 cannot decrease the mrna level of nfib , which suggests that the inhibition of nfib expression by mir-124 is at the post-transcriptional level."
+"taken together, mir-124 directly targets nfib and thus inhibits mapk/erk signaling."
+"in addition, we identified nfib as a direct target of mir-124 and that the activation of wnt/-beta-catenin signaling induced mir-124 expression."
+"our observations imply that the loss of mir-26a may result in gained expression of mtdh and ezh2, which endows tumor cells with the ability to develop chemoresistance and in turn favors tumor progression."
+these results indicate that the effect of mir-26a is due to specific and direct interaction with the putative binding sites in the 3'-utrs of mtdh and ezh2.
+"together, the above results demonstrate that mir-26a suppresses the expression of both mtdh and ezh2 by directly targeting their 3'-utr."
+"therefore, mtdh is a functional target of mir-26a for its antitumorigenic role in mcf7 cells."
+it was found the downregulated mir-195 and upregulated hif-1alpha were present in hypoxic atdc 5 cells.
+mir-195 negatively regulated hif-1alpha by targeting its 3'-untranslated region.
+"moreover, the founding indicated mir-195 greatly increased apoptosis and downregulated hif-1alpha mrna occurred simultaneously in hypoxic chondrocytes."
+all this data identified the hif-1alpha might be a direct target of mir-195.
+all these founding illustrated overexpression of mir-195 increased the apoptosis of atdc 5 cells depending on hif-1alpha on hypoxia.
+"hence, our results indicate that sfrp4, gsk3-beta, and tle1 are the bona fide targets of mir-942."
+"these results demonstated that sfrp4, gsk3-beta, and tle1 are important for mir-942-induced stem cell-like traits and indicated that wnt/-beta-catenin signalling is a functional mediator for mir-942-ÊêÉnduced function in escc cell lines."
+ectopic expression of mir-125b by transfection of mir-125b duplex into hek-293t cells suppresses by ;60% the activity of a renilla luciferaseconstruct containing the mir-125b mres of human or zebrafishp53 at its 3' end.
+these data indicate that the predicted mres are critical for the direct and specific binding of mir-125b to the p53 mrna.
+the inverse correlation between mir-125b and p53 expression/activity supports our hypothesis that p53 is down-regulated by mir-125b during zebrafishembryogenesis.
+"taken together, our results suggest that mir-203, -205, - 30c2 targets runx2 and that mir-320 targets -beta- catenin at mrna and protein level."
+"hobs responded to intermittent pth stimulation by repression of hsa-mir-30c, hsa-mir-203, hsa-mir-205, and hsa-mir-320, with a concomitant increase in a target gene for these mirnas; runx2."
+"mir-30c2, mir-203 and mir-205 targeting runx2, and mir-320 targeting -beta-catenin mrna expression."
+exosome-derived microrna-29c induces apoptosis of biu-87 cells by down regulating bcl-2 and mcl-1.
+"collectively, these data indicate that mir-497 expression is decreased and igf-1r expression is increased in hcc tissues."
+mirna-497 overexpression may suppress cellular growth by targeting igf-1r and inhibiting activation of the pi3k/akt pathway in hcc-derived cell lines.
+"mutations in the predicted seed sequence allowed us to validate mir-142-3p interaction with the two genes showing the strongest impairment of luciferase activity, i.e., il6st and egr2."
+"among those 13 mirnas that were differentially expressed in the hbss or rapamycin-treated cells, we found in the 3'-utr of beclin 1 the consensus sequences for mir-30a, implying thatbeclin 1 is a potential target for mir-30a."
+"to verify the change of mir-30a expression following hbss or rapamycin treatment, we performed qrt-pcr analysis of the endogenous mir-30a expression."
+"using the mimic and antagomir of mir-30a, these experiments demonstrated a suppressive role for this mirna in beclin 1 expression."
+these results indicated that mir-9-3p regulated taz expression by directly targeting its 3'utr.
+there was an inverse correlation between mir-9-3p and taz mrna expression in hcc cell lines
+endogenous mir-101 regulates expression of app in human cells via a specific site located within its 3'utr.
+"mir-101 significantly reduced reporter expression by greater than 40% compared to cells co-transfected with negative control mimic or app 3'-utr reporter alone, confirming that mir-101 can downregulate gene expression via elements in the app 3'-utr ."
+"therefore, mir-101 regulates reporter expression specifically via site 1 in app 3'-utr."
+"thus, endogenous mir-101 in human hela cells regulates app expression specifically via site 1 in 3'-utr."
+the fact that mir-124a was predicted to be only partially complementary to the c/ebpalpha 3- utr bindsg site strengthened our hypothesis that mir-124a might block translation of c/ebpalpha mrna rather than degrading it.
+"to validate the predicted interaction between mir-124a and c/ebpalpha, we prepared a luciferase construct by inserting the c/ebpalpha 3- utr downstream of the luciferase reporter gene in the pgl3 promoter vector."
+"relative luciferase activity was significantly decreased 24 hours after mir-124a transfection compared with transfection with the control mirna, indicating that mir-124a interferes with c/ebpalpha mrna via a direct interaction with the 3- utr ."
+"after 48 h, c/ebpalpha protein decreased substantially, supporting our hypothesis that mir-124a negatively regulates c/ebpalpha"
+"western blotting analysis was performed, which indicated that mir-7 directly inhibited epidermal growth factor receptor and further antagonized the downstream protein kinases including erk, akt and stat3."
+"mir-7 significantly suppressed the phosphorylation of akt, erk and stat3, as well as mmp-2, mmp-9, survivin and pcna , which suggested that mir-7 exerted its antitumor function by direct targeting egfr on the surface of glioma cells and further antagonizing egfr-mediated downstream signaling cascade ."
+further experiments of dual luciferase assays verified microrna-16 directly targeting bmi-1.
+"collectively, these findings indicate that loss of microrna-16 may favor glioma angiogenesis, on the contrary overexpression of microrna-16 in gbm cells plays a critical role in repressing endothelial function and angiogenesis by targeting bmi-1."
+"dual luciferase assays in a172 and u87 cells confirmed that mir-16 targets the bmi-1 3'-utr . in our study, we showed that mir-16 inhibited endothelial function and glioma angiogenesis through down-regulating bmi-1in glioma cells."
+"perfect matches exist between the seed regions of mir-365 and the 3'-utr of nfib, suggesting that mir-365 can directly repress nfib expression which were verified by cloning the fragments of the nfib 3'-utr regions encompassing the target sites to the downstream of the firefly luciferase gene."
+such targeting effects were specific to mir-365 binding because the reporter activity was less affected when transfections were repeated with mutant mir-365 binding sites in the nfib 3'-utr.
+the above results indicated that nfib is definitely one of the targets of mir-365 in both normal and cscc cells and knockdown of mir-365 could alleviate the repression and upregulate the expression of nfib.
+"mir-146a and mir-146b inhibited irak1 and traf6 expression by binding to the 3'-utr of irak1 or traf6, respectively, in the rat macrophage cell line nr8383."
+"mir-146 has two copies, mir-146a and mir-146b-5p , two regulators of the inflammatory response located at chromosomes 5 and 10, respectively."
+these results imply that mir-146 is able to decrease the expression of irak1 and traf6 in small-for-size liver grafts by directly binding regulatory sequences in the 3'-utr.
+"in corroboration with earlier studies on mir-146a functions in innate immune cells , this study demonstrated that mir-146a/b negatively regulates the tlr4 signaling pathway by targeting irak1 and traf6 in rat macrophages."
+"dual-luciferase reporter assays showed that pdgfr--betawas a direct target of mir-9. in addition, the dual-luciferase reporter assay revealed that pdgfr--betais a direct target of mir-9."
+"mir-7 potently suppressed epidermal growth factor receptor expression, and furthermore it independently inhibited the akt pathwayvia targeting upstream regulators."
+further studies confirmed that mir-409-3p suppressed the expression of rdx by directly binding to its 3'-untranslated region.
+"in addition, western blot analysis demonstrated that the stably expressed mir-409 significantly inhibited the endogenous protein level of rdx ."
+"these results suggested that mir-409 regulates rdx expression both through induced-mrna degradation and translational repression, which was consistent with a recent report showing that the repression of mrna by mirnas was cellular-context dependent."
+"collectively, our data suggested that inhibition of rdx expression by mir-409 was, at least in part, responsible for mir-409 suppression of cell migration and invasion and, consequently, lymph node metastasis in human gc."
+"ndrg3, a member of the n-myc downstream-regulated gene family, was up-regulated in hepg2.2.15 and was identified as a targetgene of mir-122."
+figure 2. ndrg3 is a candidate target of mir-122.
+these data suggest that ndrg3 is one of the direct downstream target regulated by mir-122.
+these data confirmed that ndrg3 down-regulation as a target of mir-122 significantly inhibited the proliferation of hepg2.2.15 cells.
+"thus, mir-122 plays an important role in hbv-related hcc by targeting ndrg3."
+we have previously demonstrated that the pluripotency factor sox2 is also directly targeted via mir-140 and can regulate stem cell signaling in breast cancer cells
+"additionally, we found that mir-548d-3p downregulated the expression of tp53bp2 by directly targeting the 3'utr."
+we also found that knockdown of tp53bp2 significantly resorted the proliferation and apoptosis regulated by mir-548d-3p inhibitor.
+we further determined that overexpression of mir- 548d- 3p downregulated the expression of endogenous tp53bp2 on both mrna and protein level in mda-mb-231 cells .
+"hence, gata5 is a compelling mir-92 targeteduring early zebrafishdevelopment. these results suggest that gata5 is a bona fide target of mir-92."
+"consistent with this, an increase in gata5 transcript levels was observed in mir-92 morphants as compared with nics ."
+"these results show that the increase or reduction of endodermal cell numbers caused by raising or lowering gata5 levels, together with the finding that increased and decreased levels of mir-92 have converse effects that can be offset by altered gata5 expression, support the idea that the mir-92-gata5 regulatory interaction is involved in allocating correct endodermal cell numbers and maintaining proper left-right patterning."
+these results strongly support the hypothesis that mir-92 regulates endoderm formation and left-right asymmetry by controlling gata5 expression.
+"after mir-132 transfection,the expression of caspase 3 was up-regulated,whereas the expressions of p-akt and survivin were down-regulated."
+"compared with the blank control group and negative control group,the mir-132 transfection group had significantly decreased expression of survivin but increased positive expression of ki-67 and caspase 3."
+sqstm1 was identified as the only protein from the top 20 down-regulated hits for mir-93 with a predicted recognition site for mir-17/20/93/106/519 in the 3'-utr .
+"in addition to reduced protein levels, diminished sqstm1 mrna was detected by qpcr in cells expressing mir-93 ."
+these results indicate the predicted target-site as the important determinant for mir-17/20/93/106 mediated regulation of sqstm1 expression.
+confirming dnm2 mrna as a target for mir-133a.
+our results confirm that trim2 is a target of mir-200a.
+overexpression of mir-200a significantly inhibited luciferase activity in trim2 3'-utr-transfected striatal cell.
+mutation of mir-200a binding sites in 3'-utr region of trim2 abolished this inhibitory effect.
+trim2 is indeed a target of mir-200a.striatal
+cells transfected with mir-200a exhibited decreased trim2 protein levels.
+striatal cells transfected with mir-200a antisense displayed increased trim2 levels.
+"for mir941 to differentially influence cxcl12 expression depending on the cxcl12 3'-utr genotype, the expectation would be that it must be expressed in bm stroma cells, the main source of cxcl12 in bm."
+hif-1alpha is a key downstream target of mir-21 inregulating tumor angiogenesis.
+the results suggest that pten mediates mir-21-induced tumor angiogenesis in cam model .
+"consistent with that pten is one of the mir-21 target, mir-21 induced tumor angiogenesis."
+"these data suggest that both akt and erk1/2 are required for mir-21 in inducing angiogenesis, indicating that akt and erk1/2 pathways are two parallel downstream pathways of mir-21 for regulating hif-1alpha and vegf expression and angiogenesis."
+these results suggest that upregulation of hif-1alpha expression is necessary for mir-21 to induce tumor angiogenesis.
+"2 mir-21 induced hif-1alpha and vegf expression through targeting pten, thus regulating akt and erk pathways."
+"as a result, significant repression of luciferase activities was observed in mcf-7 cells co-transfected with wild 3 ' utr construct and mir-137 mimic compared to mutant construct groups , suggesting that mir-137 suppressed the translational activity of ctbp1 gene by targeting the binding site in the 3 ' utr of ctbp1 mrna."
+"meanwhile, ctbp1 mrna 3 ' utr bears a binding site of mir-137, and through transfection with mir-137, the expression levels of ctbp1 mrna and protein were both suppressed."
+both mir-144 and mir-451 directly target cugbp2 gene.
+"collectively, these data indicate that cugbp2 transcript may represent a genuine target of both mir-144 and mir-451."
+"mir-216a mimic significantly reduced the activity of cse 3'utr when compared with control transfected cells.notably,"
+mutation of mir-216a binding site inhibited mir-216amediated repression of cse 3'utr activity.
+"mir-216a mimic showed a significant reduction in cse mrna and protein levels , and production of endogenous of h2s in both dose- and time-dependent manners."
+"taken together, our results showed mir-216a regulated abca1 expression via cse/h2s/pi3k/akt pathway,loading to foam cell formation."
+"we identified a predicted a binding site for mir-216a in the 3'untranslated region of cse, but not abca1, and the sequence of mir-216a is highly conservative in different animal species."
+these data establish a critical role for mir-33 in the regulation of abca1 expression and hdl biogenesis in vivo.
+abca1 is a target of mir-33.
+"western blot analysis of abca1 in thp-1-rerived macrophages and hus-e/2 transfected with mir-control and mir-33, using a lentivirus vector."
+"the suppression of abca1 protein levels in response to sterol depletion was reversed by the mir-33 decoy gene , which was consistent with the notion that mir-33 mediates cholesterol-regulated posttranscriptional control of abca1 levels."
+these results demonstrate that socs1 is a direct target of mir-19a in gastric cancer cells.
+"taken together, our findings suggest that the socs1 gene is a direct target of mir-19a, which functions as an oncogenic mirna in gastric cancer by repressing the expression of tumor suppressor socs1."
+further study revealed that ikappabalpha was a target gene of mir-381.
+"furthermore, western blot analysis revealed that the overexpression of mir-381 obviously decreased the protein level of ikappabalpha . in comparison, the inhibition of mir-381 enhanced the expression of ikappabalpha ."
+these data suggest that ikappabalpha is a target gene of mir-381.
+these data indicated that mir-381 enhances nf-kappab activation through targeting ikappabalpha.
+lasp1 and tagln2 are targets of post-transcriptional repression by mir-1.
+mir-1 binding sites in 3- untranslated region of lasp1 and tagln2 mrnas.
+the 3'-utr of lasp1 and tagln2 mrnas are directly targeted by mir-1.
+"to better understand molecular action of mir-128 in glioma, we searched for potential targets of mir-128 by targetscan, and tested the potential targets using bioinformatic database."
+these results indicate that p70s6k1 is a direct target of mir-128 with the specific binding site at the seed sequence.
+the p70s6k1 protein levels were negatively correlated with mir-128 levels in glioma tissues.
+"here, we demonstrate that microrna-33 regulates abca1 and a -beta levels in the brain."
+these results demonstrated that mir-33 directly suppresses abca1 expression by targeting its 3' utr region.
+"inaddition, our study provides the first evidence that mir-33 is an endogenous regulator of abca1 in the brain and brain-specific mir-33 antagonism may be an effective strategy to modulate a -beta levels."
+"it is suggested that the deletion of chromosome 13 leads to the silencing of mir-15a and mir-16-1 expression, which causes an increase in the synthesis of anti-apoptotic protein bcl-2"
+"real-time pcr analysis showed that bcl-6, a potential targetgene of mir-339-5p, was downregulated in mda-mb-231 cells by mir-339-5p transfection."
+"our further study showed that mir-339-5p could significantly decrease tumor cell migration and invasion capacity, which associated with downregulation of bcl-6 expression in breast cancer cells."
+"our current study revealed that mir-339-5p could inhibit expression of bcl-6 mrna, which is associated with suppression of the migration and invasion of breast cancer cells."
+"recql1 is one of the predicted mir-203 targets, and we found that mir-203 downregulated the expression of recql1 at the post-transcriptional level."
+reexpression of mir-200 in cells expressing dn-hnf-1-beta decreased the levels of pkd1 .
+these findings indicate that hnf-1-beta controls the expression of zeb2 and pkd1 through its regulation of the mir-200 cluster.
+overexpression of mir-200 decreases pkd1 levels in hnf-1-beta mutant cells.
+"we find that sox4 is a target of mir-132 in b cells. in this study, we uncover a novel role for mir-212/132 as a regulator of early b cell development by targeting the transcription factor sox4. in this study, we have uncovered a novel role for mir-212/132 in regulating the differentiation of prepro-b cells to pro-b cells by targeting the transcription factor sox4."
+"these predictions were tested using mirna luciferase reporter vectors, with robo2 and srgap2 evaluated as the potential target of mir-145 and mir-214, respectively."
+"the role of mir-145 in cultured primary neurons was also investigated, and the result found that mir-145 mir-145 inhibited neurite growth and down-regulated robo2 expression."
+"a significant decrease in the expression of luciferase was observed for cells co-transfected with the full-length 3'-utr of the robo2 cdna and mir-145, as well as for the full-length 3'-utr of the srgap1 cdna and mir-214 ."
+cells transfected with the full-length 3'-utr of srgap1 and mir-145 oligonucleotides also exhibited a slight decrease in luciferase expression .
+the interaction of hsa-mir-381 and lrrc4 is involved in the pathogenesis of glioma.
+fig. 3 overexpression of lrrc4 inhibits endogenous expression of hsa-mir-381 in u251/lrrc4-cells.
+"however, when these chimeric plasmids were transfected with or without hsamir-381 in other cell lines, no significant differences were observed, indicating that hsa-mir-381 specifically target lrrc4 in brain cancer cells."
+"as shown by qrt-pcr and immunocytochemistry, overexpression of mature hsa-mir-381 in u251/lrrc4+ cells resulted in the down-regulation of lrrc4 at the mrna transcriptional and posttranscriptional levels ."
+mir-195 directly targets cyclin d1 by binding to its 3'-utr.
+our data indicated that cyclin d1 was a bona fide target of mir-195.
+"in particular, we find that mir-9 and mir-132 are able to repress ectopic expression of foxp2 protein by targeting its 3' untranslated region in vivo."
+convergent repression of foxp2 3'utr by mir-9 and mir-132 in embryonic mouseneocortex: implications for radial migration of neurons.
+"we then validated in vivo one of the identified target, foxp2, and found that convergent action of mir-9 and mir-132 prevents ectopic expression of foxp2 by targeting its 3'utr."
+"to determine the target gene controlled by mir-27a, we first searched three algorithm programs to predict the targets of mir-27a."
+"to compare the binding affinity of mir-27a with these four genes-mrnas including foxo1, prohibitin, zbtb10 and fbxw7, we used a dual-luciferase reporter system to examine their luciferase activity."
+"however, the affinity of fbxw7 mrna with mir-27a is of the highest with 50% luciferase activity suppression compared with nc treatment, while other three showed 30-37% activity suppression."
+these observations indicate that fbxw7 is also an important target of mir-27a.
+"the results showed that the level of fbxw7 mrna in hbelh cells transfected with 200 nm mir-27a mimic was decreased by 60% compared with mimic nc measured by quantitative rt-Êèöcr, indicating that mir-27a regulates fbxw7 expression by mrna degradation ."
+"thus, we further confirm that fbxw7 is one of the targets of mir-27a."
+"mir-217 is involved in tat-induced hiv-1 long terminal repeat transactivation by down-regulation of sirt1. in addition, mir-217 significantly inhibited sirt1 protein expression by acting on the 3'-utr of the sirt1 mrna. in addition, mir-217 significantly inhibited sirt1 protein expression by acting on the 3'-utr of the sirt1 mrna."
+"taken together, these data suggest that mir-217 reduces the efficiency of sirt1 mrna translation, rather than the abundance of the sirt1 mrna, by acting on a response element located in the sirt1 3'-utr."
+we performed in silico studies to predict downstream target of mir-217 and used functional assays to confirm that mir-217 downregulated sirt1 by directly acting on the sirt1 mrna.
+these results suggested that mir-26a might regulate ccnd2 and ccne2 expression by directly binding target sites in the 3- utr.
+ccnd2 and ccne2 are direct target genes of mir-26a.
+luciferase activity assays of wild-type and mutant ccne2 3- utr luciferase reporters after co-transfection with mir-26a mimics or normal control; c: luciferase activity assays of wildtype and mutant ccne1 3- utr luciferase reporters after cotransfection with mir-26a mimics or normal control.
+mir- 125b directly targets podxl.
+these results confirmed that mir-125b directly targeted podxl and regulated its expression at the transcriptional level.
+"previous studies have demonstrated that erbb2 is a target gene of mir-375 , that the pi3k/akt signal pathway is associated with erbb2 regulation, and that the activation of the erbb2/pi3k/akt signal pathway may promote drug resistance ; however, to the best of our knowledge, whether mir-375 alters the sensitivity of gastric cancer cells to ddp via regulation of the erbb2/pi3k/akt pathway is unknown."
+"western blotting demonstrated that upregulation of mir-375 expression levels in the sgc7901/ddp cells markedly decreased the protein expression levels of erbb2 and p-akt, as compared with the mir-control and sgc7901/ddp parental cells ."
+these results suggest that overexpression of mir-375 may sensitize sgc7901/ddp cells to the effects of ddp via inactivation of the erbb2/pi3k/akt pathway.
+"although the pten 3' utr is not a perfect match to the seed sequence of mir-21 because there was a g:u pair , a previous study showed that pten is a mir-21 targetin cholangiocarcinoma cell lines ."
+we thus hypothesized that pten is a direct mir-21 targetin k562 cells.
+"these results show that pten is a target of mir-21, and that overexpression of mir-21 activates the pi3k/akt pathway by decreasing the pten protein level."
+"among the validated mir-21 target genes, pdcd4 plays an important role in cancer cell migration . in our previous study, we showed that adar2 inhibits glioblastoma cell migration ."
+"here, we demonstrate that the expression of adar2 in glioblastoma cells can significantly down-modulate mir-21 and up-regulate pdcd4 protein levels in the u118 and a172 cell lines."
+transformer 2-beta and mir-204 regulate apoptosis through competitive binding to 3' utr of bcl2 mrna.
+the 3' -untranslated region of integrin--beta8 harbors a typical targetsequence for mir-93 .
+targeting of integrin--beta8 by mir-93 expression.
+"to test whether or not integrin-b8 expression was correlated with mir-93 levels, a number of human cell lines were analyzed for integrin-b8 expression by western blotting and mir-93 levels were analyzed by real-time pcr ."
+"overexpression of mica resulted in a 3-fold decrease in the b-galactosidase activity compared with the vector control,whereas overexpression of rybb had no noticeable effect on the expression of the ompt-lacz fusion."
+"based on conserved sequences in 3 ' utr for mir-99b binding, we identified the insulin-like growth factor-1 receptor gene as a direct target for mir-99b."
+"our results demonstrate that mir-99b is decreased in ca samples compared to that in normal skin, and mir-99b plays a role in cell proliferation by targeting igf-1r, which regulates the pi3k/akt signaling pathway."
+"such significant decrease in reporter activity was not seen when the reporter was in the vector containing the mutant igf-1r 3 ' -utr , in spite of the presence of mi-r99b, indicating that sequences in the 5602- 5607 bp region of the igf-1r 3 ' -utr indeed interact with mir-99b, inhibiting expression of igf-1r."
+"egfr was selected from several putative mir-133a target genes, since igf-1r has been shown to be involved in tumorigenesis and metastasis ."
+"5a, mir-133a contains two predicted binding sites in the 3'utr of egfr mrna."
+"to determine whether mir-133a affects the regulation of endogenous efgr, we transiently reintroduced the mir-133a mimic into hela cells."
+"we found that ectopic expression of mir-133a markedly reduced egfr protein expression in the hela cells , suggesting that egfr is a bona fide target of mir-133a."
+mir-182 was negatively correlated with rac1 by person analysis .
+"downregulation of mir-182 and upregulation of rac1, -beta-mhc, alpha-sma were found in high glucose-induced cardiomyocyte."
+"after transfection of mir-182 mimics, hypertrophic changes were significantly reduced and rac1 as well -beta-mhc expression was significantly downregulated in cardiomyocyte incubated with high glucose."
+microrna-182 modulates high glucose-induced cardiomyocyte hypertrophy via targeting rac1.
+"furthermore, dual-transfection of a549 cells with mir-155 sirna and apaf-1 sirna resulted in the attenuation of apoptosis and dna damage."
+the results showed that expression of mir-155 was significantly higher in lung cancer tissues than in paracancerous and normal tissues; whereas apaf-1 expression was lower in the lung cancerous tissues.
+zdhhc2 was identified as a direct target of mir-155 and downregulation of zdhhc2 prompted cell migration in npc.
+"collectively, inhibition of mir-155 suppresses cell migration in npc through targeting zdhhc2."
+"in our study, we found that mir-155 inhibitor could increase endogenous zdhhc2 protein expression in npc cne1 and tw03 cells, and luciferase reporter assay was performed to identify zdhhc2 as direct targets of mir-155."
+"we observed that mir-335 has a putative binding site in the 3'-utr of birc5. in both hek 293 t and sgc-7901 cells,mir-335 could only significantly weaken the relative luciferase activity of the reporter carrying wide-type sequences, but not the mutant construct."
+"downregulation of tumor suppressive mir-1285, which target oncogenic genes including tgm2, might contribute to rcc development."
+"furthermore, both tgm2 mrna and tgm2 protein expression levels were markedly downregulated in mir-1285 transfectants in comparison with the control transfectants ."
+our data indicated that upregulation of oncogenic tgm2 may be due to downregulation of tumor suppressive mir-1285 in human rcc progression.
+figure 3 mir-1285 directly regulates tgm2 in rcc cells.
+"fluoxetine, acting on serotonergic raphe neurons, decreases the amount of mir-16 in the hippocampus, which in turn increases the levels of the serotonin transporter , the target of sri, and that of bcl-2 and the number of cells positive for doublecortin, a marker of neuronal maturation."
+"neutralization of endogenous mir-16 by direct injection of anti-mir-16 in the hippocampus increased the levels of sert and bcl-2 and the number of dcx-positive cells, similarly to fluoxetine injection in the raphe ."
+"similarly, transfection of mir-125b inhibitor into hbecs increased 4e-bp1 protein expression ."
+"however, no significant change of 4e-bp1 mrna level was found after transfection of mir-125b mimic or inhibitor , suggesting that mir-125b can interfere with 4e-bp1 mrna translation but not degradation."
+"taken together, these results verified that 4e-bp1 mrna is a direct target of mir-125b."
+"however, knockdown of 4e-bp1 gene with sirna could abolish the effect of mir-125b on the further induction of ifn-alpha/-beta in beas-2b cells, which indicates that the effect of mir-125b was specifically caused by targeting of 4e-bp1 mrna."
+the 4e-bp1 protein expression levels inversely correlated with mir-125 levels in sinonasal mucosa .
+"at the same time, we also confirmed that stmn1 and cox2are the other targets of mir-102 in hcc"
+"transient transfection of mir-34c to either vsmcs or a10 cells inhibited cell survival by inducing apoptosis, which was accompanied by an increase in expression of p21, p27, and bax."
+vegfa and pik3r2 were confirmed as the target of mir-126 by luciferase reporter assay and western blot.
+"moreover, introduction of mir-126 mimics into mcf-7 could effectively down-regulate pik3r2 and vegfa expression and decrease the akt phosphorylation level . in conclusion, endothelial-specific mir-126 was excised from egfl7 pre-mrna without affecting splicing and expression of its host gene, and could targetboth vegfa and pik3r2."
+"we found a significant decrease in the expression level of mir-101a , and a significant increase in that of cox-2 both at the mrna and protein levels."
+"the expression levels of ezh2 and cfos, other targets of mir-101a , were not significantly altered at the mrna level but substantially increased at the protein level ."
+the increase in the protein amount without a significant change in the rna amount indicated that ezh2 and cfos were regulated post-transcriptionally in the liver of the mice.
+"to furthermore determine whether extracellular timp-1 is sufficient to induce mir-210 upregulation, we incubated a549l with recombinant timp-1 in a concentration similar to timp-1 levels in lung cancer patients 13 or with medium conditioned by timp-1 overexpressing cells."
+we found significant upregulation of mature mir-210 as well as pri-mir-210 upon extracellular timp-1 stimulation which suggests a paracrine mode-of-action by which timp-1 can induce mir-210 in a549l adenocarcinoma cells.
+we could also verify the underlying concept as a knockdown of timp-1 led to a reduction of pri-mir-210 and mir-210 in a human ovarian carcinoma cell line as well as a decrease of primir-210 in a549l lung adenocarcinoma cells.
+we could show that timp-1-induced increase of mir-210 levels were sufficient to trigger its regulative role and to decrease mir-210 targets.
+"inhibits hcmv ie1 gene expression, and acts as an immune response inhibitor to help viral replication.inhibits"
+"hcmv ie1gene expression, and acts as an immune response inhibitor to help viral replication specifically downregulates micb expression during viral infection, leading to decreased binding of nkg2d and reduced killing by nk cells."
+"the downstream targets of hsa-mir-21, pten and programmed cell death 4, were found to be greatly reduced in 3 of 4 cholesteatoma samples."
+"this study specifically identified up-regulation of hsa-mir-21 concurrent with down-regulation of potent tumor suppressor proteins pten and programmed cell death 4. these proteins control aspects of apoptosis, proliferation, invasion, and migration."
+a significantly negative effect on luciferase activity was observed in the presence of mir-126 on the 3 utr of plk2.
+these results indicate that plk2 is a bona fide target of mir-126.
+"using mirna target-detecting software, we analyze the mrna sequence of ngal and identify a target site for microrna-138 in nucleotides 25-53 of the 3' utr."
+"this finding led to our investigation of the role of mir-138, a multi-functional molecular regulator which may regulate ngal expression and thereby play a role in ngal-induced tumorigenesis. the results suggested that the ngal gene was a target of mir-138, which down-regulated ngal protein expression via post-translational modification."
+mir-141 inhibits tm4sf1 protein expression.
+these results suggest that mir-141 directly targets tm4sf1 via the binding site in its 3'-utr region.
+these results indicate that the expression levels of mir-143 are decreased in patients with ds. the expression of mir-143 may be related to the increase expression of cox-2.
+"transfection of mir-182 into muscle cells decreased foxo3 mrna 30% and foxo3 protein 67% and also prevented a glucocorticoid-induced upregulation of multiple foxo3 gene targets including mafbx/atrogin-1, autophagy-related protein 12 , cathepsin l, and microtubule-associated protein light chain 3 ."
+"moreover, mir-26b was found to negatively regulate cox-2 protein level by directly targeting its 3'-utr."
+"in addition, we found cox-2 is a potential target of mir-26b."
+these results suggest that mir-26b can specifically bind to the 3'-utr of cox-2.
+"taken together, these results indicate cox-2 is a direct downstream target of mir-26b in lung cancer cells."
+"direct interaction between mir-197 and p120 catenin mrna sequence was confirmed by 3'utr assay, and knockdown of p120 catenin recapitulated emt induction in pancreatic cancer cells."
+the 3' utr sequence of p120 catenin mrna contained seed sequence which possibly interact with mir-197 .
+"based on these results, we concluded that p120 catenin is a direct target of mir-197."
+these results indicate that attenuated expression of p120 catenin in ida could be explained by increased mir-197 expression to certain extent.
+over-expression of let-7c or let-7g led to a clear decrease of bcl-xl expression in huh7 and hepg2 cel lines.
+reporter assays revealed direct post-transcriptional regulation involving let-7c or let-7g and the 30-untranslated region of bcl-xl mrna.
+"let-7c and let-7g downregulate bcl-xl expression by directly targeting the 3'utr of bcl-xl mrna. in conclusion, we have demonstrated that let-7 mirna negatively regulates bcl-xl expression in hccs."
+"a single base mutation prevented the downregulation of firefly luciferase induced by let-7c or let-7g, which strongly suggests a direct inhibitory effect of let-7 on bcl-xl expression ."
+these results are consistent with the hypothesis that let-7 mirnas negatively regulate bcl-xl expression independent of transcriptional regulation.
+sufu is a direct target of mir-214 in lad cells.
+mir-214 promotes lad metastasis by directly targeting sufu.
+sufu was a direct functional target of mir-214 in lad metastasis.
+mir-133a sensitized doxorubicin response in doxorubicin-resistant breast cancer cell sub-line mcf-7/dox via its direct regulation of ucp-2 expression.
+"furthermore, rip verified the interaction between hnrnpa2b1 and lnc-hc in vivo, and surprisingly hnrnpa2b1 also directly bound to cyp7a1 and abca1 mrnas ."
+"rip assay showed that lnc-hc-nucleoprotein complex could bind to the cyp7a1 and abca1 mrnas, whereas lnc-hc did not bind to target mrnas in the absence of nucleoproteins ."
+"lnc-hc increased the expression of hnrnpa2b1 in nucleus and they formed an rna-protein complex, which further bound to the target mrnas, cyp7a1 and abca1."
+"it is noteworthy that dnmt3a/3b expression levels exhibited an inverse correlation with mir29b, which suggested that these molecules are targets of mir29b and are negatively regulated by mir29b in mouse early embryos."
+we showed that the mir-16 overexpression reduces cyclin d1 and bcl2 at messenger rna and protein levels in mcf-7 cell line.
+"furthermore, alk was identified as a target of mir-1271, alk overexpression remarkably attenuated the tumor suppressive effects of mir-1271 on oscc cells."
+our findings indicate that mir-1271 acts as tumor suppressor in oscc and might be used as an therapeutic target for the development of treatment for oscc.
+"we identify mir-130/301, which are dramatically up-regulated following t-cellactivation, as able to down-regulate cd69 expression via binding to a conserved site in the 3'utr of cd69 mrna."
+"there are four members of the mir-130/301 family in the mouse genome: mir-130a, mir-130b, mir-301a, and mir-301b ."
+"6c, mir-130b and mir-301a slightly but consistently down-regulated cd69 expression in dicer / cd8+ t cells compared with scrambled oligo controls."
+"moreover, combining mir-130b and mir-301a oligos resulted in a more substantial down-regulation of cd69 expression in dicer / cd8+ t cells."
+"taken together, these data suggest that mir-130/301 expression are dramatically enhanced after t-cell activation and down-regulate cd69 expression in cd8+ t cells."
+"we demonstrate that mir-30b/c and mir-21 target respectively the 3' untranslated region of caspase-3 and tap63 mrnas, and that those proteins mediate some of the effects of mir-30 and -21 on trail resistance, even in human glioblastoma primary cells and in lung cancer cells."
+programmed cell death 10 is the direct target of mir-425-5p which is required for the regulatory role of mir-425-5p in chemoresistance.
+we provided evidence that mir-425-5p can directly modulate chemoresistance in these cells by regulating the expression level of its downstream target pdcd10 both in vitro and in vivo.
+"as shown in figure 4e, cotransfection of mir-425-5p precursor with wild-type pdcd103 0 -utr reporter construct significantly repressed relative luciferase activity, whereas mutation of the mir-425-5p-binding site eliminated this effect, supporting that pdcd10 is a direct target of mir-425-5p in crc cells."
+"using bioinformatics method, combined with experimental approaches, we identified pdcd10 as the directly target of mir-425-5p as demonstrated by both western blot analysis as well as luciferase assay ."
+"these results suggest that catalase and stathmin are likely to be direct targets of mir-7 in cho cells, though further work would need to be carried out to confirm this."
+direct interaction between mir146a and its predictive targetgene smad4 were confirmed by luciferase assay.
+down-regulation of mir-146a and upregulation of smad4 at protein levels were demonstrated.
+these data suggested that mir-146a might influence proliferation of apl cells through tgf-beta1/smad signal transduction pathway during atra induction.
+"looking for the effectors of these antineoplastic functions, we identified adam9 and mmp7, two metalloproteases playing a pivotal role in melanoma progression, as direct targets of mir-126&126*."
+"mir-126&126* play their tumor suppression function through the direct inhibition of adam9 and mmp7, in turn impairing the activation of their common target heparin-binding egf-like growth factor . as shown , co-transfection experiments with the wildtype 39utr regions of adam9 and mmp7 showed a significant inhibition of the luciferase activity, thus confirming the direct targeting of mir-126&126*."
+"in this report, we demonstrated that adam9 and mmp7 were direct targets of mir-126&mir-126*, whereas they only indirectly regulated opn , possibly through an auto-sustaining loop linking opn and mmp7 ."
+"mcas could base-pair with the flhd 5'-utr in two regions, relieving the secondary structure around the ribosome binding site, resulting in increased translation of the flhd and flhc proteins."
+"at the molecular level, the results showed that glycogen synthase kinase-3 -beta was identified as a target of mir- 26a, and the ectopic expression of mir-26a inhibited gsk-3 -beta by directly binding to the 3'-utr."
+mir- 26a downregulates gsk- 3 -beta through binding to the 3'utr of gsk- 3 -beta mrna.
+"additionally, gsk-3 -beta was indicated to be a target of mir-26a, and mir-26a expression was negatively correlated with gsk-3 -beta expression in the os tissues."
+ovarian cancer patients with high hmga2 and low let-7 expression in their cancer cells had a lower survival than patients with a low hmga2/high let-7 ratio.
+hmga2 upregulation occurs early during oc progression before the tumors begin to metastasize both in human patients and in an oc mouse model.hmga2 is a more sensitive target of let-7 than ras.
+"mir-22 exhibited excellent anti-lung cancer activity in vitro and in vivo, and post-transcriptional regulation of erbb3 might be a potential mechanism."
+all these results indicated that mir-22 exert inhibitory effects on erbb3 expression via interaction with the 3'-utr of erbb3.
+"additionally, over-expression of erbb3 in a549 and h1299 cells significantly prevents the inhibitory effects of mir-22 on proliferation and invasion."
+"the cell cycle regulator ccnd1, and ras-mapk pathway components grb2, erk2 and rsk2 were directly repressed by mir-634 overexpression."
+"we show that mir-634 regulates cyclin d1 and several ras-mapk pathway components , which may contribute to the effects of mir-634 on ovarian cancer cell survival and chemotherapy response."
+"as expected, mir-634 could inhibit the 3'-utr of ccnd1 and grb2, the erk2 3'-utr and the rsk2 3'-utr . in addition, we observed that mir-634 overexpression in ovarian cancer cell lines and patient samples negatively regulates important cell-cycle genes and ras-mapk pathway components ."
+our previous study has identified jak2 as a downstream target of mir-375 .
+mir-375 may inhibit the migration and invasion of gastric cancer cells partially by targeting jak2.
+we further determined that jak2 overexpression has no effect on the expression level of mir-375 as shown in figure s3.
+"thus, our results indicate that mir-124 regulates the expression of hes-1 at the post-transcriptional level and is involved in the retinoic acid-induced neuronal differentiation of p19 cells."
+"these results suggest that the expression of mir-124 might be associated with the differentiation of p19 cells. in addition, it is possible that a relationship exists between mir-124 and hes-1. in contrast, the level of hes-1 protein increased in the presence of lna-mir-124 ; however, the level of hes-1 mrna was unchanged ."
+these results strengthen our hypothesis that mir-124 regulates the expression of hes-1.
+lsy-6 exerts its effects on asel through repression of cog-1.
+here we show that hmga2 promotes lung cancer progression in mouse and human cells by operating as a competing endogenous rna for the let-7 microrna family.
+"hmga2 can promote the transformation of lung cancer cells independent of protein-coding function but dependent upon the presence of let-7 sites; this occurs without changes in the levels of let-7 isoforms, suggesting that hmga2 affects let-7 activity by altering mirna targeting."
+"taken together, these results suggest that the hmga2 transcript functions in a largely protein coding-independent but let-7 site-dependent manner to promote lung cancer cell transformation in vitro."
+"thus, these results demonstrate hmga2, via its let-7 binding sites, displaces tgfbr3 from mirna-mediated repression by risc. in total, these results suggest the hmga2 cerna directly functions by blocking recruitment of tgfbr3 to the ago2-based mirna repression complex."
+"mir-145 delivery reduced tumor proliferation and increased apoptosis, with concomitant repression of c-myc and erk5 as novel regulatory target of mir-145."
+mir-34a and c-met are inversely expressed in human hcc tissues.
+western blot results showed that overexpression of mir-34a and knockdown of c-met by sirna resulted in a significant decrease of endogenous c-met protein levels compared to mock or nc transfection in hepg2 cells .
+the results showed that overexpression of mir-34a in hepg2 cells led to a corresponding decrease of endogenous c-met mrna .
+"these results demonstrated mir-206 inhibited c-met and bcl2 expression in a549 cells, and loss of mir-206 would be attributed to the over-expression of c-met and bcl2 in lung cancer cells, which were the risks of nscls."
+"second, mir-206 can directly regulate mrna expression by targeting the 3'-utr of met and bcl2, and inhibit protein expression of cyclin d1 and gene expression of cyclin d1, cyclin d2 and matrix metalloproteinase 9 , while increased p57 gene expression in lung cancer cell ."
+"using frozen tumor tissues from 10 additional patients who had advanced ea, we evaluated the correlation of mir-196a with its in silico-predicted targets, keratin 5 , small proline-rich protein 2c , and s100 calcium-binding protein a9 , which are down-regulated during be progression."
+"we confirmed that mir-196a specifically targets krt5, sprr2c, and s100a9 3' utrs using mir-196a-mimic and luciferase reporter-based assays. in conclusion, this study identified mir-196a as a potential marker of progression of be and krt5, sprr2c, and s100a9 as its targets."
+"klhl12, rock2, tal1, cmpk1, snai2, and snai1 are regulated by ncrna-a2 through ncrna-a7, respectively."
+knockdown of ncrna-a7 in a549 cells represses the expression of snai1 specifically and diminishes cell migration to levels similar to that seen when knocking down snai1.
+ncrna-a7 serves as a transcriptional enhancer of snai1.
+"furthermore, gli3 silencing recapitulated the effects of mir-506, and reintroduction of gli3 abrogated mir-506-induced cell growth arrest and apoptosis."
+"downregulated mir-10a could accelerate ikappab degradation and nf-kappab activation by targeting irak4, tak1 and btrc."
+"collectively, these findings indicated that irak4, tak1 and btrc are specifically regulated by mir-10a in ra fls cells, and tnf-alpha and il-1-beta regulate these molecules at least partly via repressing mir-10a."
+further investigation demonstrated that mir-214 downregulated a2ar expression by directly targeting the 3'-untranslated region of a2ar mrna.
+these observations demonstrated that mir-214 inhibits a2ar translation and directly interacts with 3'-utr of a2ar mrna.
+these results strongly suggest that mir-503 down-re gulates the expression of fgf2 by directly targeting its 3'-utr.
+these results indicate that mir-503 down-re gulates the expression of vegfa through binding to its 3'-utr.
+"taken together, these results indicate that mir-503 down-regulates fgf2 and vegfa expression at both mrna and protein levels by directly targeting to their 3'-utrs."
+these data indicated that the reduced tumor angiogenesis capacity for the mir-503 transfected tumor cells at least partially due to mir-503-med iated downregulation of fgf2 and vegfa.
+"together, these results suggest that mir-503 significantly inhibits tumor growth and angiogen esis in vivo by down-regul ating fgf2 and vegfa expression."
+"this study demonstrates that mir-338-3p inhibits proliferation by regulating cyclind1, and hbx down-regulates mir-338-3p in hcc."
+"these results suggest that lust is a novel, functional, non-coding rna that plays a role in determining the apoptotic fate of a cell by regulating the expression of rbm5 splice variants."
+our data demonstrate that neuropilin 1 is a direct target of mir-320a and that mir-320a-mediated suppres- sion of nrp-1 is dependent upon the nrp-1 3'utr.
+these data support the idea that nrp-1 is a direct target of mir-320a.
+real-time pcr analysis indicated that the expression of nrp-1 in lovo cells transfected with mir-320a was downregulated compared to those cells transfected with control constructs .
+our study demonstrates that mir-320a may suppress the invasion and metastasis of crc by directly binding to the 3'utr of nrp-1.
+regulation of the dmpk gene by mir-206 and mir-148a.
+we identified sp1 protein as a target of mir-711 using luciferase assay and western blot analysis .
+"sp1 protein is negatively regulated by mir-711 in cardiac fibroblasts, and its mrna expression is not altered by mir-711 ."
+the findings in this study show that cyar transcription is dependent on the camp-crp complex and that cyar rna plays a major role in carbon catabolite regulation of ompx expression.the
+conservation of cyar and the ompx shine dalgarno region suggests that cyar rna acts as a posttranslation regulator of ompx expression by an antisense mechanism in many enterobacteriaceae.
+"moreover, partial mutation of the perfectly complementary sites in the 3'-utr of smad4 abolished the suppressive effect due to the disruption of the interaction between mir-34a and smad4 ."
+these data suggest that smad4 expression was primarily inhibited by mir-34a at the translational level.
+"together, these results confirmed that smad4 is a direct target of mir-34a and is regulated by mir-34a in cc cell lines."
+we demonstrated that mir145 negatively regulates gbm tumorigenesis by targeting oct4 and sox2 in gbm-cd133 .
+"taken together, our data indicated that the downregulation of mir145 is accompanied by an upregulation of sox2 and oct4 in gbm-associated cscs and high-grade gbms, in which mir145 and these stemness factors may play pivotal roles in mediating gbm malignancy."
+fig. 4. mir145 mediated the downregulation of oct4 and sox2 by directly targeting the oct4 and sox2 3' utrs.
+the results indicated that mir145 mediated the downregulation of oct4 and sox2 by directly targeting the oct4 and sox2 3' utrs .
+these results validated the signal transduction of mir145 and it downstream target sox2 and oct4 in gbm and gbm-associated cscs.
+"fih1 therefore may represent a very attractive common target for mir-31 and -148a implicated in gmb. the mir-148a-mediated modulation was abolished by a mutation within the binding site 1, indicating that mir-148a directly binds and represses fih1 expression ."
+"altogether, these data indicate that high levels of mir-31 or mir-148a promote glioma growth by down-regulation of fih1 and thereby enhancing hif1alpha and notch pathway activity, tumor angiogenesis, and tumor progenitor expansion even in the normoxic conditions ."
+"in mice, knockdown of mir-192 led to up-regulation of atp1b1 protein."
+"interestingly, mir-192 appeared to target atp1b1 through the 5'-, rather than 3'-untranslated region."
+mir-192 regulates atp1b1 expression and na + /k + - atpase activity in human kidney cells.
+"overall, these results suggested mir-192 interaction with atp1b1 5'-utr as the possible mechanism by which mir-192 reduces atp1b1 abundance."
+we also showed that mir-192 interacted with atp1b1 in an unconventional manner involving the 5'-utr.
+"based on the above analysis, it was suggested that mir-19a induced nf-kappab activation, predominantly by targeting ikappabalpha, in the human gastric carcinoma cells."
+modulation of mir-34a expression was correlated with bcl-2 and cyclin d1 protein expression changes and a direct interaction of mir-34a with bcl-2 was shown by luciferase assay.
+"by reducing luciferase activity, this shows that mir-34a directly interacts with the 3' utr region of the bcl-2 gene."
+fig. 3 mir-34a regulates bcl-2 and cyclin d1 in mcf-7 breast cancer cells.
+"to further investigate whether mir-320 regulates mmp-13 expression during chondrogenesis, we inhibited or overexpressed mir-320 in atdc5 cells."
+the mir-320 inhibitor induced a significant increase in the expression of mmp-13 and an obvious decrease in the expression of col2a1.
+an opposing expression pattern between col10a1 and mir-320 was not detected when mir-320 was inhibited or overexpressed in atdc5 .
+"these results demonstrated that mir-320 reduced luciferase activity by binding to the 3'-utr of mmp-13, and that mmp-13 is a target for mir-320-mediated repression."
+"rock1 and rock2, both containing a mir-144-binding site in the 3'-utrs ,5a, were selected for further experimental validation, in view of their critical roles in tumor cell proliferation and invasion ."
+we further examined whether rock1 and rock2 levels are negatively regulated by mir-144 in os cell lines.
+we also confirmed elevated mir-144 with reduced rock1 and rock2 protein in mir-144-overexpressing tumors of nude mice.
+we conclude that rock1 and rock2 are direct downstream targets of mir-144 in os cells.
+"significantly, foxa1 was identified as a direct target of mir-212 in hcc."
+"thus, our data strongly suggest that foxa1 is a target of mir-212 in hcc. in sum, these data indicate that mir-212 suppresses hcc cell proliferation and induces apoptosis by inhibiting foxa1."
+"herein, we validated foxa1 as a direct functional target of mir-212 in hcc."
+"lsd1 is a direct target of mir-137. in addition, we have successfully validated lsd1, a key element of the epigenetic machinery, as one of the target of mir-137.we next explored the functional interaction between mir-137 and lsd1 ."
+"the expression levels of mir-137 and lsd1 mrna were determined in six crc cell lines by taqman rt-pcr and rt-pcr, respectively . in crc cell lines with lower endogenous mir-137 expression , a higher lsd1 expression level was observed, whereas in the ht29 cell line, which has higher expression levels of mir-137, the amount of lsd1 was much lower."
+"to determine if the 3'-utr region of lsd1 was indeed a functional targetsite of mir-137, a luciferase reporter plasmid harboring either wild-type or mutated predicted region of interaction at the lsd1 3'-utr region was constructed."
+the dual luciferase activity assay revealed that mirna-181b downregulated bcl-2 expression.
+the results from western blot analysis showed a reduced bcl-2 expression following mir-181b transfection but an enhanced caspase-3 activity in mirna-181b mimic-transfected pdac cells.
+"we also performed elisa to detect caspase-3 activity and found that caspase-3 activity increased with mirna-181b overexpression, but was reduced following treatment with a mirna-181b inhibitor."
+we also performed bioinformatics analyses and found there are 2 potential mir-181b target sites in the bcl-2 3'utr.
+h19 interacts with mir-103/107 and regulates mir-103/107 expression
+these results confirmed that mir-32 regulated dab2ip by targeting its 3'-utr and suppressing its translation.
+"in conclusion, the present study demonstrated that mir-32 directly targeted dab2ip in pca, and induced dab2ip-deficient radioresistant human pca cells."
+"moreover, the findings demonstrated the critical role of mir-32 in inhibiting the mtor-s6k pathway and suppressing autophagy by targeting dab2ip."
+mir34a rise is linked to activation of p53 and results in sensitization to apoptosis and impaired nutrient-induced secretion.
+treatment with oligonucleotides that block mir34a or mir146 activity partially protects palmitate-treated cells from apoptosis but is insufficient to restore normal secretion.
+results showed that mir-22 repressed the luciferase activity through 3'-utr of hdac6 compared with the mir-nc transfection control group.
+"taken together, these results revealed that mir-22 regulates hdac6 protein expression through its 3'-utr, indicating that hdac6 might be involved in the regulation of adipo/osteogenic differentiation of hadmscs."
+"transfection of mir-22 mimics into hadmscs resulted in upregulation of hdac6 protein expression without changing the mrna expression of hdac6, confirming that mir-22 suppressed hdac6 expression at a post-transcription level."
+negative association was defined between the expression of mir-1294 and the c-myc expression in escc patients .
+"additionally, it was found that mir-1294 suppress esophageal cancer cells proliferation, migration and invasion capacity through targeting c-myc in vitro."
+"these results indicate that mir-1294 may suppress c-myc expression through binding to seed sequence at the 3'-utr of c-myc, and c-myc may be a direct target gene of mir-1294."
+these results indicated that mir-1294 repressed endogenous c-myc expression in esophageal cancer cells by directly cutting c-myc mrna.
+microrna-207 enhances radiation-induced apoptosis by directly targeting akt3 in cochlea hair cells.microrna-207
+"furthermore, akt3 was confirmed to be a direct target of mir-207."
+downregulation of akt3 mimics the effects of mir-207.
+mir-207 enhances ir-induced apoptosis by directly targeting akt3 and anti-mir-207 may have a potential role in protecting cochlea hair cells from ir.
+"thus, these data suggest that meg3 may regulate skp2 at post-transcriptional level to alter p27-mediated cell growth arrest."
+"in renal mesangial cells, high glucose increased the expression of mir-21, which targeted the 3'-utr of pten mrna to inhibit pten protein expression. in support of the notion that the 3'-utr of pten mrna is a direct targetfor mir-21, we found increased expression of pre-mir-21 and mature mir-21 in the kidney cortex of diabetic mice compared with control mice ."
+these results indicate that mir-21 may contribute to the reduction in pten that may regulate the pathologic features of diabetic nephropathy.
+figure 2.high glucose increases mir-21 to target 3'-utr of pten mrna in mesangial cells.
+these results suggest that mir-21 regulates the expression of pten in response to high glucose in mesangial cells.
+socs6 is a target of mir-155 in breast cancer cells.
+gpc3 as a direct downstream target of mir-219-5p.
+these findings indicate that mir-219-5p exerts tumor-suppressive effects in hepatic carcinogenesis through negative regulation of gpc3 expression.
+bioinformatics analysis has indicated that gpc3 is a putative target of mir-219-5p.
+"dual-luciferase assay, qrt-pcr and western blot analysis identified gpc3 as one of the genes directly targeted by mir-219-5p."
+a decrease in mir-219-5p expression was shown to be inversely correlated with gpc3 protein expression levels in 45 pairs of hcc tissue samples.
+these results suggest that mir-219-5p interacts with gpc3 and negatively regulates its expression.
+cse1l is the targetgene of mir-137.
+these results suggested a direct interaction between mir-137 and putative binding site on cse1l.
+"sequence analysis indicated that mir-137 formed complementary base pairing at nucleotides 482- 488 of cse1l 3'-utr, and mir-137 binding site on 3'-utr of cse1l was conserved across eight species ."
+the results suggested that mir-137 targeted cse1l and regulated its expression at translation level.
+"these results were similar to that of overexpression of mir-137, suggesting that mir-137 inhibits growth of glioma cells by negatively regulating cse1l expression."
+"acvr2b is a direct target of mir-192, mir-215, mir-194, mir-141 and mir-200c."
+the 2582-c2610 and 9188-c9216 targetregions of mir-215 showed a significant downregulation of the luciferase activity following the transfection of the mir-215 precursor.
+"mir-192, mir-194, mir-215, mir-200c and mir-141 are downregulated and their common targetacvr2b is strongly expressed in renal childhood neoplasms."
+"luciferase reporter assays were performed to determine whether the 3'-utr regions of acvr2b were indeed functional targetregions of mir-192, mir-215, mir-194, mir-141 and mir-200c."
+these results validate the in silico prediction of cox2 as a target of mir-101b and suggest that cox2 expression could be modulated through wnt-5a signaling via mir-101b.
+luciferase reporter assay showed that let-7a directly targets the 3'-utrs of hmga2 in aa-sp+ cells.
+these data demonstrated that let-7a directly targets hmga2 through their 3'-utr regions.
+"these data demonstrated that let-7a directly targets hmga2 through their 3'-utr regions. in the present study, luciferase reporter assay showed that let-7a directly targets the 3'-utrs of hmga2 in aa-sp+."
+"we propose that cocaine would downregulate zfmor, zfdor1 and zfdor2 via dre-let-7d, since overexpression and knockdowns of opioid receptors altered the expression of dre-let-7d and its precursors at 48 hpf of zebrafish development."
+"finally, we showed that mir-34a's underlying mechanism during cardiac fibrosis occurs through the targeting of smad4 expression."
+"our findings provide evidence that mir-34a plays a critical role in the progression of cardiac tissue fibrosis by directly targeting smad4, which suggests that mir-34a may be new marker for cardiac fibrosis progression and that inhibition of mir-34a may be a promising strategy in the treatment of cardiac fibrosis."
+"as shown in figure 5b and c , transfection of mir-34a precursors clearly reduced luciferase activity for the wild-type reporter but did not for the mutant type smad4 3ÂûÑutr, which confirmed that smad4 is directly modulated by mir-34a."
+cdk6 had already been implicated as a mirna-107 target .
+"expression of the kinase was assessed only after overexpressing mirna-107, and it was left open whether cdk6 is regulated solely at the protein level or if cdk6 mrna degradation is induced by mirna-107."
+overexpression of mirna-107 led to a decrease of cdk6 reporter activity .
+this supports the notion that cdk6 is directly controlled by mirna-107.
+"in summary, the results indicate that cdk6 and p130 protein levels are under control of mirna-107 but p130 may not be a direct target of this mirna."
+"furthermore, we demonstrate mir-29 inhibition of cdk6 protein and mrna levels by direct binding to 3'-untranslated region."
+"ectopic expression of mir-29a, mir-29b, or mir-29c significantly reduced cdk6 expression in mino and hek293t cells."
+"taken collectively, these data indicate that cdk6 is a direct target of mir-29 family."
+these findings demonstrate mir-29 regulation of cdk6 in vivo and frequent overexpression of cdk6 in mcl.
+"additionally, we showed mir-214 post-transcriptionally regulated the expression of plgf as demonstrated by luciferase reporter assays using wild-type and mutant plgf-3'-utr constructs."
+we conclude from these results that plgf has functional mir-214-binding sites in its mrna 3'-utr.
+"thus, in the presence of high ha density, mir-146a-mediated rock1 silencing may play an important role in suppressing hrpc-associated tumorigenecity, such as cancer cell proliferation."
+"mature mir-146a could bind to two highly complementary target sequences located in nucleotides 678- 699 and 1504- 1525 of the rock1 gene transcript, indicating that rock1 mrna was a strong target for mir-146a."
+our results validated that mir-146a triggered a strong and specific silencing effect on the targeted rock1 gene as predicted.
+c-myc as a direct mir-135a targetin rcc cell lines.
+"to determine whether the 3'-utr of c-myc contained an actual targetsite for mir-135a, we carried out a luciferase reporter assay using a vector encoding the full-length 3'-utr of the c-myc gene."
+"our data showed that luminescence intensity was significantly reduced in mir-135a transfectants compared to mir-control transfectants . in conclusion, mir-135a was significantly downregulated in rcc clinical specimens and appeared to function as a tumor suppressor in rcc through regulation of c-myc expression and cell cycle progression."
+figure 3.direct regulation of myc by mir-135a in the rcc cell lines.
+"we found that ir induced cardiomyocytes autophagy, together with down-regulation of mir-204 and up-regulation of lc3-ii protein."
+"and, we have found that lc3-ii protein was regulated by mir-204, using the method of transferring mir-204 mimic or amo-204 into the cardiomyocytes, before."
+"the relative expression of map3k8 mrna was unchanged by either 5-aza-cdr or by overexpression on il-6. to experimentally verify that map3k8 is a bona fide target of translational regulation by mir-370, several studies were performed."
+"first, we verified that map3k8 is a targetfor mir-370 using luciferase reporter constructs containing the mir-370 recognition sequence from the 3'-utr of map3k8 inserted downstream of the luciferase gene."
+"taken together, these data indicate that map3k8 is a biologically relevant target of mir-370 and that upregulation of map3k8 is not a general result of promotion of cell proliferation."
+"a target prediction program, targetscan,showed that mucin 1 may be a potential target of mir-145."
+the 3'-utr of the mucin 1 mrna contains a conserved binding site for the seed region of mir-145.
+"conversely, in luciferase assays using a plasmid harboring a mutant version of the mucin 1 mrna 3 '-utr ,the luciferase activity of the mutant reporter was unaffected by transfection of mir-145 into a549 and nci-h520 cells ."
+these data suggest that mir-145 may suppress mucin1 gene expression through the mir-145 binding sequence in its 3 '-utr.
+"fbxo11 was indicated to be a potential target gene of mir-621, which was also found as a downregulated deg in pcr patients in the training set ."
+"accordingly, fbxo11 was also identified as a mir-621-associated deg by corna analysis."
+"we found that overexpression of mir-621 could significantly decrease the expression of fbxo11 in hct116 wt cells, but not in hct116 dicer-/- cells , suggesting that the repression of fbxo11 by mir-621 is dicer-dependent."
+"in accordance, mir-621 overexpression significantly repressed the activity of a luciferase reporter fused to fbxo11 3'-utr, but not the one fused to fbxo11 3'-utr mutant in which mir-621-recognition site was deleted ."
+all these data strongly support that mir-621 may repress fbxo11 expression through recognition of its binding site within fbxo11 3'-utr in human cancer cells.
+from this screen we identified and characterized mir-148a as a negative regulator of ldlr expression and activity and defined a sterol regulatory element-binding protein 1 -mediated pathway through which mir-148a regulates ldl-c uptake.
+here we show that mir-148a directly controls ldlr activity and is transcriptionally activated by srebp1c in vitro and in vivo.
+"using computational prediction, we found that the 3'utr of carma1 mrna contains one mir-539 binding site."
+"the luciferase activity assays indicated that mir-539 mimics significantly inhibited and anti-mir-539 significantly increased the reporter activity of the wild-type but not that of the mutant carma1 3'-utr, suggesting that mir-539 directly binds to this site ."
+"overexpression of mir-539 dramatically decreased carma1 at the mrna and protein level, whereas anti-mir-539 increased carma1 levels in k1 cells."
+"mmp-2 and mmp-9 were identified as potential target for mir-29a and mir-133a, respectively, and mmp-2 was subsequently verified as a mir-29a targetin vitro."
+"lastly, to examine the relationship between total mmp-2 protein abundance and mir-29a expression in the aortic specimens, linear least-squares regression modeling was again performed, and a significant inverse relationship between mir-29a expression and total mmp-2 abundance was identified ; indicating that as mir-29a decreased, the relative abundance of mmp-2 increased ."
+"the results demonstrated that overexpression of mir-29a attenuated total mmp-2 protein abundance, while overexpression of anti-mir-29a enhanced total mmp-2 protein abundance."
+"mir-27a*, mir-378, and mir-30e directly target perforin and/or grzb, which are significantly down-regulated in denv patients."
+dkk-1 and dact3 are direct targetcandidates of mir-31.
+"collectively, these experiments strongly suggested that mir-31 modulates dkk-1 and dact3 via post-transcriptional and translational-inhibitory mechanisms in cultured normal respiratory epithelia and lung cancer cells."
+"collectively, these experiments strongly suggest that mir-31 directly interacts with 3'-utrs of dkk-1 and dact3."
+"among these p53/mir-34 associated processes, apoptosis and cell cycle arrest are known as essential for p53/mir-34-mediated tumor suppression."
+"a negative correlation between mir-27a and bak was also observed in normal breast epithelial cell line mcf-10a and bc cell lines, suggesting that the bak is the potential target of mir-27a."
+"these results suggest that the gene of bak is a functional target of mir-27a, which may play an essential role for the sensitivity of tumor cells to chemotherapeutic agents."
+"in this study, we show that microrna-196 inhibits hoxb8 expression in myeloid differentiation of hl 60 cells."
+mir-196 has perfect complementarity with targetsequence of 3'-utr in hoxb8 mrna.
+exogenous expressed mir-196 repressed expression of hoxb8 via cleaving mrnas.
+these results suggest that mir-196 participates in myeloid differentiation of hl60 cells via regulation of hoxb8 expression.
+mir-29 mirnas targetp85alpha and cdc42.
+"another potential target of mir-29 mirnas was the cdc42 mrna, which contains two targetsites for mir-29 ."
+"the cdc42 protein level fell in hela cells that were transfected with mir-29 mirnas, as determined by western blotting ."
+these results indicate that mir-150 preferentially targets c-myb translation.
+"interestingly, erk5 is the most widely reported direct target of mir-143, which is downregulated by mir-143 overexpression , ."
+"importantly, transient overexpression of mir-143 mimetics in hct116 , sw480 and dld-1 colon cancer cell lines has been shown to down-regulate erk5 steady-state levels."
+"overexpression of mir-451 down-regulated lu-ciferase activity with the target sequences of cpne3 and rab5a downstream of the firefly luciferase gene, whilesuppression of mir-451 up-regulated luciferase activity ."
+"the expression of rab5a was negatively correlated with the expression of mir-451 inra patients ,indicating that rab5a is regulated by mir-451 in raneutrophils."
+"further, oncogene ccnd1 was revealed to be a putative target of mir-326, which was inversely correlated with mir-326 expression in nsclc."
+"here, we reported that mir-326 is indeed suppressed in primary lung cancers compared with the matching adjacent normal tissues, and found 3'-utr of the human ccnd1 mrna is really a target of mir-326."
+these results suggest that mir-326 binds directly to the predicted binding site in the ccnd1 3‰Ω?utr.
+mir-326 targets ccnd1 in lung cancer cells and negatively expressed with ccnd1.
+"here, we validated tnf-alpha as the target of mir-181a by a dual luciferase assay."
+"our study provides the first evidence of the role of mir-181a in adipocyte differentiation by regulation of tnf-alpha, which may became a new therapeutic target for anti-obesity drugs. in this study, we demonstrated the ability mir-181a to inhibit tnf-alpha expression by targeting the 3'-utr of its mrna, thus affecting adipogenesis."
+"thus, tnf-alpha was initially confirmed as the target of mir-181a."
+this study demonstrates that mir-181a is a novel regulator of tnf-alpha in porcine adipocytes.
+"nevertheless, the ppar-alpha protein level decreased and increased significantly after the overexpression and knockdown of mirna-10b, respectively ."
+"thus, these results demonstrated that mirna-10b directly recognized the 3'-utr of the ppar-alpha transcript and mediated its expression post-transcriptionally."
+hmga1 can be regulated negatively by mir-26a at both transcriptional level and protein level in sw1990 and panc-1 cells.
+"to validate whether hmga1 is a direct target of mir-26a, we mutated the mir-26a binding site in the 3'utr of hmga1 and observed loss of repression."
+"together, these results support the hypothesis that mcl-1 is a direct target of mir-193a-3p."
+"these results together confirm that mcl-1 is a direct target of mir-193a-3p and that the region between 1,585 and 1,591 bp downstream of the stop codon is a targetsequence to which mir-193a-3p bind. in short, the overlap in phenotypes caused by either mcl-1 downregulation or expression of mir-193a-3p, strongly suggest that mcl-1 downregulation is a critical point in mir-193a-3p-induced apoptosis."
+"together, these observations strongly suggest that mcl-1 downregulation is a critical step during apoptosis triggered by mir-193a-3p."
+figue 6: chd5 was a direct target of mir-454.
+ectopic expression of mir-454 inhibited the chd5 mrna and protein expression .
+"the expression of mir-132 was negatively correlated with the protein expression levels of mecp2 and bdnf, whereas mecp2 expression was positively correlated with bdnf expression in the peripheral blood of patients with mdd."
+"overexpression of mir-132 significantly reduced the expression levels of mecp2, at both the mrna and protein level, whereas downregulation of mir-132 increased the mrna and protein expression levels of mecp2."
+"these results indicate that mecp2 and mir-132 may regulate hippocampal bdnf expression in an opposite manner, suggesting that homeostatic interactions between these factors control hippocampal bdnf expression."
+"here we show post-transcriptional regulation of shank3 expression by three micrornas , mir-7, mir-34a, and mir-504."
+"together, these results suggest that mir-7, mir-34a, and mir-504 directly bind to the shank3 3'utr and downregulate its expression."
+"we found that mir-7, mir-34a, and mir-504, three mirnas with altered expression profiles in multiple neuropsychiatric disorders, directly regulate shank3 expression."
+a luciferase reporter assay demonstrated that mir-145 was able to bind to the 3'-untranslated region of fscn1 mrna.
+"luciferase activity levels were significantly reduced in ags cells with the wild type 3'-utr of fscn1 mrna co-transfected with mir-145 mimics; however, luciferase activity levels did not change in ags cells with mutant type 3'-utr of fscn1 mrna co-transfected with mir-145 mimics, compared with the control group , indicating that fscn1 is a direct target gene of mir-145."
+"therefore, the results suggest that mir-145 negatively regulates the protein expression of fscn1 in ags gastric carcinoma cells, perhaps by directly binding to the 3'-utr of fscn1 mrna."
+"the present study identified fscn1 as a target of mir-145 in gastric carcinoma cells, and demonstrated that mir-145 was downregulated, whereas fscn1 was upregulated in gastric carcinoma cell lines, as compared with normal gastric mucosal epithelial cells."
+"we presentcompelling evidence that tiam1, a guanidine exchange factor of the rac gtpase, is a direct target of both mir-21 and mir-31."
+"thus mir-21 and mir-31 appear to control tiam1 expression mainly through repression of the protein translation, not degradation of the mrna."
+"5, mir-21 and mir-31 also down-regulated tiam1 in dld1 and sw480 cells ."
+"importantly, we found that transfection of mir-21 did not cause a significant change in mature mir-31 level, and vice versa ."
+"therefore, mir-21 and mir-31 do not influence the expression levels of each other and likely impact the expression of tiam1 independently."
+this strongly suggests that mir-31 also directly represses tiam1 translation.
+these data further substantiate our model that repression of tiam1 is a critical component in mir-21/mir-31 regulation of migratory and invasive properties of lim 1863 cells.
+the basal levels of the anti-apoptotic protein bcl-w were high in bel-7402/5-fu cells and mir-195 overexpression repressed bcl-w protein level and inhibited the luciferase activity of a bcl-w 3'untranslated region-based reporter construct in both bel-7402/5-fu and bel-7402 cells.
+"taken together, these data demonstrate that mir-371a-5p enhance bag3 protein expression, and that the interaction of mir-371a-5p with human bag3 3'-utr critically depends on the presence of the g2252 variant."
+"intriguingly, this posttranscriptional pathway regulating bag3 protein expression is altered by the presence of the g2252c variant in the 3'-utr of human bag3, which is frequently present in a cohort of ttc patients, suggesting that epi-induced mir-371-5p and bag3 may potentially represent new molecular components in the disease pathogenesis of ttc."
+"skeletal muscle-specific mir-486 overexpression in dmdmdx-5cv animals decreased levels of dock3, reduced pten expression, and subsequently increased levels of phosphorylated akt, which resulted in an overall beneficial effect."
+thes data suggest that mir-214 inhibits the emt by directly targeting the twist gene.
+"furthermore, sox9 was confirmed as a direct target of mir-32, using a luciferase reporter assay."
+"finally, sox9 was identified as a direct target of mir-32, using a luciferase reporter assay."
+these data indicated that sox9 was a direct target of mir-32 in nsclc.
+"according to the data of mirtarbase, cdkn1a might be a candidate target gene of mir-96. in addition, luciferase reporter and western blot assays respectively demonstrated that mir-96 could bind to the putative seed region in cdkn1a mrna 3'utr, and significantly reduce the expression level of cdkn1a protein."
+"taken together, these data demonstrated that mir-96 could negatively regulate the expression of cdkn1a in both bc cells and tissues."
+"overexpression of mir-338-3p inhibited hif-1alpha 3'-utr luciferase activity and hif-1alpha protein levels in hepg2, smmc-7721, and huh7 cells."
+we subsequently identified that akt1 was a target gene of mir-185.
+re-expression of akt1 could partially rescue the inhibitory effects of mir-185 on the capacity of nsclc cell proliferation and motility.
+these data suggest that mir-185 negatively regulates akt1 expression in nsclc cells.
+"taken together, the cancer suppressor role of mir-185 in nsclc is at least partially by inhibiting its target gene akt1."
+these data reveal that fgf-21 could be negatively regulated by mir-212 and/or under conditions of lipogenesis.
+these data clearly indicate that fgf-21 is a target gene of mir-212 involved in lipogenesis.
+forced over-expression of mir-23a/b decreased the level of fas protein.
+"moreover, over-expression of fas rescued the pro-proliferation effect of mir-23, indicating fas is a direct mediator of mir-23 functions."
+"furthermore, contrast to mir-23a/b which was up regulated, the fas expression level was down-regulated and inversely correlated with mir-23 in split radiation induced lymphoma tissue samples."
+"finally, our data also indicates that mir-23a could repress fas much more potent than mir-23b and the additional region besides conserved seed pairing enables mir-23a's higher regulation.fig."
+3 the predicted mir-23a/b binding site on murine fas mrna 3'utr and the mutation strategy is shown.
+a dual luciferase assay of nih3t3 cells co-transfected with the firefly luciferase constructs containing the wild type or 258-264 mutated fas 3'-utr and mir-23a/b mimics or scrambled negative control .
+mir-23a/b mimics inhibit endogenous fas expression in el4 cells as detected by facs assay.
+mir-23a/b mimics inhibit endogenous fas expression in el4 cells as detected by qrt-pcr.
+"we found that the mouseklhl1as rna is not spliced and terminates in a polyadenylation site in the klhl1 promoter region, whereas both the present and previous work show that human klhl1as is highly variably spliced into processed transcripts that contain up to six exons."
+the evolutionary conservation of this antisense/sense transcriptional organization strongly indicates that klhl1as transcripts play a significant biological role in both human and mouse presumably as a regulator of klhl1 expression.
+"as a result, foxm1 was a binding target of mir-370,overexpression of mir-370 in mg63 and u2os cells remarkably decreased the protein level of foxm1."
+"next, we further demonstrated whether foxm1 was a direct target of mir-370 by using luciferase reporter assay."
+"the results showed that overexpression of mir-370 significantly decreased the luciferase activity of pmir-foxm1 3'-utr wt, where as mutation of the mir-370-binding site in the foxm1 3'-utr abolished the effect of mir-370 ."
+these results suggested that foxm1 was directly and negatively regulated by mir-370.
+"cdc42, a mediator of the pi3k pathway, was identified as a novel mir-18a target."
+"overexpression of mir-18a reduced cdc42 expression, and a luciferase assay confirmed that mir-18a directly targets the 3'utr of cdc42."
+mir-18a mimics had a similar effect on proliferation as a small molecule inhibitor of cdc42.
+"inhibition of cdc42 expression is likely to be a key mechanism by which mir-18a impairs cancer cell growth, with a target protector experiment revealing mir-18a influences proliferation via direct inhibition of cdc42."
+inhibition of ccnd1 by mir-18a may also assist in this growth-suppression effect.
+these results indicated that mir-351 reduced endothelial cell survival and suppressed angiogenesis through targeting stat3 in vitro.
+we hypothesized that mir-124 and mir-506 may directly target dnmt3b and may indirectly target dnmt1.
+the above results may preliminarily indicate that dnmt3b is a direct target and that dnmt1 is an indirect target of mir-124 and mir-506.
+"e2f2 was identified as a direct target of mir-31. in our study, we have verified that e2f2 is a direct target of mir-31 using western blotting and luciferase reporter assay."
+these results demonstrates that e2f2 expression is negatively regulated by mir-31.
+data of luciferase reporter assay and western blot demonstrates that e2f2 is a direct target of mir-31.
+these results demonstrates that mir-31 regulates the proliferation of colon cancer by targeting e2f2.
+"indeed, antagonizing mir-3189-3p in the context of dna damage derepressed cdk2 and ccna2, and to a lesser extent cdc25a ."
+"moreover, mir-323 could directly bind to bri3 3'-utr."
+this study indicated that mir-323 might regulate ischemia/reperfusion-induced rat neuronal cell death via targeting bri3.
+these results showed that mir-323 bound directly to a specific site in the 3'-utr of bri3 mrna .
+these data suggest that mir-323 suppressed the expression of bri3 in a post-transcriptional manner.
+golm1 was directly regulated by mir-27b in pca cells.
+golm1 was a direct target of mir-27b in pca cells.
+our present data clearly showed that golm1 was directly regulated by tumor-suppressive mir-27b in pca cells.
+"a combination of bioinformatics, pcr array, dual-luciferase reporter assay, and western blot analysis revealed that fas ligand and death receptor 5 are the direct targets of mir-21."
+"in the present study, we constructed a luciferase reporter system and identified hef1 as a direct target of mir-145."
+"taken together, these findings indicate that hef1 promotes emt and bone invasion in prostate cancer by directly targeted by mir-145, and mir-145 suppresses emt and invasion, at least in part, through repressing hef1."
+"thus, these observations indicated that mir-145 directly targeted hef1 through interacting with the 3'-utr."
+p53 was a direct target of mir-300 in breast cancer cells.
+genetic evidence obtained in the mouse confirmed the importance of satb2 regulation by mir-34b/c.
+several lines of evidence verified that satb2 is a bona fide target of mir-34s.
+these data provide an in vivo verification of the importance of satb2 regulation by mir-34b and -c in osteoblasts in vivo.
+"the direct regulation of satb2 by mir-34s explains why these mirnas regulate osteocalcin, bsp, and possibly other genes whose expression is controlled by runx2 and satb2 or atf4 and satb2."
+"although target mrnas frequently have multiple copies of mirna target sites in their 3'-utr , examination of the nocturnin mrna sequence revealed a single potential target sequence for mir-122 in its 3'-utr ."
+"these results indicated that nocturnin is a potential direct target of mir-122, and mir-122 recognizes the putative recognition site present in the nocturnin 3'-utr."
+"these data were consistent with previous reports that listed nocturnin mrna as one of a set of mrnas that were up-regulated by knocking down mir-122 in vivo , ."
+"although overexpression of mir-122 did not affect the rna level of the nocturnin reporter gene , the knock down of mir-122 was able to significantly increase nocturnin mrna levels in mouse liver."
+"our data thus demonstrate that this robustly rhythmic expression of nocturnin in liver is shaped, at least in part, by mir-122."
+"these phenotypes are dependent on two of the mir-21 targets validated in this study, hnrpk and tap63."
+phosphatase and tensin homolog was a direct target of mir-26a.
+mir-26a enhances metastasis potential of lung cancer cells via akt pathway by targeting pten.
+"taken together, all these results strongly indicated that pten was a direct target of mir-26a."
+mir-21 and spry2 were expressed in the mm cell lines.
+"in the rpmi 8226 and km3 cell lines, mir-21 was highly expressed and spry2 was expressed at a low level."
+"however, in the u-266 cell line, in which a low level of mir-21 was detected, spry2 was expressed at a high level."
+"western blot analysis revealed that in the mm cell lines with a high level of endogenous mir-21 expression, spry2 was expressed at a significantly lower level."
+"by contrast, in the u-266 cell line with low endogenous mir-21 expression, spry2 was expressed at a significantly higher level ."
+we investigated whether overexpression of mir-125a or mir-125b was sufficient to reduce eif4ebp1 levels in skov3 and ovcar-429 ovarian cancer cells.
+treatment with an inhibitor of mir-125a or mir-125b enhanced eif4ebp1 mrna and protein levels.
+"taken together, these results show that both mi mir-125a and mir-125b can directly influence eif4ebp1 through specific binding to its 3'-utr."
+"hdac3 showed a positive feedback loop with mirnas such as mir-200b, mir-217, and mir-335."
+"mir-200b, mir-217, and mir-335 negatively regulated the expression of mir-326 and the invasion and migration potential of cancer cells while enhancing the apoptotic effect of anti-cancer drugs."
+"targetscan analysis predicted mir-200b and mir-217 as negative regulators of cancer-associated gene, a cancer/testis antigen, which is known to regulate the response to anti-cancer drugs."
+hdac3 and mir-326 acted upstream of the cancer-associated gene.
+figure 6 identification of mir-143 and mir-145 target.
+3'utr luciferase reporter assay indicated that fascin homolog 1 could be co-regulated by mir-143 and mir-145.
+luciferase reporter assay for 3'-utr of fscn1 regulated by mir-143 and mir-145.
+co-transfection of mir-143 and mir-145 showed a synergistic effect on suppressing the expression of fscn1.
+and our result also indicated that 3'-utr of fscn1 could be co-regulated by mir-143 and mir-145.
+"with these researches, we suggested that mir-143 and mir-145 could control oncogenic fscn1 and take part in the modulation of metastases."
+"col1a2 and vegf-a contained a conserved binding site of mir-29a in different species, suggesting that col1a2 and vegf-a were putative target genes."
+"on performing a luciferase reporter assay, we showed that luciferase activity was significantly reduced in cells co-transfected with the wild-type col1a2 or vegf-a 3'-utr and increasing concentrations of mir-29a mimics."
+"conversely, we found that mir-29a inhibitor significantly induced luciferase activity in cells transfected with wild-type col1a2 or vegf-a 3'-utr; after upregulation of mir-29a, the protein levels of col1a2 and vegf-a were notably reduced, while mir-29a knockdown led to significant upregulation of col1a2 and vegf-a protein levels ."
+"these findings indicate that col1a2 and vegf-a are two direct targets of mir-29a, and the protein expression of col1a2 and vegf-a was negatively mediated by mir-29a in bj cells."
+"rescue experiments indicated that the effects of plzf and mir-146a are mediated by mir-146a and cxcr4, respectively."
+"our data indicate that megakaryopoiesis is controlled by a cascade pathway, in which plzf suppresses mir-146a transcription and thereby activates cxcr4 translation."
+plzf is a transcriptional repressor of mir-146a expression.
+mir-146a downregulates cxcr4 and impairs cell proliferation and differentiation/maturation.
+luciferase-based promoter assays and plzf silencing studies indicate that the progressive increase in plzf expression during megakaryopoiesis represses mir-146a transcription.
+"to demonstrate a direct interaction between mir-146a and cxcr4 mrna, we inserted the following constructs downstream of a renilla luciferase reporter cdna: 1 the full-length 3'-utr of cxcr4 mrna ."
+"muts2 or muts3 reporter vector was not affected, , indicating that mir-146a interferes with cxcr4 mrna translation through a direct interaction with s2 and s3 sites in the 3'-utr-fl."
+"we identified manganese superoxide dismutase messenger rna as a direct target of mir-212, and observed an inverse correlation between the level of mir-212 and mnsod protein in colorectal tumor samples."
+"mnsod was identified as a novel major target of mir-212, which appears to play an important role in regulating emt via mnsod."
+"taken together, these results suggest that mnsod is a direct target of mir-212 and the 3' utr of mnsod is the functional target site for mir-212. in this study, we determined that mir-212 regulates the metastasis and emt of crc by targeting mnsod."
+tumor protein 53-induced nuclear protein 1 is a proapoptotic stress-induced p53 target gene.
+"tp53inp1 expression is repressed by the oncogenic micro rna mir-155, which is overexpressed in pdac cells."
+"the expression of the previously reported putative gene targets of mmu-mir-466h-5p, smo, stat5a, dad1, birc6, and bcl2l2 in anti-mir-466h and negative control cho cells is shown in figure 5. the mrna levels of smo, stat5a, dad1, birc6, and bcl2l2 genes were not significantly changed at 192 hours in the negative control cho cells compared to anti-mir-466h cho cells , but were significantly reduced at 216, 226, and 236 hours of cell culture."
+"it is, therefore, likely that the inhibition of the activated mmu-mir-466h-5p in anti-mir-466h cho cells shown in figure 4 leads to increased levels of the anti-apoptotic genes: smo, stat5a, dad1, birc6, and bcl2l2 as seen in figure 5 which delays the activation of caspase-3/7 and onset of apoptotic cascade shown in figure 3."
+these results confirm that smad4 gene is a mir-224 target mir-224 regulates smad4 gene expression at the posttranscriptional level .
+these results further suggest that smad4 is a target of mir-224 and mediates the roles of mir-224 to influence gc proliferation and function.
+"microrna-100 was predicted to target plk1 mrna, which was indeed under-expressed in c666-1 cells; inversely correlating with plk1 expression."
+"using luciferase constructs containing the 3'-utr of plk1 sequence, we document that mir-100 can directly target plk1."
+"hence, our data demonstrate for the first time, that under-expressed mir-100 leads to plk1 over-expression, which in turn, contributes to npc progression."
+"to associate the mir-223 up-regulation with the down-regulated igf-1r, and to confirm the targeted inhibition of igf-1r by mir-223 in mc3t3-e1 cells, we then investigated the regulation by mir-223 up-regulation on the igf-1r expression in mc3t3-e1 cells."
+we confirmed the targeting inhibition of igf-1r expression by mir-223 in mc3t3-e1 cells.
+"pathways involving metabolic processes, terpenoid and sterol metabolism were selectively affected by concomitant regulation by mirnas and mrnas, and srebf1 was validated as a target of mir-21."
+messengerrna levels of srebf1 increased by about 30% after mir-21 knock-down .
+also srebp1 protein levels increased approximately 50% after mir-21 knock-down compared with a lna-scr .
+"these data were consistent with srebf1 being a targetgene of mir-21. in summary, out of the three tested target, srebf1 was conclusively found to be a functional target of mir-21."
+"the cyclin-dependent kinase 4 was verified as a mir-539 target gene using dual-luciferase reporter assays, quantitative rt-pcr and western blotting and was involved in mir-539-regulated npc cell growth."
+"in hek293 cells cotransfected with the reporter plasmids and mir-539 mimic or nc duplex, the luciferase activity of the reporter that contained wild-type 3'-utr was significantly suppressed by mir-539 mimic, but the luciferase activity of mutant reporter was unaffected , indicating that mir-539 may suppress gene expression through mir-539 binding sequence at the 3'-utr of cdk4."
+"together, the results show that mir-539 could regulate the expression of endogenous human cdk4 by directly targeting the 3'-utr of cdk4 mrna, and human cdk4 is a new target of mir-539."
+"this effect is mediated trough mir-146b-5p, which inhibits il-6 expression through a specific sequence at the il-6 3'-utr."
+these results indicate that mir-146b-5p represses il-6 expression in breast stromal fibroblasts.
+this demonstrates that the mir-146b-5p-dependent repression of il-6 is mediated through binding to its seeding sequence in the il-6 3'-utr.
+"we have recently shown that p16 is a positive regulator of mir-146b-5p , and the present data indicate that this microrna inhibits il-6, whose mrna contains a specific mir-146b-5p binding site in its 3' utr."
+ndst1 was a direct targetgene of mir-191.
+ndst1 expression level was inversely correlated with mir-191.
+"these findings suggested that mir-191 could directly bindto the 3'-utr of ndst1, supporting that ndst1 was a direct targetgene of mir-191."
+"as a result, we found that the endogenous ndst1 also showed opposite trend to the mir-191 level, both on mrna level and protein level ."
+"these data indicated that mir-191 could negatively regulate the endogenous ndst1 expression in mgc803 cells, supporting that ndst1 was a direct target gene of mir-191."
+these results indicate that mir-101 functions to directly suppress dusp1 gene expression through the mir-101-binding sequence located at the 3'-utr of the dusp1 mrna.
+"among several candidate target genes of mir- 340, we chose myo10 as the object of further study."
+"moreover, the expression of myo10 was significantly increased after blocking mir- 340 expression thus, we confirmed that mir- 340 is expressed at a low level in breast cancer cells and myo10 is a direct target of mir- 340, which negatively regulates its expression."
+ectopic expression of let-7g in k-ras -expressing murine lung cancer cells induced both cell cycle arrest and cell death.
+"in tumor xenografts, the authors observed significant growth reduction of both murine and human non-small cell lung tumors when overexpression of let-7g was induced from lentiviral vectors. in let-7g expressing tumors, reductions in ras family and hmga2 protein levels were detected."
+"using the dual luciferase reporter assay, a direct target relationship between mir-128 and vegf-c was revealed in both t24 and 5637 cell lines."
+"further, we found h19 positively correlated with its derivate mir-675 expression and reduction of h19 inhibited mir-675 expression."
+bioinformatics and luciferase reporter assays showed that mir-675 modulated cadherin 13 expression by directly targeting the binding site within the 3'-utr.
+"finally, introduction of mir-675 abrogated h19 knockdown-induced cell invasion inhibition in glioma cells."
+"to our knowledge, it is first time to demonstrate that h19 regulates glioma development by deriving mir-675 and provide important clues for understanding the key roles of lncrna-mirna functional network in glioma."
+the tumor suppressor pten was identified as a mir-221 target; overexpression of pten abrogated the aforementioned mir-221-induced malignant phenotypes of the cells.
+"we show that mir-206 directly targets the oncogenes kras and annexin a2 , thereby acting as tumor suppressor in pdac cells by blocking cell cycle progression, cell proliferation, migration and invasion."
+"hence, the above findings confirm that both, kras and anxa2, genes are indeed novel direct targets of mir-206 in pdac cells."
+we further demonstrate that mir-206 inhibits the invasive capacity of pdac cells through combinatorial targeting of anxa2 and kras genes.
+"we found that three kshv mirnas, mir-k12-1, 3 and 4-3p, were responsible for the targeting of casp3.potential"
+we showed that hoxa1 is a direct target of mir-10a.
+"to confirm in vivo these findings, we transfected k562 cells with the pre-mir-10a precursor by using nucleoporation and measured hoxa1 mrna expression by rt-pcr and hoxa1 protein levels by western blotting."
+a significant reduction at the mrna and protein levels for hoxa1 was found for k562 cells transfected with the mir-10a precursor but not with the negative control .
+these data indicate that mir-10a target hoxa1 in vitro and in vivo.
+"in human cell lines, we found that mir-205 down-regulates the expression of lrp1 by targeting sequences in the 3'utr of lrp1 mrna."
+"to further investigate whether mir-205 affects u87 and sk-lu-1 cell migration through down-regulation of lrp1, we conducted three-dimensional cell migration assays using matrigel pre-coated transwell chambers."
+"we found that mir-205 transfection into u87 and sk-lu-1 cells decreases cell migration approximately 25% in both cell types, compared to controls , indicating that mir-205 is a potential suppressor of tumor metastasis in glioblastoma and lung cancer cells."
+these results support that lrp1 is specifically regulated by mir-205 .
+mestit1 is a paternally expressed non-coding rna that may be involved in the regulation of mest expression during development.
+"antisense oligonucleotides of has-mir-222 could increase reporter gene expression by targeting the 3' untranslated regions of cdkn1c/p57kip2 mrnas as well as increase cdkn1c/p57kip2 protein levels . in conclusion, our results suggest that a subset of mirnas play a key role in gene reprogramming during escs decidualization and that hsa-mir-222 participates in esc differentiation by regulating escs terminally withdrawing from the cell cycle."
+"down-regulation of malat1 induced the expression of caspase-3, -8, bax, and suppressed the expression of bcl-2 and bcl-xl in caski cells."
+"down-regulation of malat1 induced the expression of caspase-3, -8, bax, and suppressed the expression of bcl-2 and bcl-xl."
+"one potential target of mir-431 was smad4, a protein of interest given that smad4 negatively regulates myogenic differentiation."
+"this inhibition was specific, as deletion of the mir-431 site on the smad4 3- utr abolished this repression."
+"these results indicated that mir-431 is unlikely to target smurf1, at least in muscle cells, thus ruling out the possibility that mir-431 regulates smad4 levels indirectly via smurf1-regulated proteolysis."
+"all the mimics that potently knocked down mcl1 expression, except mir-605 and mir-744*, substantially reduced the luciferase activity."
+similar results were found in tumorigenesis assays performed in nude mice.
+overexpression of mir-223 in gastric cancer cell lines decreased fbw7 expression at the translational level and decreased fbxw7/hcdc4-driven luciferase-reporter activity.
+"we reasoned that if the phenotype induced by tbx5 over-expression was due, at least in part, to increased expression of mir-218, the co-injection of mo-218 should rescue the tbx5 gain of function phenotype."
+"this result strengthened our hypothesis that the effect of tbx5 over-expression on heart development might, at least in part, be be mediated by mir-218."
+we found correlated expression of tbx5 and mir-218 during cardiomyocyte differentiation of mouse p19cl6 cells.
+"subsequently, it was demonstrated that overexpression of mir-7 notably inhibited the protein expression of pax6, while inhibition of mir-7 enhanced the protein expression of pax6 in nsclc a549 cells."
+further investigation identified pax6 as a target of mir-7 in a549 nsclc cells.
+"ina ddition, the overexpression of mir-7 significantly inhibited a549 cell proliferation and invasion, which was reversed by upregulation of pax6."
+"we identified specific targets of mir-133: rhoa, a gdp-gtp exchange protein regulating cardiac hypertrophy; cdc42, a signal transduction kinase implicated in hypertrophy; and nelf-a/whsc2, a nuclear factor involved in cardiogenesis."
+"in addition, we found high expression of smad4 in hcc gr cells, which have lower expression of mir-130a-3p , suggesting that smad4 could be a target of mir-130a-3p."
+"bioinformatics analysis indicated that the smad4 3'-utr harbors potential mir-130a-3p target sites,we found that it has a significant reduction in luciferase activity with wild-type smad4, but not mutant smad4, in hepg2 gr cells transfected with mir-130a-3p mimic ."
+"consistently, mir-130a-3p inhibitors treatment led to increased luciferase activity with wild-type smad4 in hepg2 cells ."
+"taken together, these findings further validate that smad4 is a downstream target of mir-130a-3p."
+"microglia transfected with mir-367 had dramatically reduced irak4 expression , which suggests that mir-367 inhibits erythrocyte lysate-induced irak4 expression in microglia."
+"mirs -93 and -106b targeted and inhibited p21, while mir-25 targeted and inhibited bim."
+"western blotting revealed that p21 protein expression was sharply reduced by mir-93 and mir-106b mimics, and correspondingly, that p21 protein expression was sharply increased by mir-93 and mir-106b inhibitors."
+"luciferase reporter activity was significantly reduced by mirs -93 and -106b but not by mir-25, suggesting that mirs -93 and -106b binddirectly to the p21 3'utr and inhibit p21 protein expression."
+western blotting revealed that the expression of both bim isoforms was reduced by a mir-25 mimic and increased by a mir-25 inhibitor.
+"qrt-pcrs showed that p21 mrna expression was diminished approximately 30% by the mir-93 mimic and 40% by the mir-106b mimic, vs. 94% by the control p21-sirna."
+bim mrna expression did not change following transfection of a mir-25 mimic.
+"moreover, mir-29b increased irf1 expression, and the inhibition of mir-29b suppressed ifn-Á∫?induced apoptosis."
+"based on these results, we hypothesized that bmk1 was a target of mir-429 in glioma."
+"taken together, these results indicate that mir-429 affects bmk1 expression by directly targeting its 3'-utr."
+these results strongly suggest the clinical correlation between mir-429 and bmk1.
+"taken together, these findings strongly suggest that mir-429 downregulation was due to hypermethylation in the promoter region of the mir-429 gene."
+"furthermore, pak6 overexpression was regulated by microrna - 328. luciferase reporter assay and western blot analysis indicated that pak6 was directly targeted by mir- 328."
+these characteristics indicate that mir-328 directly targets pak6.
+"tissue specimens and cell lines were explored for mir-219-5p inhibition on colon cancer proliferation, migration, invasion, apoptosis and drug resistance by targeting sall4. in the present study, we investigated the aberrant expression of mir-219-5p and sall4 in colon cancer specimens, and confirmed that sall4 was the direct target of mir-219-5p."
+"moreover, western blot assay additionally supported the results of dual luciferase assay that upregulation of mir-219-5p inhibited sall4 expression and vice versa , confirming sall4 was a direct target of mir-219-5p."
+all the outcomes confirmed that mir-219-5p inhibited colon cancer proliferation and g0/g1 cell cycle arrest by targeting sall4.
+"the 3- utrs of ldha and fut8 mrnas contained the complementary sequence to seed sites of mir-34a , implying that ldha and fut8 were targets of mir-34a."
+"validation of these targets was further carried out by qpcr and western blot analysis , the results of which supported that ldha and fut8 were targets of mir-34a."
+"using luciferase activity assay, qpcr, and western blot analysis, we confirmed that ldha and fut8 were down-regulated by mir-34a."
+"mirna-149* mimics downregulated junb levels in molt-4 and jurkat cells, while mirna-149* inhibitors dramatically upregulated junb expression in these cells."
+these data suggest that junb is a target for mirna-149*.
+these findings confirmed that mirna-149* negatively regulates junb expression in t-all cell lines.
+"in mpnst cells, transfection of mir-21 inhibitor significantly increased caspase activity , significantly suppressed cell growth , and upregulated protein level of pdcd4, indicating that mir-21 inhibitor could induce cell apoptosis of mpnst cells."
+bcl-2 and sirt1 as the targets of mir-34a were found to be in reverse correlation with ectopic expression of mir-34a.
+"in vitro assays showed that mtor is a direct target of mir-144, and downregulation of mir-144 facilitated proliferation of crc cell line, ht29."
+"mtor signaling is frequently dysregulated in a variety of human cancers, and in silico analysis has revealed two mir-144 binding sites in the mtor 3'utr. in this study, in silico analysis found two mir-144 binding sites in the 3'utr of mtor with perfect matches at microrna positions 2-8 and 1-7 ."
+"compared to mir-302c, mir-520e cannot promote viral replication and production, although the two micrornas target the same site of the nik 3 ' utr."
+"together, these results demonstrate that, among members of the mir-302 family, mir-302c plays a key role in nik expression."
+these results suggest that mir-302c inhibits nik expression and its downstream signaling pathway.
+"further, our studies show that mir-302c inhibited nik expression and prevented nf- j b translocation to the nucleus by targeting nik, resulting in a reduction in ifnb expression ."
+"mir-15a and mir-16-1, both micrornas negatively regulate bcl2 at a post-transcriptional level and bcl2 repression induces apoptosis in meg-01 chronic leukemia cell line and reduced in-vivo tumorigenicity."
+"rna sequencing analysis and additional in vivo assays showed that mir-21 inhibits apoptosis of cystepithelial cells, likely through direct repression of its target gene programmed cell death 4. next, we identified a direct mir-21 target that may be relevant to apoptosis and kidney cyst growth."
+"thus, it is possible that mir-21 promotes cyst growth through direct repression of pdcd4."
+"taken together, these results suggest that mir-21 promotes cyst growth, at least in part, through direct repression of pdcd4 in cyst epithelial cells."
+these changes of firefly luciferase translation indicated that mir-506 targets the 3'utr of pim3.
+this result indicated that mir-506 may suppress pim3 expression through binding to the seed sequence at the 3'utr of pim3.
+"these results indicated that mir-506 repressed endogenous pim3 expression in pc cells by directly targeting the pim3 3'utr, and pim3 is a target gene of mir-506."
+"furthermore, the role of mir-17 was because of its target gene tcf3 , a key transcription factor of canonical wnt pathway."
+"furthermore, we identified that the key transcriptional factor of canonical wnt pathway, tcf3, was a direct target gene of mir-17."
+"accordingly, these data demonstrated that tcf3 is a direct target gene of mir-17."
+"to elucidate the further functional link between mir-17 and canonical wnt signaling, we found that tcf3, a key transcription factor of canonical wnt pathway, was the direct target gene of mir-17."
+"moreover, mir-100 was found to bind to the 3'-utr of fgfr3 mrna to prevent its translation."
+these data suggest that mir-100 targets 3'-utr of fgfr3 to inhibit its translation.
+these data suggest that the translation of fgfr3 in disc cells may be regulated by mir-100.
+"moreover, this hypothesis was proved by luciferase reporter assay, in which we identified a binding site of mir-100 at 3'-utr on fgfr3 mrna, which is"
+"according to the bioinformatics database , mir-186 might bind to xiap and pak7 3'-utr region."
+the predicted mir-186 binding sites in the 3'-utr region of xiap or pak7 and the designed mutant sequence were indicated.
+we further determined whether mir-451 regulates lrh-1 expression in human osteosarcoma cells.
+mrna and protein expressions of lrh-1 were detected in mir-451 mimic-transfected cells.
+the mrna expression level of lrh-1 was significantly decreased by mir-451 mimics .
+western blot analysis results showed that the protein expression level of lrh-1 was also downregulated by mir-451 mimics .
+"our data suggest that mir-15a/16-1 can also modulate the bcl2 gene expression in cd4 t cells from rr-ms patients, thereby affecting apoptosis processes."
+"as an downstream molecule in cd28 costimulatory signaling pathway, arrb2 plays an important role in t cell activation through interacting with pde4 . in addition, mir-150 is highly complementary with the 3'-utr of the arrb2."
+we decided to determine whether arrb2 is regulated by mir-150.
+overexpression of mir-150 significantly repressed fluorescence activity controlled by the wild type 3'-utr of arrb2.but the activity was not affected by the mutant 3'-utr of arrb2 although the transfection efficiency was about the same in different transfections .
+these data collectively demonstrated that arrb2 is downregulated by mir-150 in human cd4+ tlymphocytes.
+"moreover, bioinformatic prediction suggested that cxcl12 was a target gene of mir-448."
+"we also demonstrated that restored expression of cxcl12 dampened mir-448-mediated suppression of tumor progression, which suggests the important role of mir-448 in tumor progression."
+"above data showed that cxcl12 was the target gene of mir-448, we want to know whether mir-448 regulates proliferation in ovarian cancer growth with overexpression of cxcl12."
+the data showed that mir-448 in skov3 and a2780 cells inhibited proliferation of the cells with cxcl12 overexpression .
+western blotting results revealed that pfkfb3 protein expression decreased in saos-2 cells after transfection with mir-26b.
+the overexpression or knockdown of mir-135b did not affect the mrna stability of tgfbr2 .
+"these results demonstrated that mir-135b specifically regulates tgfbr2 expression at the post-transcriptional level, which is the most common mechanism of animal mirna action."
+"in conclusion, our results demonstrated that mir-135b directly binds to the 3'-utr of the tgfbr2 mrna transcript to suppress tgfbr2 expression in crc cells."
+"let-7a, let-7b and let-7f can all specifically interact with the prdm1 3'utr and down regulate gene expression."
+"thus, these results indicate that let-7a, let-7b and let-7f can all specifically interact with the prdm1 3'-utr and down-regulate gene expression."
+these results indicate that let-7 can also targetendogenous prdm1 in dlbcl cells.
+"mir-26a targets the transcription factors smad1 and smad4, critical for the tgf-b/bmp pathway, and expression of microrna-resistant forms of these transcription factors inhibits differentiation."
+"in vitro cell culture and animal studies establish that mir-26a plays an important role in promoting muscle differentiation and regeneration by down-regulating the critical transcription factors of the tgf-b/bmp signaling pathway, smad1 and smad4, by directly targeting their 3' untranslated regions . in similar experiments, both of the predicted target sites in the smad4 3' utr were also found to be true target sites for mir-26a ."
+these results demonstrate that 3' utrs containing the mir-26a target sites are essential for the down-regulation of smad1 and smad4 proteins and for optimal differentiation of myoblasts.
+"we demonstrated that mir-26a regulates a well-known repressor of myogenesis, the tgf--beta/bmp signaling pathway, by directly targeting the 3' utrs of smad1 and smad4, the genes encoding critical transcription factors of this pathway ."
+our results indicate that only unedited pri-mir-376 rnas were present in the cochlea suggesting that prps1 levels and activity in the inner ear may not be regulated through the editing of mir-376.
+a search of the 3'-utr of the human rhog gene revealed two evolutionarily highly conserved and two poorly conserved mir-124 target sequences .
+ror1 is a direct downstream target of mir-27b-3p.
+"notably, by analyzing of their expression levels in gc tissues, the expression level of mir-27b-3p was found to be negatively associated with ror1 mrna expression"
+"furthermore, a novel target of mir-148a was found, sphingosine-1-phosphate receptor 1 , whose expression was negatively regulated by mir-148a at a post-transcriptional level in hepatocellular carcinoma hepg2 cells."
+"accordingly, the current study suggests that mir-148a plays an inhibitory role in the regulation of hepatocellular carcinoma cell invasion by directly targeting s1pr1."
+"2b, the luciferase activity was significantly reduced in hepg2 cells co-transfected with the wild-type 3'-utr of s1pr1 and mir-148a mimics, but unchanged in hepg2 cells co-transfected with the mutant s1pr1 3 utr and mir-148a mimics, indicating that mir-148a directly binds to the 3'-utr of s1pr1 in hepg2 cells."
+"further investigation identified s1pr1 as a direct target of mir-148a, and the protein expression of s1pr1 was negatively regulated by mir-148a in hepatocellular carcinoma cells."
+these findings demonstrate that mir-143 directly targets igf-ir and irs1.
+mir-143 targets both igf-ir and irs1 in beas-2b cells.
+"more importantly, we validated that both igf-ir and irs1 are the functional targets of mir-143."
+"western blot analyses revealed that mir-376c, but not mir-22, decreased alk7 protein levels."
+"however, mrna levels of alk7 were not affected by mir-376c ."
+"by contrast, anti-mir-376c increased alk7 protein levels ."
+mutation of the mir-376c targetsites at the alk7 3'-utr significantly reduced the inhibitory effect of mir-376c on luciferase activity .
+"furthermore, inhibition of endogenous mir-376c by anti-mir-376c phenocopied the effect of alk7 overexpression and decreased the size of spheroids ."
+mechanistic analyses identified sox9 and adam17 as two novel mir145 targets relevant to this process.
+"we showed direct targeting by mir145 to the 3' -untranslated region regions of sox9 and adam17 in hnc-tics, and further showed a direct interaction between sox9 and adam17-promoter by chip assay."
+"collectively, our results show how mir-145 targets the sox9/adam17 axis to regulate tic properties in hnc, and how altering this pathway may partly explain the anticancer effects of curcumin."
+"therefore, endogenous mir-153 inhibits expression of app in human neurons by specifically interacting with the app 3'-utr."
+figure 2.mir-153 inhibits expression of endogenous app mrna and protein.
+these data demonstrate that app and mir-153 exhibit inverse expression patterns across time in hfb culture and suggest that the inhibitory relationship between mir-153 and app could underlie these patterns.
+"therefore, we were able to successfully transfect these primary human neuronal cells and demonstrate down-regulation of app following mir-153 delivery."
+"therefore, endogenous mir-153 actively inhibits app expression in human neurons under physiological culture conditions."
+"this confirms that mir-153 can also regulate a-beta levels, presumably via its activity against app."
+this data confirms that a specific binding site sequence interaction is required for mir-200a mediated regulation of acot7.
+fig 4. acot7 is a direct target of mirna-200a.
+"sgrs allele with g176c and g178c mutations ,repressed manx‚Ä?‚Ä≤lacz almost as efficiently as wild-type sgrs but no longer regulated the activities of ptsg‚Ä?‚Ä≤lacz or yigl‚Ä?‚Ä≤lacz ."
+mir-326 was downregulated in a panel of advanced breast cancer tissues and consistent reversely with expression levels of mrp-1.
+3c shows that expression levels of mir-326 mrna correspond negatively with mrp-1 mrna in tissues .
+"to examine whether mir-326 directly target mrp-1, a segment of mrp-1 3'-utr containing mir-326 binding sites was cloned into a luciferase reporter system."
+mir-326 downregulated expression of mrp-1.
+mir-138 inhibits ptk2 gene expression by binding to the predicted targetsite in the 3' utr.
+"qrt-pcr analysis revealed that expression of protein tyrosine kinase 2 , the gene encoding fak, was increased during osteoblast differentiation of hmsc-tert and in primary hmscs , similar to osteoblast marker genes and coinciding with down-regulation of mir-138 . in comparison, premir-138 had no effect on the luciferase control reporter without the ptk2 3- utr, implying that ptk2 is a direct target of mir-138."
+"accordingly, phosphorylation of runx2 and expression of osx, a downstream targetgene of the erk1/2 pathway , were decreased when mir-138 was overexpressed and increased in the absence of mir-138 , supporting that mir-138 suppresses fak downstream signaling by negatively regulating fak at the posttranscriptional level."
+"to further confirm targetspecificity between mir- 512-5p and its potential target mcl-1, we carried out luciferase reporter assay with a vector containing the putative mcl-1 3' untranslated region targetsite downstream of the luciferase reporter gene, which was transfected into ags cells."
+"these data suggest that mcl-1 is one of the target of mir-512-5p and that activation of mir-512-5p induces suppression of mcl-1, resulting in apoptosis of gastric cancer cells."
+mir-214 negatively regulates mek3 and jnk1 through binding to their 3'utrs by assay of gfp expression .
+"to further demonstrate that mek3 and jnk1 are negatively regulated by mir-214, stable cell lines overexpressing mir-214 or psilencer/nc were developed."
+the results also show there is significantly lower expression of mek3 and jnk1 atboth the mrna and protein level in cells that overexpress mir-214 compared with the negative control cells .
+"tcl1 expression in cll is, at least in part, regulated by mir-29 and mir-181."
+"mir-29 and mir-181 targettcl1. in summary, for samples with high mir-29b and/or mir-181b expression, 17 of 20 showed low or medium tcl1 expression . in addition, none of the samples with high mir-29b and/or mir-181b expression showed high tcl1 expression ."
+"these results suggest that tcl1 expression in b-cll is, at least in part, regulated by mir-29 and mir-181. in this report, we show that tcl1 expression is regulated by mir-29 and mir-181 and this regulation is relevant to the three groups of b-cll we studied."
+"although we observed a reverse correlation between tcl1 protein expression and these two mirs, a significant proportion of b-cll samples show low tcl1 expression and low expression of mir-29 and mir-181 ."
+mir-34a targets the 3'utr of axl mrna and inhibits its expression.
+"these findings implicate that, in contrast to mir-34a, mir-34c may regulate axl expression through an indirect mechanism, probably by targeting other molecules that modulate axl promoter activity."
+"finally, western blot detected a reduced level of the endogenous cdc42 by mir-224 compared to vector control, further supporting a suppressive role of mir-224 in cdc42 ."
+"luciferase reporter assay further identified that a proliferation-inducing ligand , a member in the tumor necrosis factor superfamily, was a novel target gene for mir-383."
+subsequent investigation revealed that mir-383 expression was inversely correlated with april messenger rna expression in hcc tissues.
+"collectively, our data indicated that mir-383 could directly target april in hcc cells by interaction with its 3'-utr binding site, thereby regulating endogenous april expression at both transcriptional and translational levels."
+"we found that mir-29a , mir-29b-1 , and mir-9 affected significantly luciferase expression , whereas mir-15a, -19b, and -124a showed no effect in this assay."
+"we could confirm that mir-29a and -29b-1 showed coregulated expression with bace1 in brain development and ad , whereas we did not find such correlation for mir-9//we confirmed these results in human neuroblastoma sk-n-sh cells, demonstrating that mir-29a/b-1 could suppress endogenous bace1 expression by ~50% upon transient transfection ."
+"we show here that mir-29a, -29b-1, and -9 can regulate bace1 expression in vitro."
+the mir-29a/b-1 cluster was significantly decreased in ad patients displaying abnormally high bace1 protein.
+mir-29a and -29b-1 can down-regulate endogenous bace1 upon transient overexpression
+"in the present report, we identified genes that are molecular targets of mir-146b, mir-208a, and mir-219, which display key roles in inflammation and the immune response ."
+"8, overexpression of mir-146b resulted in significant down-regulation of transcripts of several cytokines, chemokines, and their receptors, such as interleukin -8 and il-10, il-12 receptor -beta2, chemokine cc motif receptor 3 , interferon alpha1 and ifn-beta1, and members of il-1 family."
+"also, genes involved in the innate immune response and pathogen recognition, i.e., s100a12, lps binding protein , c-reactive protein, complement component 8 alpha polypeptide , toll-like receptor 9 and 10, and peptidoglycan recognition protein 1 and 2, were significantly reduced in mÊ°?mir-146b."
+"in addition, we found reductions in the mrnas for conserved helix-loop-helix ubiquitous kinase , also known as iÈ≠èb kinase alpha, tumor necrosis factor receptor-associated factor 6 , nitric oxide synthase 2, platelet-activating factor receptor , and cd40 . in mir-208a-overexpressing mÊ°Ös, reductions were obtained for mrnas encoding for cd14, cd40 ligand , prostacyclin i2 receptor , thromboxane a2 receptor , and programmed cell death 4 , a tumor suppressor molecule that regulates nf-Œ∫b activation and decreases il-10 production ."
+"mir-219 overexpression gave significant reduction in cd14, tnf receptor ii, phospholipase cÁ∫?, and arachidonate 5-lipoxygenase , as well as leukotriene production ."
+clones carrying rpra increased the translation of rpos. the rpra gene encodes a 106 nucleotide regulatory rna.
+"at least two small rnas, dsra and rpra, participate in the positive regulation of rpos translation."
+"unlike dsra, rpra does not have an extensive region of complementarity to the rpos leader, leaving its mechanism of action unclear."
+"mutations in the gene interfere with the induction of rpos after osmotic shock when dsra is absent, demonstrating a physiological role for rpra."
+meis2 is identified as the target of mir-134.
+"collectively, meis2 is the direct and specific target gene of mir-134."
+these data suggest that mir-134 regulates hcmpcs proliferation by targeting meis2.
+"to investigate the possibility that mir-372 and mir-373 suppress the expression of lats2, we performed immunoblot analysis of cells expressing wt and mutant mir-372&3, the cluster and the controls p53kd and empty vector."
+"both in the absence of rasv12 and in its presence, a significant reduction in lats2 protein level was observed upon mir-372&3 expression ."
+"using quantitative rt-pcr and immunoblot analysis, we observed a 2-fold effect on lats2 rna levels and 4- to 5-fold on protein levels by the mir-371-3 cluster ."
+these results show that a combined effect of rna destruction and translation inhibition is used by mir-372&3 to silence lats2.
+these results suggest that mir-200c can directly target kras.
+these results provide evidence that mir-200c directly recognizes the 3'-utr of kras mrna and inhibits kras translation.
+these results suggest that mir-200c inhibits the akt and erk pathways by targeting kras.
+"the luciferase activity of pmir-sox4-3'-utr-wt construct was significantly decreased upon the over-expression of mir-133a in te13 cells, whereas its mutant counterpart was not ."
+"in addition, the protein level of sox4 in te13 and kyse150 cells was dramatically reduced by mir-133a ."
+"taken together, these data indicated that sox4 is a direct target of mir-133a at least in esophageal cancer."
+these data indicate that mir-133a directly inhibits sox4 expression via targeting its 3'-utr and induces emt of escc cells.
+results showed that the expression levels of mirna-146a were positively correlated with that of lmp1 protein expression.
+"introduction of the mirnas let-7c, mir-10a, mir-144, mir-150, mir-155, and mir-193 also affected the activation of the caspase cascade."
+"in contrast, renal expression of ras gtpase-activating protein sh3 domain-binding protein 2 , a putative mir-23b target, increased in dn. in vitro, overexpression of mir-23b decreased, and inhibition of mir-23b increased, g3bp2 expression levels."
+these data identified mir-23b binding to the 3'-utr of its putative target g3bp2 mrna.
+"akt1, cyclind1, mmp-2, mmp-9 and bcl-2 protein expression decreased, and p27 expression increased in a dose-dependent manner with mir-451 mimics oligonucleotides."
+we computationally and experimentally validated that metastasis suppressor 1 is a direct mir-23a target and similarly validated that the ubiquitin ligase fbxw7 is a direct mir-27a target.
+"similarly, we show that metastasis suppressor 1 is a direct mir-23a target; mtss1 interacts directly with cortactin to promote fi lopodia formation and upregulates src signaling ."
+"functionally, our studies show that mtss1 is an important direct target for mir-23a and that reduced mtss1 levels accelerate mechanisms that promote colorectal cancer migration."
+fscn1 was identified as a direct target of mir-145 and mir-133a.
+mir-145 and mir-133a directly target fscn1.
+mir-145 and mir-133a negatively regulated the protein expression of fscn1 in hcc cells
+"furthermore, our results showed that mir-100 directly inhibited the expression of fzd-8 and inactivated the wnt/-beta-catenin pathway in breast cancer cells."
+"ourfindings suggested that fzd-8 was a direct target of mir-100. in our studies, we found that mir-100 inhibited the migration and invasion of breast cancer cells by targeting fzd-8 and inhibiting the wnt/-beta-catenin signaling pathway."
+"from the above results, cx43 is one of the target genes of mir-20a and is repressed by mir-20a"
+"to determine whether mir-133b directly targets egfr in crc cells, a luciferase assay was performed."
+"the results showed that mir- 133b significantly suppressed the luciferase activity of the reporter gene, containing the 3'utr of egfr compared with the controls."
+rt-qpcr analysis demonstrated that an sincreased expression of mir- 133b significantly decreased the mrna expression levels of egfr compared with the cells transfected with the control .
+"taken together, these results confirmed that mir- 133b directly targeted egfr and repressed its expression levels in crc cells."
+"further study revealed that mir-218, which was underexpressed in lung carcinoma, was predicted to bind the 3'-untranslated region of mef2d mrna."
+mir-218 was shown to suppress the activity of luciferase with mef2d 3'-utr.
+the changes in mir-218 levels affected the expression of mef2d in lung cancer cells and normal fibroblast cells.
+there is also an inverse association between mir-218 abundance and mef2d levels in the lung carcinoma specimen.
+the above findings indicated that mef2d is an authentic target of tumor suppressor mir-218.
+micf binds to 5'-utr of the ompf transcript and represses production of ompf in response to environmental and/or stress conditions.
+approximately one-third of the micf rna sequence participates in micf rna/ompf rna duplex formation and shields the shine-dalgarno sequence and aug translation start site on the message.
+"microrna-18a upregulates autophagy and ataxia telangiectasia mutated gene expression in hct116 colon cancer cells.results of the present study pertaining to the role of mir-18a in regulating autophagy and atm gene expression in colon cancer cells revealed a novel function for mir-18a in a critical cellular event and on a crucial gene with significant impacts in cancer development, progression, treatment and in other diseases."
+a database search revealed the predicted mirnas that target the catalytic subunit of the telomerase enzyme tert .
+"among the 6 mirnas identified from the database search, 5-namely, mir-138, mir-491-5p, mir-3687, mir1207-5p, and mir-3065-3p howed differential expression in our study."
+"only 2 of these, mir-3687 and mir-1207-5p , were changed by at least 2-fold."
+"in the selected 12 hg-psc tissues with hmga2 overexpression, significant downregulation of mir-29b expression was evident compared with expression in matched normal ovarian tissues ."
+a significant inverse correlation of hmga2 and mir-29b expression was noted .
+mir-33a precursors significantly decreased smad7 mrna and protein expression when compared to their expression in cells transfected with the negative control mirna precursors.
+mir-33a inhibitor transfection significantly increased smad7 mrna and protein expression when compared with cells transfected with the negative-control mirna inhibitors.

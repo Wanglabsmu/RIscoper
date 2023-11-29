@@ -1,0 +1,500 @@
+RDI	A prominently higher circβ-catenin expression was found in NSCLC tissues.
+RDI	Cellblocks containing carcinoma showed higher expression of miR-21, miR-221, and miR-196a than those from benign lesions.
+RDI	Significantly, the elevated circulating SOX2OT lncRNA was found specific to breast cancer and could differentiate breast cancer from controls with 100% of both sensitivity and specificity. Based on the Kaplan- Meier analysis, there was no significant correlation between SOX2OT lcnRNA expression and overall survival.
+RDI	We have shown that XIST RNA remains in the nucleus, functionally associated with the inactive chromatin, forming an interphase territory coincident with Xi.
+RDI	Circulating miR-449a level in CRC patients was significantly decreased (P < .05) comparing with healthy controls.
+RDI	Epigenetic repression of long non-coding RNA MEG3 mediated by DNMT1 represses the p53 pathway in gliomas.
+RDI	Down-Regulated Plasma miR-92a Levels in Non-Hodgkin's Lymphoma.
+RDI	CircPUM1 was highly expressed in ccRCC samples and cells.
+RDI	We found that CBR3-AS1 expression was significantly increased in breast cancer tissues and was closely correlated with poor prognosis.
+RDI	CDKN2B-AS1 serum levels were upregulated in the BC patients relative to controls.
+RDI	Functional studies showed that SNORD50A/B deletion strongly inhibited the proliferation, migration, invasion and tumorigenic potential, and induced cell cycle arrest and apoptosis in p53 wild-type breast cancer cells, while exerted the opposite effects in p53 mutated breast cancer cells.
+RDI	Compared with adjacent tissues, circ LARP4 was lowly expressed in NSCLC tissues.
+RDI	The level of circRNA_104433 showed upregulation in GC tissues, and the expression of it showed a positive correlation with the degree of differentiation and the size of the tumor.
+RDI	Functional assays indicated that knockdown of LINC00668 suppressed NSCLC cells proliferation, migration and invasion, and promoted apoptosis.
+RDI	expression of Gm24224 in plasma during heart failure is downregulated
+RDI	LncRNA HOTAIR/miR-613/c-met axis modulated epithelial-mesenchymal transition of retinoblastoma cells.
+RDI	Functional characterization of PSMB8-AS1 in monocytes demonstrated that this lncRNA is involved in the secretion of IL-6 and TNFα, two pivotal pro-inflammatory cytokines altered in the circulation of SSc patients and associated with fibrosis and disease severity.
+RDI	At the same time, we found that miR-499a combined with UBE2V2 inhibited the expression of UBE2V2 in prostate cancer cells.
+RDI	LINC00163 level was significantly downregulated in lung cancer tissues and cell lines by bioinformatics and qRT-PCR analyses.
+RDI	Aberrantly upregulation of FAM83H-AS1 was identified in gastric cancer in comparison with that in normal tissues.
+RDI	AC079779.5 is up-regulated in multidrug-resistant tuberculosis compared with healthy control.
+RDI	We also revealed that knockdown of CRNDE suppressed the Wnt/β-catenin signaling in HCC.
+RDI	Gain of function of NR2F1-AS1 steered cancer cells into quiescence-like state by the upregulation of dormancy inducers and pluripotency markers, and activates representative events of the metastatic cascade. Further validation by quantitative PCR confirmed NR2F1‐AS1 as a lncRNA that was likely related to recurrence.
+RDI	It was revealed that epidermal growth factor receptor-antisense RNA 1 (EGFR-AS1) was upregulated in BC and positively associated with rho associated coiled-coil containing protein kinase 2 (ROCK2).
+RDI	YAP1 overexpression abolished the suppressive impact of LEF1-AS1 repression on the biological processes of OSCC cells.
+RDI	In addition, EMX2OS enhanced tumor growth in an in vivo xenograft model of human OC.
+RDI	MiR-188-3p was found to be significantly decreased in the serum of AS patients and ApoE-/- mice as well as VSMCs of ApoE-/- mice and human VSMCs treated with oxidized low-density lipoprotein.
+RDI	expression of Gm15728 in plasma during heart failure is downregulated
+RDI	MCM3AP-AS1 overexpression promoted papillary thyroid cancer proliferation, migration, and invasion.
+RDI	The loss of function studies showed that downregulation of AGAP2 AS1 depressed cell proliferation, migration, and invasion, and promoted cell apoptosis in GBM.
+RDI	LINC00526 is highly expressed in glioma stem cells compared with glioma tissue cells
+RDI	The data suggest that in the absence of HuR binding, the C/EBPβ mRNA is more extensively polyadenylated, leading to translocation to the cytosol.
+RDI	DANCR was highly expressed and correlated with proliferation and metastasis in CRC.
+RDI	Collectively, these findings demonstrate the critical role of lnc00152 in tumor growth and progression in CRC, and identify a novel therapeutic target associated with CRC development and progression.
+RDI	Knockdown of long non-coding RNA CCDC144NL-AS1 attenuates migration and invasion phenotypes in endometrial stromal cells from endometriosis.
+RDI	Linc-ROR has been shown to be dysregulated in many types of cancers, including breast cancer (BC), pancreatic cancer (PC), hepatocellular cancer (HCC), endometrial cancer (EC), and nasopharyngeal carcinoma (NPC).
+RDI	In the present study, miR鈥?13 was revealed to be significantly downregulated in lung cancer tissues compared with in adjacent normal tissues, and low miR鈥?13 expression indicated a poor prognosis.
+RDI	Inhibition of miR-146a prevents enterovirus-induced death by restoring the production of type I interferon.
+RDI	Circulating miR-141 and miR-375 have association with metastatic prostate cancer.
+RDI	MIAT was upregulated in both in vivo and in vitro HPH models, while miR-29a-5p was downregulated.
+RDI	The results showed that the expression of E2F1 was significantly decreased and the expression of cyclin D1 was also downregulated in gastric cancer cells transfected with pCDNA3.1-GAS5.
+RDI	We show that knockdown of miR-542-3p significantly suppressed cellular proliferation in human glioma cells.
+RDI	In conclusion, the present study demonstrated that SNHG1 acts as an oncogene in breast cancer.
+RDI	enhanced expression of DANCR promotes cervical cancer cell proliferation in vitro and xenograft growth in vivo.
+RDI	We observed that circ_0000527 was overexpressed in osteosarcoma cells (SAOS-2, HOS, MG-63 and U2OS) compared in hFOB1.
+RDI	The analysis of a cohort of 45 children with ASD revealed that six microRNAs (miR-19a-3p, miR-361-5p, miR-3613-3p, miR-150-5p, miR-126-3p, and miR-499a-5p) were expressed at low to very low levels compared to those in healthy controls.
+RDI	Furthermore, compared with the LFD and LFD-HCC adjacent group, SNHG20 expression was significantly upregulated in the LFD-HCC tumor group (Figure 1a).
+RDI	The cytotoxic effects of miR-342-5p and miR-491-5p were confirmed on three chondrosarcoma cell lines, using functional validation under normoxia and hypoxia.
+RDI	MiR-4516 was low-expressed in pancreatic cancer tissues and cell lines. Overexpression of miR-4516 inhibited pancreatic cancer cell proliferation, migration and invasion, while promoted cell apoptosis in vitro.
+RDI	The expression of hsa_circ_0000069 was markedly upregulated in pancreatic cancer tissues and cell lines.
+RDI	The level of miR-139-5p was lower in BC tissues and cells than that in paired normal tissues and normal mammary epithelial cells MCF-10A.
+RDI	Identification of the receptor tyrosine kinase AXL in breast cancer as a target for the human miR-34a microRNA.
+RDI	LncRNA A_30_P01029806 and A_30_P01029194, which were down-regulated, were involved in the signaling pathways closely related to ALI.
+RDI	Independent studies have shown that overexpression of ANRIL in prostate cancer results in the silencing of INK4n/ARF/INK4a and p15/CDKN2B by heterochromatin formation.
+RDI	Overexpression of KB-1471A8.2 significantly inhibited the proliferation, invasion, migration, and paclitaxel resistance, and increased the apoptosis of ovarian cancer cells.
+RDI	Reverse transcription quantitative polymerase chain reaction demonstrated that NCK1-AS1 exhibited high expression in gastric cancer tissues and cells.
+RDI	Additionally, AXIN1 was a target of miR-212-3p, and its overexpression could invert the inhibition effect of miR-212-3p mimic on PD progression.
+RDI	lncRNA SNHG14 was downregulated in PE patients
+RDI	Finally, rescue assays indicated that SET expression was essential for the effects of hsa_circ_0000673/miR-767-3p signaling on HCC cell proliferation and invasion.
+RDI	Results indicated that MBNL1-AS1 was conspicuously downregulated while miR-181a-5p upregulating in PCa tissues and cell lines.
+RDI	MAGI2-AS3 inhibited the proliferative, migratory and invasive capability of LUSC cells with upregulated expression.
+RDI	AK021444, AK025180, and AK307796, 3 specifically up-regulated lncRNAs in metastatic lymph nodes (MLN), were confirmed to be highly expressed in MLN.
+RDI	It was confirmed by qRT-PCR that SNHG6 was highly expressed in osteosarcoma tissues and cell lines.
+RDI	In addition, the inhibitory effects of small interfering RNA specific for TUG1 on BC cell proliferation, migration and invasion were reversed by downregulation of miR-29c.
+RDI	The results expressed that in NSCLC, SOX2-OT, and PDK1 were notably overexpressed while miR-30d-5p was markedly under-expressed.
+RDI	The overexpression of lnc-XLEC1 reduces the migration and proliferation of EC cells.
+RDI	Mechanistically, HITT directly interacts with ATM at the HEAT repeat domain, blocking MRE11-RAD50-NBS1 complex-dependent ATM recruitment, leading to restrained homologous recombination repair and enhanced chemosensitization.  A reverse association between HITT and ATM activity was also detected in human colon cancer tissues.
+RDI	Histone deacetylation was involved in the downregulation of BANCR in NSCLC cells.
+RDI	Knockdown of MNX1-AS1 inhibited proliferation, migration and invasion of the NSCLC cell line A549 and promoted apoptosis.
+RDI	Further studies revealed that downregulation of FEZF1-AS1 reduced mRNA and protein expression of its sense-cognate gene FEZF1(forebrain embryonic zinc finger protein 1) in LAD cells, and vice versa.
+RDI	GAS5 expression was significantly downregulated in gastric cancer tissues and cancer cell lines and was further downregulated in ADM resistant cells.
+RDI	MiR-106a inhibits the expression of transforming growth factor-beta receptor 2 (TGFBR2), leading to increased CRC cell migration and invasion.
+RDI	Circ_POLA2 was upregulated in AML and inversely correlated with mature miR-34a, but not miR-34a precursor.
+RDI	5q- syndrome deleted,Identification of miR-145 and miR-146a as mediators of the 5q- syndrome phenotype
+RDI	Although the proliferation of these miRNA-expressing C6 glioma cells did not differ from that of empty vectors introduced in C6 glioma cells, cell migration and invasion were significantly decreased in C6 glioma cells expressing miR-152-3p or miR-143-3p.
+RDI	Results depicted that transcript 6 of SNHG17 and SNORA71B were upregulated in PC. Knockdown of SNHG17 or SNORA71B weakened proliferation, invasion, migration, and epithelial-to-mesenchymal transition (EMT) and strengthened apoptosis.
+RDI	Herein, we found that LINC01134 was highly expressed in HCC tissues in comparison with the matched normal liver tissues and increased LINC01134 expression correlated with shorter overall survival of patients with HCC.
+RDI	Moreover, miR-486-5p serum levels were lower in patients with heart failure than in healthy controls, and were negatively correlated with NT-proBNP levels.
+RDI	Our in vitro experiments in human NP cells revealed that HOTAIR expression positively correlated with IDD grade, and overexpression enhanced autophagy.
+RDI	hsa-miR-125b-5p was stably upregulated in the plasma and liver tissue samples from patients with AE.
+RDI	We identified that hsa_circ_0026628 (circ_0026628), a circular RNA that originated from SP1 pre-mRNA, was upregulated in CRC cells.
+RDI	Analysis of RNA binding by TDP-43 in brains from subjects with FTLD revealed that the greatest increases in binding were to the MALAT1 and NEAT-1 noncoding RNAs.
+RDI	Moreover, knocking down circ-IGF1R with siRNA significantly attenuated cell proliferation and induced cell apoptosis and cell cycle arrest in vitro.
+RDI	Exosomal circ-PVT1 was upregulated while miR-30a-5p was downregulated in DDP-resistant GC serums and cells.
+RDI	Long noncoding RNA LINC00460 targets miR-539/MMP-9 to promote meningioma progression and metastasis.
+RDI	We found that miR-374b was significantly downregulated in breast cancer tissues, compared to adjacent tissues.
+RDI	We further demonstrated that MEG3 markedly suppressed autophagy activation, whereas MEG3 knockdown activated autophagy in human bladder cancer cell lines.
+RDI	Further, GCRL1 promoted the cell proliferation and metastasis by sponging miR-885-3p and hence, positively regulating CDK4 in GC cells.
+RDI	As a result, LINC00659 expression was increased in gastric cancer tissues, which was closely associated with tumour stage and lymph node metastasis, but was not correlated with age, gender and tissue differentiation.
+RDI	TargetScan analysis together with dual luciferase assay revealed that miR-197 exerts its effects by targeting ABCA7 in ovarian cancer.
+RDI	Simultaneous RNA fluorescence in situ hybridization (FISH) to detect PVT1 and immunofluorescence for MYC showed nuclear co-localization in 85.1% of SK-BR-3 cells (Fig. 3i and Extended Data Fig.8).
+RDI	vasopressin mRNA could be detected only in a subset of axonal swellings.
+RDI	CAIF directly binds to p53 protein and blocks p53-mediated myocardin transcription, which results in the decrease of myocardin expression
+RDI	PVT1 is a promising molecular target to improve the diagnosis and therapy of GC.
+RDI	expression of Gm11864 in plasma during heart failure is downregulated
+RDI	Thus, the status of microRNA-21 might be an independent prognostic factor for patients with cutaneous melanoma, and microRNA-21 has the potential of being a novel molecular target for the treatment of human cutaneous melanoma.
+RDI	lncRNA Dopamine β hydroxylase antisense RNA 1 (DBH-AS1) was found to be upregulated in DLBC tissues and cells.
+RDI	LINC01116 was also overexpressed in oral squamous cell carcinoma and nasopharyngeal carcinoma tissues, and LINC01116 silencing significantly inhibited the migration and invasion capacities of both cell lines by blocking the epithelial-mesenchymal transition process.
+RDI	HOTAIR expression in colon cancer was significantly higher than that in normal tissues.
+RDI	DSCAM-AS1 is expressed significantly higher in luminal B, a clinical subtype containing most of the clinically aggressive ER-positive breast cancers.
+RDI	Interestingly, high-expression of NONHSAT112228.2 accompanied by low-expression of p21 was observed in lung cancer tissues and associated with lower overall survival.
+RDI	Furthermore, we found that the expression of tRF-20-MEJB5Y13, a small non-coding RNA derived from tRNA, was increased under hypoxic conditions, and its upregulation by Dicer1 resulted in hypoxia-induced CRC cell invasion and migration.
+RDI	Mechanically, we revealed that SNHG20/miR-495-3p/ZFX axis play important regulator of GC cell proliferation and invasion.
+RDI	MicroRNAs 15a and 16 regulate tumor proliferation in multiple myeloma.
+RDI	We found the exosomal levels of miR-23a and miR-192 were both significantly higher in T2D subjects.
+RDI	Hsa-circRNA9102-5 (11.7 ± 1.06 vs 12.13 ± 1.11, P = .007) was up-regulated in the patients group which was diagnosed with EH, as compared to the HC group, and was involved in the regulation of EH by sponging hsa-miR-150-5p.
+RDI	The present study uncovered that circ_0019435 was upregulated in CC cells by qRT-PCR.
+RDI	The ratio of MYCN:DeltaMYCN expression was identical in all tested NBs.
+RDI	The rescue in vitro assays showed that the effects of ZEB2-AS1 overexpression on gastric cancer cell proliferation, growth and invasion was mediated via miR-143-5p/HIF-1α.
+RDI	LCAT1 knockdown caused growth arrest and cell invasion in lung cancer cells in vitro, and inhibited tumorigenesis and metastasis in the mouse xenografts.
+RDI	We showed that LINC00514 was upregulated in GC specimens compared with nontumor specimens.
+RDI	LOC101929497 is down-regulated in drug-sensitive tuberculosis and multidrug-resistant tuberculosis compared with healthy control.
+RDI	The AV-GFP-3′β-actin transduced neurons showed a significant reduction in endogenous axonal β-actin mRNA signals (Figure 1A and B).
+RDI	In the ceRNA network, RP11-363E7.4/TTN-AS1/HOTAIRM1-hsa-miR-106b-5p-PTGER3 and LINC00960-hsa-miR-1237-3p-MMP-2 interaction pairs were identified as the key ceRNA network.
+RDI	The protein level of USP46 was further evaluated in the lung cancer tissues of 8 patients, and as expected, the lower level of USP46 mRNA in the cancer tissue compared to the adjacent normal tissue correlated with the protein level (Figure 1(b)).
+RDI	We then examined the expression of ZFAS1 in plasmas derived from 77 GC patients before- and post-operations and 60 healthy individuals, and found that circulating ZFAS1 was also upregulated in GC patients and operation can reduce its presence in plasma.
+RDI	ISL2 was overexpressed in glioma and correlated with poor patient survival.
+RDI	Decreased expression of the long non-coding RNA FENDRR is associated with poor prognosis in gastric cancer and FENDRR regulates gastric cancer cell metastasis by affecting fibronectin1 expression.
+RDI	In conclusion, the main finding of this study was that MALAT1 acts as a tumour promoter at least in part by binding miR-217 and sequestering the molecule in the nucleus, thereby promoting oncogenic KRAS expression in PDAC.
+RDI	Circ_0000267 overexpression accelerated GC cell proliferation, metastasis, and EMT processes, while knocking down circ_0000267 led to the opposite effect.
+RDI	Furthermore, we found that hsa_circRNA_103809 knockdown significantly suppressed lung cancer cell proliferation and invasion in vitro and delayed tumor growth in vivo.
+RDI	a screening of micro-RNA (miRNA) from Down's syndrome brain and peripheral tissues indicated an upregulation of a chromosome 21-encoded miRNA-155 and a decrease in the abundance of the miRNA-155 mRNA target complement factor H (CFH), an important repressor of the innate immune response.
+RDI	High-throughput microRNA (miRNAs) arrays unravel the prognostic role of MiR-211 in pancreatic cancer
+RDI	Importantly, MIR205HG was upregulated in LUSC clinical samples as well as in LUSC cell lines. In addition, MIR205HG is required for LUSC cell growth and cell migration. Most importantly, our results showed that MIR205HG prohibits LUSC apoptosis via regulating Bcl-2 and Bax.
+RDI	After interference in the expression of NCK1-AS1, the proliferation of NSCLC cells was inhibited, and the cell cycle was arrested at G2/M phase.
+RDI	The RT-qPCR results confirmed the RNA-Seq data analysis, with significant downregulation of circNRIP1 in platelets derived from NSCLC patients.
+RDI	BANCR expression in four HCC cell lines was also significantly upregulated.
+RDI	Results also indicated that the knockdown of PVT1 induced the apoptosis and cell cycle arrest of ccRCC cells through activation of the EGFR pathway.
+RDI	CircRNA_102231 expression was significantly upregulated in GC tissue and plasma samples, which can be used as a biomarker for GC diagnosis and prognosis.
+RDI	expression of Gm14677 in plasma during heart failure is downregulated
+RDI	Linc00261 expressed significantly lower in NSCLC tissues and cell lines than that in the adjacent normal tissues or control cell line.
+RDI	The results of the luciferase reporter assay suggested that circRNA_103801 could be combined with miR-338-3p, and the RT-qPCR revealed that the miR-338-3p level in OS cells after knockdown of circRNA_103801 was elevated compared with the control group.
+RDI	AFAP1-AS1 down-regulation exerts growth suppression and apoptosis induction in lung adenocarcinoma cells, suggested it may participate in turmorigenesis and be a therapeutic target for treating lung adenocarcinoma in future.
+RDI	In the present study, we showed via quantitative real-time PCR that SNHG6 expression was abnormally up-regulated in OCCC tissues relative to that in unpaired normal ovarian tissues.
+RDI	PRP1 repressed the expression of miR-21, which directly targeted and suppressed PTEN (a negative regulator of the PI3K/Akt signaling cascade), and subsequently upregulated the expression of PTEN but downregulated the PI3K/AKT pathway, thereby promoting liver cancer cell apoptosis.
+RDI	KCNN1 expression displayed side-specific remodeling in AF/HF patients with upregulation in left and suppression in right atrium.
+RDI	A novel p53/microRNA-22/Cyr61 axis in synovial cells regulates inflammation in rheumatoid arthritis.
+RDI	qRT-PCR revealed that PANDA was present at ~130 copies per nucleus in proliferating and ~1,200 copies per nucleus in senescent fibroblasts (Supplementary Fig. 5a).
+RDI	The expression level of MNX1-AS1 in NSCLC cell line A549 was significantly higher than that in human normal lung epithelial cell line Beas-2B.sis.
+RDI	HOTAIR knockdown suppressed medulloblastoma cell proliferation, tumor growth, migration and invasion,and promoted cell apoptosis via the modulation of the miR-1/miR-206-YY1 axis, as well as epithelial to mesenchymal transition (EMT).
+RDI	lasma NCK1-AS1 was upregulated in patients with PC.
+RDI	Overexpressing and silencing assays were used to verify the role of RP11 in cancer cell EMT.
+RDI	CircRNA_000864 and BTG2 were poorly expressed, and miR-361-3p was highly expressed in the pancreatic cancer tissues.
+RDI	Downregulation of FER1L4 in hepatocellular carcinoma tissues and cells was demonstrated by qRT-PCR analysis.
+RDI	GHET1 was overexpressed in ovarian cancer tissues and cell lines.
+RDI	ZEB1-AS1 depletion using siRNA in chemosensitive A2780 cells significantly increased PTX and DDP resistance.
+RDI	CircANKS1B was significantly up-regulated in triple-negative breast cancer (TNBC) compared with non-TNBC tissues and cell lines.
+RDI	MicroRNA-326 functions as a tumor suppressor in glioma by targeting the Nin one binding protein (NOB1).
+RDI	the ceRNA network involving KRAL may serve as a treatment strategy against 5-FU resistance in hepatocellular carcinoma cells.
+RDI	The expression of miR-10b was significantly downregulated in the peripheral blood of COVID-19 patients in comparison to the healthy controls (fold change= 0.12, P< 0.0001).
+RDI	Alteration in Mir-21/PTEN expression modulates gefitinib resistance in non-small cell lung cancer.
+RDI	expression of Gm15892 in plasma during heart failure is downregulated
+RDI	MiR-31-5p was identified as a target of circ_0035483 and miR-31-5p upregulation was related to the function of circ_0035483 knockdown in RCC cells.
+RDI	Circ_0001944 was highly expressed in NSCLC, and NSCLC patients with high expression of circ_0001944 had a worse prognosis.
+RDI	Epigenetic silencing of the myelopoiesis regulator microRNA-223 by the AML1/ETO oncoprotein.
+RDI	MicroRNA-99a/100 promotes apoptosis by targeting mTOR in human esophageal squamous cell carcinoma
+RDI	Data analysis showed that KRT19P3 was upregulated and TNXA, CTA-134P22.2 and CTC-276P9.1 were downregulated in bladder cancer samples compared with matched normal tissues.
+RDI	Associations of pri-miR-34b/c and pre-miR-196a2 Polymorphisms and Their Multiplicative Interactions with Hepatitis B Virus Mutations with Hepatocellular Carcinoma Risk
+RDI	Enforced-expression of circRNA_000203 could increase expressions of Col1a2, Col3a1 and α-SMA in mouse cardiac fibroblasts.
+RDI	CircPPP1CB is downregulated in BC and is negatively correlated with clinical stages and histological grades.
+RDI	CPS1 and CPS1-IT1 were co-upregulated in ICC tissues compared with non-cancerous tissues.
+RDI	In addition, the results confirmed the role of β-catenin in ATB-mediated regulation of stemness in CRC.
+RDI	CASC9 exerts its oncogenic activity by modulating TGF尾2 mRNA stability and upregulating the levels of TGF尾2 and TERT, resulting in an increase in phosphorylated SMAD3 and activation of TGF-尾 signaling, and enhanced TERT complex function in CRC cells.
+RDI	It was determined that GRIK3 is a downstream target of miR-331-3p, and that hsa_circ_0038646 could increase the levels of GRIK3 by suppressing miR-331-3p in CRC cells.
+RDI	The expression of hsa_circ_0123190 was significantly decreased in the renal tissues of patients with LN (P = 0.014).
+RDI	HOTAIR significantly repressed miR-106a expression and the reduced miR-106a level was also observed in placentas from PE patients.
+RDI	liver organoids exogenously overexpressing the HBV receptor sodium taurocholate co-transporting polypeptide (NTCP) after lentiviral transduction were not more susceptible to HBV, suggesting the necessity for additional host factors for efficient infection.
+RDI	Overexpressed miR-27a reversed the CUR-induced reduction of growth, migration, and invasion in TC1889 cells.
+RDI	In conclusion, we showed that lncR SNHG20 expression was higher in GC.
+RDI	In this study, we demonstrated that NORAD expression was upregulated in PTC cell lines and samples.
+RDI	The results revealed that circKIF4A sponges miR-375/1231 to promote bladder cancer progression by upregulating NOTCH2.
+RDI	Downregulated long noncoding RNA MEG3 is associated with poor prognosis and promotes cell proliferation in gastric cancer.
+RDI	AC009022.1 expression was abnormally elevated in CRC tissues and cells.
+RDI	Forced expression of BCAR4 in human ZR-75-1 and MCF7 breast cancer cells resulted in cell proliferation in the absence of estrogen and in the presence of various antiestrogens.
+RDI	circRNA0003906 expression level was dramatically downregulated in both CRC tissues and cell lines.
+RDI	lncRNA RBM5-AS1 to be highly expressed in OSCC tumor tissues and cancer cell lines.
+RDI	Extensive microRNA-mediated crosstalk between lncRNAs and mRNAs in mouse WIF1 re-expression in glioblastoma inhibits migration through attenuation of non-canonical WNT signaling by downregulating the lncRNA MALAT1.
+RDI	ISH with probes targeting the Dmd mRNA suggested preferential nuclear localization (Fig. 3C).
+RDI	LINC00662 was found to be upregulated in HCC, and high LINC00662 levels correlated with poor survival of HCC patients.
+RDI	Survival analyses revealed that elevated HANR expression was correlated with worse overall survival (P = .002) and disease-free survival (P = .003).
+RDI	H19 and NF1 were highly expressed in NSCLC tissues and NSCLC cell lines (A549 and HCC823) than those of controls.
+RDI	Moreover, the lnc-ATB/miR-141-3p/ TGF-β2 feedback loop was closely related to GC
+RDI	High expression of circ_0023028 was observed in LSCC tissues and cells.
+RDI	In particular, EVX1-AS, ZNF667-AS1, CTC-428G20.6, and CTC-297N7.9 were first reported to be related to colon cancer by using our model, among which EVX1-AS and ZNF667-AS1 have been predicted to be related to colon cancer in LncRNADisease database.
+RDI	We have found that lncRNA long intergenic non-protein-coding RNA 341 (LINC00341) is aberrantly downregulated by microarray-based screenings on nonmetastatic and metastatic colorectal carcinoma (CRC) specimens;
+RDI	TmBr-2 mRNA was distributed throughout the cell body (Figure 1C).
+RDI	ROC analysis showed that hsa_circ_0101996 and hsa_circ_0101119 could distinguish CSCC patients from healthy controls with high AUC (0.906 and 0.887, respectively).
+RDI	Circ-ATP8A2 was significantly enhanced in CC specimens and cells.
+RDI	Decreased Expression of Hsa_circ_00001649 in Gastric Cancer and Its Clinical Significance.
+RDI	lncRNA HOXD-AS1 expression was remarkably higher in melanoma tissues.
+RDI	We further verified a ccRCC biomarker panel, which consists of lncRNA SNHG5, miR-363-3p, and Twist1 in ccRCC tissue samples.
+RDI	ATP1B2, as a cGMP-PKG pathway-related gene, was significantly correlated with the overall survival of CC patients.
+RDI	Compared with adjacent tissues, PVT1, HCG18, EXOC3-AS1 were upregulated in most lung cancer tissues.
+RDI	Crnde was found to be expressed in osteoblasts, and its expression was induced by parathyroid hormone.
+RDI	We reported that circ_0069244 was remarkably down modulated in NSCLC and was linked to shorter survival and poor tumor histological grade in NSCLC patients.
+RDI	Nuclear-cytoplasmic fractionation and FISH assay demonstrated that the majority of MAGI2-AS3 was distributed in the cytoplasm rather than the nucleus of LUSC cells (Figure 2A and B).
+RDI	Cdr1as overexpression in MCM cells promoted cell apoptosis, but was then reversed by miR-7a overexpression.
+RDI	MIBC patients with low expression of LINC00675 had worse survival rates than those with high expression.
+RDI	LINC01234 expressions were distinctly upregulated in both NSCLC samples and cell lines.
+RDI	Circulating miR-1, miR-208a, and miR-133a continuously rose during the first 4 h after induction of AMI.
+RDI	MicroRNA-198 inhibited tumorous behaviors of human osteosarcoma through directly targeting ROCK1.
+RDI	LINC00460 expression was upregulated in glioma tissues and cell lines compared with non-tumor brain samples and astrocyte cell line (NHA),
+RDI	These findings have linked p53/RBM25-mediated circAMOTL1L-miR-193a-5p-Pcdha regulatory axis to EMT in metastatic progression of PCa.
+RDI	The levels of miR-383 were lower while the levels of Bcl-2 levels were higher in GC specimens, compared to tissue from the adjacent non-tumor region.
+RDI	In this study,we show that Malat1 is overexpressed in gallbladder cancer (GBC) tissue and cells.
+RDI	Herein, we have identified a 33 nt tiRNA-Gly significantly increases in papillary thyroid cancer (PTC) based on tRFs & tiRNAs sequencing.
+RDI	a significantly elevated of DNACR was detected in osteosarcoma tissue and cell lines.
+RDI	Down-regulation of LncRNA CCAT1 enhances radiosensitivity via regulating miR-148b in breast cancer;CCAT1 could negatively regulate miR-148b expression;overexpression of miR-148b suppressed colony survival fraction and caspase3 expression under irradiation in breast cancer cells, which was exacerbated by CCAT1 knockdown.
+RDI	In our study, the comparison between tuberous sclerosis complex 1 (Tsc1) -/- or Tsc2-/- mouse embryonic fibroblasts (MEFs) and the control cells revealed the involvement of microRNA-125b-5p (miR-125b-5p) in the tumorigenesis driven by mTORC1 activation.
+RDI	SCI resulted in lncRNA H19 higher expression and miR-370-3p lower expression.
+RDI	miR-483 was downregulated in venous blood, umbilical cord blood and placental tissue of pre-eclampsia patients.
+RDI	Altered microRNA expression in cisplatin-resistant ovarian cancer cells and upregulation of miR-130a associated with MDR1/P-glycoprotein-mediated drug resistance.
+RDI	microRNA-125b regulates of placenta growth factor in hepatocellular cancer
+RDI	In our study, we indicated that CCAT2 expression was up-regulated in osteosarcoma tissues and cell lines (SOSP-9607, MG-63, U2OS and SAOS-2).
+RDI	Additionally, miR-31-5p targeted HMGA1 and inhibited the malignant behaviors of RCC cells by negatively regulating HMGA1.
+RDI	Moreover, circBMPR2 expression was negatively associated with the motility of breast cancer cells and significantly downregulated in human breast cancer tissues.
+RDI	The overall survival analysis showed that patients with higher MIAT expression had a relatively poor prognosis. Meanwhile, the multivariate analysis revealed that MIAT was an independent prognostic marker of functional outcome and death in patients with IS.
+RDI	We observed that the majority of Ago2 and let-7a miRNA accumulated with the ER-positive fractions (Fig. 1C).
+RDI	Altogether,these results indicate that reactivation of miR-153 expression suggests novel therapeutic strategies for GBM-SCs.
+RDI	Besides, linc01184 acted as a competitive endogenous RNA (ceRNA) by directly binding to microRNA-331 (miR-331), and its overexpression resulted in notable increases of human epidermal growth factor receptor 2 (HER2), phosphorylated Ser/Thr kinases (p-Akt), and extracellular regulated protein kinase 1/2 (p-ERK1/2) at posttranscriptional levels in CRC cells, which were antagonized by miR-331.
+RDI	In addition we performed in situ hybridization on a developmental series of human cerebellar sections and demonstrate that the L7/Pcp-2 mRNA is also localized in dendrites of humans.
+RDI	Collectively,our findings show the critical roles of miR-106b-5p and its targets,RBL1,RBL2 and CASP8,in glioma tumorigenesis and provide potential candidates for malignant glioma therapy.
+RDI	H19 overexpression reduced PTC cell proliferation and migration.
+RDI	Our results showed that H19 was down-regulated in brain tissue of MPTP-induced PD mice (in vivo) and in MPP+ treated human neuroblastoma cells.
+RDI	Herein, we investigated macrophage polarization and angiogenesis in MM in vitro via exosome-derived miR-let-7c.
+RDI	In higher exposure photographs, many additional (albeit smaller) TERRA foci became apparent throughout the nucleus (Fig. 1A).
+RDI	This work identifies GAS5 as a novel prognostic marker and candidate drug target for HER2-positive breast cancer.
+RDI	We find that ZNF561-AS1 and SRSF6 were upregulated in CRC patient tissues.
+RDI	down-regulated of microRNAs-143 and -145 in B-cell malignancies.
+RDI	Moreover, circBMPR2 knockdown promoted tamoxifen resistance of breast cancer cells through inhibiting tamoxifen-induced apoptosis, whereas circBMPR2 overexpression led to decreased tamoxifen resistance.
+RDI	HOTAIR was aberrantly up-regulated in glioma tissues and was negatively correlated with miR-126-5p expression.
+RDI	expression of Gm11264 in plasma during heart failure is downregulated
+RDI	LncRNA FER1L4 expression was decreased in osteosarcoma samples.
+RDI	In the absence of microtubules,grkm RNA aggregates into one or a few larg clumps on the surface of the oocyte nucleus (Figure 2A).
+RDI	MicroRNA-221 targets Bmf in hepatocellular carcinoma and correlates with tumor multifocality.
+RDI	Furthermore, high CRNDE expression was associated with shorter overall survival of GC patients. high CRNDE expression was a significant independent predictor of poor survival in GC.
+RDI	AK307796, ENST00000425785, and AK021444 were confirmed to be specifically up-regulated in MLN and ENST00000465846 specifically down-regulated in MLN by qRT-PCR in 26 CRC patients.
+RDI	Production of microRNAs miR-21, miR-205, and miR-200 paralleled PanIN progression in the KRAS(G12D) mouse model, compared with microRNA production in samples of nonpathologic ducts.
+RDI	Initially, poor expression of GAS5 was observed in CRC tissues and cells.
+RDI	MEG3 Suppresses Human Pancreatic Neuroendocrine Tumor Cells Growth and Metastasis by Down-Regulation of Mir-183.
+RDI	si circ-FBXW7 notably promoted the proliferation, colony formation, cell migration and invasion of CRC cell in vitro.
+RDI	miR-137 was low expressed in cartilage tissue of OA group, while TCF4 expression and protein level were significantly higher, showing significant negative correlation.
+RDI	miR-195-5p mimics decreased ITGA2 expression in NSCLC cells by directly targeting ITGA2, and SLC25A25-AS1 interference decreased ITGA2 expression by sequestering miR-195-5p.
+RDI	In the current study, we demonstrated that MEG3 is down-regulated in HCC tissues.
+RDI	MANCR was upregulated in GC tissues compared with non-cancerous tissues.
+RDI	In addition, decreased SFTA1P expression was strongly correlated with advanced TNM stage, larger tumor size, lymphatic metastasis, and poor prognosis of patients with GC.
+RDI	Intriguingly, ectopic expression of miR-7 in CRC cells consistently inhibited proliferation and invasion, and the miR-7 inhibitor was able to rescue the function of CDR1as knockdown.
+RDI	Mechanistic investigation showed that miR-21 maintained MDSC accumulation in tumor microenvironment and promoted immunosuppressive ability of MDSCs in Lewis lung-cancer-bearing mice by down-regulating RUNX1and up-regulating YAP.
+RDI	Within 45 min pilocarpine had strongly increased the expression of the primary transcript, pri-mir-132,However, 8 h following induction of pilocarpine-mediated seizures we detected a significant increase in mature miR-132.
+RDI	MicroRNA-200a/b influenced the therapeutic effects of curcumin in hepatocellular carcinoma (HCC) cells.
+RDI	Together, lncBRM functions as an oncogene in OC and can be a promising therapeutic target for OC treatment.
+RDI	MicroRNA-195 suppresses angiogenesis and metastasis of hepatocellular carcinoma by inhibiting the expression of VEGF, VAV2 and CDC42
+RDI	MiR-34c modulates expression of its putative target gene, SERPINE1, in vitro in respiratory cell lines and ex vivo in emphysematous lung tissue.
+RDI	A microRNA-7 binding site polymorphism (1010A/G) in HOXB5 leads to differential gene expression in bladder cancer.
+RDI	lncRNA HOTAIR had an extremely high expression level in GC cells, and predicted poor prognosis in patients.
+RDI	circPVT1 and c-FLIP were highly expressed, while miR-205-5p was lowly expressed in OS tissues and cell lines.
+RDI	Notably, expression of CTBP1AS2, LINC-ROR and SPRY4-IT1 were upregulated in breast cancer tissues compared with non-cancerous tissues (ER = 17.62, P value<0.000; ER = 4.62, P value = 0.001 and ER = 3.47, P value = 0.005, respectively).
+RDI	aHIF was elevated in EOC tissues and was induced by hypoxia in EOC cells.
+RDI	We found that SON and SC35 (also known as SRSF2) localize to the central region of the speckle, whereas MALAT1 and small nuclear (sn)RNAs are enriched at the speckle periphery.
+RDI	expression of Gm14613 in plasma during heart failure is downregulated
+RDI	Furthermore, overexpression of CASC2 significantly inhibited the proliferation of thyroid carcinoma cell lines in vitro.
+RDI	We showed that miR-127-3p promoted cell migration and invasion of GBM cells using in vitrocell lines and in vivomouse models.
+RDI	CADM1-AS1 has antitumor effect in vivo by a xenograft HCC mouse model.
+RDI	Downregulation of HCG11 expression in tissues was associated with poor survival of PCa patients.
+RDI	Moreover,AFAP1-AS1 depletion resulted in the inhibition of CRC cell proliferation and colony formation.
+RDI	Silencing of linc00467 using small interfering RNA interference significantly inhibited the growth and motility of HCC cells, and increased cell apoptosis through regulating the Bcl-2/Bax axis and the caspase cascade, suggesting that linc00467 exerted oncogenic functions in the progression of HCC.
+RDI	Among these up-regulated lncRNA, the difference of AC002454.1 expression was most significant in ALL and AML children (P锛?.05, P锛?.01).
+RDI	Decreased GAS5 and increased miR-135b in HCC inversely correlate with each other and both correlate with poor prognosis of HCC patients.
+RDI	microRNA-372 maintains oncogene characteristics by targeting TNFAIP1 and affects NFkB signaling in human gastric carcinoma cells
+RDI	We found that USP1 was generally upregulated in the bone marrow cells derived from B-ALL patients.
+RDI	Here, a novel circRNA named circMRPS35, was screened out by RNA-seq in gastric cancer tissues, whose expression is related to clinicopathological characteristics and prognosis in gastric cancer patients.
+RDI	And the expression of SNHG15 was correlated with TNM stage, lymphnode metastasis and survival in breast cancer patients.
+RDI	Besides, overexpressed CASC2 was found to relieve the symptoms of BPD in neonatal mice and suppress apoptosis as well as promote proliferation in hyperoxia-induced BEAS-2B cells.
+RDI	kaplan-meier survival analysis showed that the lower expression of miR-125a-3p was associated with a poor prognosis of GBM patients.
+RDI	Patients with high HEIH expression were associated with medium-high differentiation (p = 0.0058), distant metastasis (M, p = 0.0378), lymph node metastasis (N, p = 0.0083), and a deeper tumor invasion (T, p = 0.0204).
+RDI	expression of Gm14329 in plasma during heart failure is downregulated
+RDI	Here, it was reported that NBAT1 overexpression inhibited autophagy, while knockdown of NBAT1 induced autophagy in NSCLC cells.
+RDI	Significant upregulation of MAPK/ERK1/2 gene was noted in the OLP and OSCC specimens compared with healthy controls (p < 0.001).
+RDI	interference of LINC00520 resulted in a significant decrease of CRC cell proliferation, migration, colony forming ability, and invasion.
+RDI	Fluorescence in situ hybridization (FISH) analysis showed that circFAT1(e2) was distributed in the cytoplasm of GC cells, as well as in the nucleus.
+RDI	ADPGK-AS1 was upregulated in CRC tissues and cells.
+RDI	Identification and Functional Characterization of Long Non-coding RNA MIR22HG as a Tumor Suppressor for Hepatocellular Carcinoma.
+RDI	Functional SNP (rs1044129, is present in binding region) in the microRNA-367 binding site in the 3'UTR of the calcium channel ryanodine receptor gene 3 (RYR3) affects breast cancer risk and calcification.
+RDI	Besides, knocking down miR-30d prevented the decrease of cardiac function in diabetic rats.
+RDI	LINC01433 level was noticeably elevated in NPC tissues and cell lines.
+RDI	HERVH specifically localizes to the nucleus and functions as a lncRNA regulating neighboring genes' expression.
+RDI	In both the discovery and the validation cohort, serum concentration of miR-21, miR-155, miR-208a and miR-499 were significantly increased in COVID-19 patients compared to healthy controls.
+RDI	Kaplan-Meier analysis indicated that high YBX1 expression was correlated to worse overall survival rate and disease-free survival rate in RCC patients.
+RDI	A significant downstream target of TRPM2-AS, miR-22-3p was found to show a lower expression level in BLCA tissues and cell lines.
+RDI	lncRNAs in urine and blood performed relatively well in diagnosing bladder cancer, with a pooled sensitivity of 0.78, a specificity of 0.79, and an area under the SROC curve (AUC) of 0.86.
+RDI	Consequently, this study firstly reveals that up-regulated LINC00152 mediates PTEN protein stability attenuation in TNBC.
+RDI	Importantly, similar expression pattern was observed in the extracellular (i.e., exosomal) fraction for miR-10b, indicating that miR-10b can be actively secreted by MDA-MB-231 cells but little was detected in HMLE conditioned medium.
+RDI	In contrast, the nuclear localized 45S rRNA shows a mean nuclear/cytoplasmic ratio of 621:1 (Figure 6A).
+RDI	Proteolipid mRNA distribution paralleled that of rough endoplasmic reticulum, whereas subunit A mRNA distribution paralleled that of free ribosomes: rough endoplasmic reticulum was abundant around the central nucleus but also extended into the entire cytosol, whereas free ribosomes were highly concentrated at the apical portion of the cell (Fig. 5A-C).
+RDI	Mechanical stretch modulates the homeostasis of the hBEC secretome involving miR-155 and that hMSCs can be used as a potential therapeutic approach to reverse bronchial epithelial inflammation in asthma.
+RDI	We discovered a circRNA derived from the T-cell transcription factor gene B cell CLL/lymphoma 11B, circBCL11B, which was exclusively expressed in AML patients, but not detected in healthy HSPCs, and associated with a T-cell-like gene expression signature.
+RDI	MiR-199a-3p and miR-125a-5p appeared more concentrated in the nucleoplasm and cytoplasm compared with the nucleolus; their hybridization pattern more closely resembled that of let-7a, a microRNA that earlier in situ hybridization experiments had shown not to be concentrated in the nucleolus (Fig. 3).
+RDI	CircCEP128 and MYD88 were overexpressed in bladder cancer based on microarray analysis and miR-145-5p was a potential targeting factor in bladder cancer.
+RDI	The alteration or upregulation of MALAT1 expression tends to predict better prognostic outcome in PC.
+RDI	AOC4P was lowly expressed in NSCLC samples and cells. Overexpression of AOC4P inhibited viability, the expression of MMP-2 and MMP-9, and invasion of NSCLC cells.
+RDI	LncRNA MVIH is upregulated in drug resistant NSCLC cells.
+RDI	The results of quantitative reverse transcription PCR showed that NONHSAT252133.1, NONHSAT112116.2 and NONHSAT242657.1 were significantly upregulated in HCC tissues, whereas NONHSAT169790.1, NONHSAT059247.2 and NONHSAT013897.2 were significantly downregulated.
+RDI	SATB1 repressed the expression of oncogenic UCA1, suppressing growth and survival of breast cancer cells.
+RDI	Circ_0069767 by sponging miR-636 in MM cells regulates the expression of K-RAS while the K-RAS gene remained unmutated.
+RDI	In this study, we silenced the expression of SNHG4 in NCI-H1437 and SK-MES-1, two representative non-small-cell lung cancer cell lines, by transfecting them with siR (small interfering R) that specifically targets SNHG4.
+RDI	MicroRNA-200c modulates epithelial-to-mesenchymal transition (EMT) in human colorectal cancer metastasis.
+RDI	Low LINC01089 expression was significantly correlated with age (P=0.026), lymph node metastasis (P=0.003), and poor prognosis of patients with BC
+RDI	Furthermore, we tested relative mRNA levels of TMEM92 in three BC cell lines, as respected, TMEM92 expression was upregulated in all BC cell lines in comparison with normal cell line MCF-10A (p?<?0.05, Fig. 1c), reminding us that TMEM92 might play a certain role in the progression of BC.
+RDI	Increased expression of miR-183 and miR-22 may both repress the protein level of ezrin, indicating that miR-183 and miR-22 may bear a potential role in inhibiting ovarian cancer metastasis in a ezrin-mediated way
+RDI	The survival alysis showed that RCC patients with higher SNHG15 expression level are tended to have worse prognosis.
+RDI	MALAT-1 was up-regulated in human prostate cancer tissues and cell lines.
+RDI	Downregulation of Linc00632 was identified in nasal tissues of AR patients and in IL-13-treated NECs.
+RDI	miR-4426 specifically binds circ0000069 and mediates its functions in CC development.
+RDI	Downregulation of FEZF1-AS1 or ZNF312B significantly inhibited proliferation, colony formation, migration, and invasion of PDAC cells in vitro, whereas the miR-107 inhibitor abrogated the effect of dow-regulation of FEZF1-AS1 or ZNF312B in reducing oncogenic capacities of PDAC cells.
+RDI	In conclusion, our data suggest that low miR-200a expression is associated with poor prognosis in CRC patients.
+RDI	Mechanically, we found a potential miRNA target, miR-23a, which negatively correlated with circ-Foxo3 in ESCC.
+RDI	On the other hand, miR-23a was upregulated and BCL-2 downregulated in ASD patients but the changes were not significant.
+RDI	MiR-153-3p was highly expressed in exosomes released from decidual macrophages of URSA patients.
+RDI	Similarly, Northern blot analysis of the mRNA composition of the cytosol and membrane fractions show that the cytosol fraction is enriched for mRNAs encoding histone (H3F3A) and GAPDH, whereas the membrane fraction is enriched in mRNAs encoding ER resident proteins, such as GRP94 and calreticulin (Fig. 2 B).
+RDI	Taken together, all research findings suggested that CASC7 inhibited the progression of glioma via regulating Wnt/尾-catenin signaling pathway
+RDI	microRNA-34a inhibits epithelial mesenchymal transition in human cholangiocarcinoma by targeting Smad4 through transforming growth factor-beta/Smad pathway.
+RDI	The correlation between expression levels of SNHG6 and the overall survival of glioma patients was demonstrated by using Kaplan Meier method analysis.
+RDI	Furthermore, this assay was successfully applied to the detection of exosomal miR-181 in serum samples of normal healthy controls and patients with coronary heart disease (CHD) and the results were consistent with those analysis collected from qRT-PCR.
+RDI	Collectively, RMRP promoted cardiac fibroblast activation by acting as a ceRNA for miR-613.
+RDI	LOC441204, a novel non-coding RNA gene displaying high expression in clinical specimens of brain tumor and significant upregulation in glioma cell lines.
+RDI	GAS5 is downregulated in gastric cancer cells by promoter hypermethylation and regulates adriamycin sensitivity
+RDI	Knockdown of ATB impaired colony formation and sphere formation in CRC cells, accompanied by an inhibition of colon tumor growth.
+RDI	High circ_001569 level was positively correlated with lymphatic metastasis, clinical stage, and venous invasion.
+RDI	Herein, by analyzing GC cell lines and patients samples, we observed that miR-148b-5p was significantly downregulated in GC.
+RDI	ESCC tissues can secret circRNAs into plasma and patients with high plasma circ-SLC7A5 are associated with high TNM stage, tending to have shorter overall survival than those with high levels.
+RDI	In addition, an inverse correlation between linc00460/miR-1224-5p and miR-1224-5p/FADS1 was observed in OS.
+RDI	Additiolly, SNHG1 also played a crucial role in pancreatic ductal adenocarcinoma.
+RDI	Expression, regulation and roles of miR-26a and MEG3 in tongue squamous cell carcinoma.
+RDI	Expression of hsa_circ_0012919 and MDA5 were further confirmed to be significantly higher in CD4+ T cells of SLE patients (p < 0.05), methylation level of MDA5 promoter was significantly lower in CD4+ T cells of SLE patients (p < 0.05), and expression of MDA5 mRNA was correlated with SLE parameters (p < 0.05).
+RDI	Both ROC and multivariate logistic regression analyses revealed that PAI-1 has the greatest power in discriminating breast cancer from the control, whereas HOTAIR, PAI-1, and OPN have the greatest power in discriminating breast cancer from fibroadenoma patients.
+RDI	LncRNA OIP5-AS1 is demonstrated to mediate the physiological process of cervical cancer cells.
+RDI	On the whole, exosomal lncRNA RP11-838N2.4 may serve as a therapeutic target for patients with NSCLC.
+RDI	It was observed that MSC-AS1 and lymphoid enhancer-binding factor 1 (LEF1) were remarkably up-regulated while microRNA-302a-3p (miR-302a-3p) down-regulated in melanoma cell lines.
+RDI	Detection of miR-34a Promoter Methylation in Combination with Elevated Expression of c-Met and beta-Catenin Predicts Distant Metastasis of Colon Cancer
+RDI	SBF2-AS1 contributed to cell proliferation, migration, invasion and EMT in ESCC by enhancing PFN2 expression via sponging miR-494, providing promising biomarkers for ESCC diagnosis and treatment.
+RDI	FOXD3-AS1 was found to be highly expressed in BC cell lines.
+RDI	MTFR2 mRNA expression was significantly higher in GC patients
+RDI	MALAT1 expression was shown to be downregulated in ovarian tissue of PCOS rats.
+RDI	In addition, silencing of PART1 obviously improved the sensitivity of breast cancer cells to cisplatin, promoted cell apoptosis, and decreased the expression of breast cancer resistance proteins.
+RDI	hsa_circRNA_104634 is downregulated in thoracic aortic dissection compared to matched normal donors.
+RDI	In summary, our study validated that the overexpression of NNT-AS1 is observed in GC tissue and cells.
+RDI	HrWnt-5mRNA is present in the vegetal cortex in unfertilized eggs.
+RDI	In summary, CASC2c plays the onco-RNA role in the tumorgenesis of astrocytoma by acting as a decoy hsa-miR-101 sponge.
+RDI	A cell culture under hypoxic conditions revealed several lncRNAs, such as LINC00152, whose levels were increased in the cytoplasm of colorectal cancer cells.
+RDI	By using RT-qPCR, we validated 6 microRNAs (miR-429, miR-205, miR-200b, miR-203, miR-125b and miR-39b) with a significantly higher abundance in serum from NSCLC patients.
+RDI	These findings indicate that LINC01116 might be a potential therapeutic target for HNSCC.
+RDI	Dendrosomal curcumin nanoformulation downregulates pluripotency genes via miR-145 activation in U87MG glioblastoma cells.
+RDI	Our results revealed upregulation of miR-21-5p (1.16-fold change, p = 0.0015), miR-155-5p (1.62-fold change, p = 0.0005) in preeclamptic pregnancies, compared to controls.
+RDI	Furthermore, circNRIP1 sponged miR-211-5p, and miR-211-5p inhibitor could reverse the inhibitory effect of circNRIP1 knockdown on the PTX resistance of OC cells.
+RDI	All OSCC cell lines expressed TRPV4 mRNA higher than MOE1a cells.
+RDI	LNC01133 was related to poor survival of OC patients, and identified that LNC01133 had significant influence on OC cells' apoptosis, proliferation, migration and invasion abilities.
+RDI	A novel estrogen receptor-microRNA 190a-PAR-1-pathway regulates breast cancer progression, a finding initially suggested by genome-wide analysis of loci associated with lymph-node metastasis.
+RDI	In conclusion, our data suggested that SNHG12 knockdown inhibited cell growth and induced apoptosis by upregulating miR-138 in NSCLC and SNHG12 might be a potential target for gene therapy.
+RDI	MicroRNA-146a and MicroRNA-155 levels were increased in patients with MS compared to controls.
+RDI	Moreover, the results indicated that SNHG12 was a novel biological marker for DXR-resistant osteosarcoma patients.
+RDI	What’s more, miR-329 reversed the biological function of ZFAS1 on bladder cancer cells.
+RDI	Clinically, increased circCDYL in the tumor tissues and serum of BC patients was associated with higher tumor burden, shorter survival and poorer clinical response to therapy.
+RDI	GAS5 elevation and miR-21 inhibition reduced viability and the colony formation ability, and enhanced the apoptosis of ESCC cells under radiation.
+RDI	miR-193a-3p was highly expressed in glioma tissues and significantly correlated with poor survival in patients with glioma.
+RDI	miR-618 was overexpressed in serum of mCC patients.
+RDI	Rat MARTA-1, a protein that transports MAP-2 mRNA to dendrites.
+RDI	WT1-AS was downregulated in NSCLC and was correlated with poor survival.
+RDI	Finally,we show that miR-124 is down-regulated in AD brain.
+RDI	Furthermore, both loss and gain function assay revealed that CRNDE promotes RCC cell proliferation and growth both in vitro and in vivo.
+RDI	Overall, HOTAIR contributes to the proliferation and growth of liver cancer via downregulation of miR-217.
+RDI	MiR-142-3p level was found as the most significantly repressed miRNA in CRC patients.
+RDI	CDR1-AS was an independent prognostic biomarker for LUAD patients.
+RDI	Through loss-of-function and gain-of-function approaches, we found that CRNDE knockdown markedly reduced cervical cancer cell proliferation, while CRNDE overexpression significantly promoted cervical cancer cell growth.
+RDI	Our results showed that coculture of NHEK with psoriatic DMSC induced 32 differentially expressed miRNA, in which expression levels of miR-1 increased approximately 16-fold over control DMSC-treated NHEK (P < 0.05).
+RDI	Higher GOLGA2P10 level was correlated with shorter recurrence-free survival of HCC patients.
+RDI	Expression of MALAT-1 lncRNA was enhanced in TSCCs, especially in those with lymph node metastasis (LNM). Knockdown (KD) of MALAT-1 lncRNA in TSCC cells led to impaired migration and proliferation ability in-vitro and fewer metastases in-vivo.
+RDI	ROC analysis showed that HOTAIR in serum was a diagnostic factor of T2DM.
+RDI	Moreover, in WT neurons, CaMKIIα mRNA can be delivered and translated in dendritic spines within 10 min in response to group I mGluR stimulation, whereas KO neurons fail to show this response.
+RDI	In the first place, qRT-PCR found that OIP5-AS1 and VEGFA expressions were significantly increased while miR-3163 was obviously reduced in HCC cells and tissues
+RDI	TMEM126A is a mitochondrial located mRNA (MLR) that may be translated in the mitochondrial surface and the protein is subsequently imported to the inner membrane.
+RDI	In conclusion, in this study we have identified a novel linc00483 that is upregulated in gastric cancer and correlates with patients'prognosis.
+RDI	expression of Gm13161 in plasma during heart failure is downregulated
+RDI	miR-29b also shows mitotic accumulation and nuclear enrichment in murine NIH 3T3 cells (fig. S6), demonstrating the conservation of this pathway in other mammalian cell lines.
+RDI	CCAT1 promotes cell proliferation, cell invasion and epithelial-mesenchymal transition of NSCLC cell lines.
+RDI	MicroRNA-195 and microRNA-378 mediate tumor growth suppression by epigenetical regulation in gastric cancer
+RDI	In summary, our findings showed SNHG20 was markedly overexpressed in serous EOC tissues and highly expressed SNHG20 closely associated with poor histological grade,LN metastasis and poor prognosis, which might be an independent risk factor for the prognosis of serous EOC.
+RDI	Higher expression of AGAP2-AS1was correlatedwith the lower overall survival of glioma patients.
+RDI	In this study,we first confirmed the upregulation of cytoplasmic expressed Linc00152 in 72 pair tissues of gastric patients.
+RDI	In vitro study revealed that CCDC144NL-AS1 was highly expressed in HCC cell line MHCC97H but lowly expressed in normal hepatic cell line L02.
+RDI	Hsa_circ_0005397 and PDK2 were up-regulated, whereas miR-326 was down-regulated in HCC tissues and cells.
+RDI	In this study, we found that the expression level of miRNA-22 in peripheral blood was lower in AD patients than that in healthy population.
+RDI	Our results showed that circ_0020123 was upregulated in NSCLC, and its knockdown could suppress NSCLC cell proliferation, migration, invasion, and promote apoptosis.
+RDI	MicroRNA miR-581 was the downstream target of LINC00485, which was downregulated in CRC samples and cancer cells compared to normal tissues and normal colonic epithelial cells.
+RDI	Upregulation of NCK1-AS1 distinguished patients with PC from patients with BPH and healthy controls.
+RDI	HIF1A was a functional target of miR-578 in regulating BC cell viability, colony formation, migration, invasion, glycolysis and apoptosis in vitro.
+RDI	Inhibition of GSK3β activity restored NLIPMT-induced inhibition of proliferation and motility in breast cancer cells.
+RDI	We observed a considerable increase in HNF1A-AS1 expression in the nucleus versus the cytosol (Figure 2C), thus suggesting that HNF1A-AS1 was mainly localized in the nucleus and maybe played a major regulatory function at the transcriptional level.
+RDI	A high SNHG9 expression in tumor tissues was a predictive of shorter overall survival time (p < 0.01).
+RDI	Silencing of FBXW7 reversed the cell phenotypes caused by FER1L4 overexpression in prostate cancer cells.
+RDI	In the paper, we reported that MEOX2-AS1 levels were distinctly upregulated in CC cells and tissues, and higher MEOX2-AS1 expressions indicated a poor clinical outcome.
+RDI	We also performed fluorescence in situ hybridization (FISH) using oligonucleotide probes to MAP1b mRNA, a known FMRP target mRNA, and similarly demonstrated that it, too, is detectable in growth cones of developing axons (Fig. 5).
+RDI	LncR SNHG15 has been found in several studies to be dramatically upregulated in CRC tissues and cells.
+RDI	hsa-miR-453 (note: this miRNA was replaced by hsa-mir-323b) was down-regulated in HepG2 cells after 5 hours of culture with grape seed proanthocyanidin extract.
+RDI	In addition, NEAT1 promoted the malignant progression of thyroid  cancer through regulating miRNA-214 expression, which adds to our understanding of the molecular mechanisms in thyroid carcinoma.
+RDI	expression of 4930443O20Rik in plasma during heart failure is downregulated
+RDI	We evaluated the prognostic value of these BCSC-related lncRNAs and eventually obtained a prognostic risk model consisting of 12 BCSC-related lncRNAs (Z68871.1, LINC00578, AC097639.1, AP003119.3, AP001207.3, LINC00668, AL122010.1, AC245297.3, LINC01871, AP000851.2, AC022509.2 and SEMA3B-AS1).
+RDI	All tumors showed ANRIL expression in malignant cells, but amongst tumors ANRIL showed different subcellular locations with 56% of tumors with ANRIL only in the nucleus, 16% with ANRIL only in the cytoplasm and 28% with ANRIL in both the nucleus and cytoplasm.
+RDI	LINC00473 was significantly increased in glioma tissues and in cell models, and predicted a poor prognosis in patients with glioma.
+RDI	expression of Gm5860 in plasma during heart failure is downregulated
+RDI	Melanoma addiction to the long non-coding RNA SAMMSON.
+RDI	We performed a biochemical nuclear/cytoplasmic fractionation assay and confirmed that all of the Dlk1-Dio3 lncRNAs were highly enriched in the nucleus, with the exception of Meg3, approximately one-third of which was found in the cytoplasmic fraction (Figure 4A).
+RDI	FEZF1-AS1 was remarkably upregulated in ESCC tissues and cell lines.
+RDI	Low circTMC5 expression correlated with good prognosis, inhibited GC cell proliferation, and promoted apoptosis.
+RDI	Notably, correlations between DUXAP9 206 and activated EGFR signaling were also validated in NSCLC patient specimens.
+RDI	microRNA-34a is tumor suppressive in brain tumors and glioma stem cells
+RDI	IGF2-AS was expressed at levels comparable with IGF2 sense expression derived from promoters P1 and P2 in normal tissue and in breast,ovarian,and Wilms' tumor tissues.
+RDI	Here, our results showed that circDLGAP4 expression was decreased in MPTP-induced PD mouse model and MPP+-induced PD cell models.
+RDI	Gene expression profiling of primary ATL samples demonstrated that the IRF4 gene was more highly expressed in ATL cells than in normal T cells.
+RDI	Overexpression of CCND2 suppressed FOXD2 AS1 knockdown induced inhibition of glioma malignancy.
+RDI	The confocal images of FISH showed that the lncRNA TCONS_00230836 is mainly distributed in the cytoplasm of β-TC6 cells (Fig.3).
+RDI	Our data indicated that MALAT1 could be used as a therapeutic target in OSCC diagnosis and treatment.
+RDI	Circulating level of ZFAS1 was significantly lower in AMI than in non-AMI subjects and healthy volunteers
+RDI	CircRNA microarrays study identified 13 downregulated and 46 upregulated circRNAs in hypertension patients, where four circRNAs (hsa-circ-0000437, hsa-circ-0008139, hsa-circ-0005870 and hsa-circ-0040809) showed significantly difference.
+RDI	A panel of miRNAs (30b, 30c, 103, 122, 195, 203, 221, 222), all correlated with NSCLC disease, were analyzed taking advantage of the remarkable sensitivity and specificity of Real-Time PCR analysis;
+RDI	MicroRNA-34a affects the occurrence of laryngeal squamous cell carcinoma by targeting the antiapoptotic gene survivin.
+RDI	XIST knockdown increased BTB permeability and inhibited glioma angiogenesis.
+RDI	ZNF667-AS1 expression was significantly decreased in metastasized UM tissues and its low expression was related to poorer prognosis of UM patients.
+RDI	LINC00319 promotes ovarian cancer progression through upregulating NACC1 expression by restraining miR-423-5p.
+RDI	Long non-coding RNA HAND2-AS1 inhibits invasion and metastasis in endometrioid endometrial carcinoma through inactivating neuromedin U;Down-regulation of HAND2-AS1 and HAND2 was correlated with tumor grade, lymph node metastasis and recurrence of EEC patients;Similarly, overexpression of HAND2 also inhibited migration and invasion EEC cells indicating that HAND2-AS1 and HAND2 had a concordant role in the progression of EEC.
+RDI	Here, we found the NEAT1 level was significantly elevated in patients with DR, in the retina of diabetic rats and mice.
+RDI	Mechanistically, TTC39A-AS1 functioned as a competing endogenous RNA in BC by sponging miR-483-3p and thereby indirectly increasing MTA2 expression.
+RDI	In this study, we found that the expression of BANCR was upregulated in OSCC tissues and cell lines compared to the negative control.
+RDI	Silencing of CCAT2 inhibited cell proliferation and invasion in PANC-1 cells in vitro, and attenuated tumorigenesis of PANC-1 xenograft in vivo.
+RDI	These findings might provide a novel strategy in the treatment of ischemic stroke.
+RDI	Results showed that the expression of circ_001569 was upregulated in tissues and plasma of PC patients.
+RDI	circRASGRF2 was found to be significantly upregulated in HCC tissues and HCC cell lines compared with paired ANL tissues and normal cells.
+RDI	Involvement of miR-20a in promoting gastric cancer progression by targeting early growth response 2 (EGR2).
+RDI	ROC curve analysis was performed to validate the accuracy of the three-lncRNA signature in predicting patients’ susceptibility to radiotherapy. The AUC values for OS and PFS were 0.841 and 0.821, indicating that the risk prediction model had high sensitivity and specificity.These results demonstrated that the risk score derived from the three-lncRNA signature could independently predict prognosis in LGG patients who received radiotherapy.
+RDI	Li and colleagues reported a negative correlation between SNHG7 and miR-34a in colorectal cancer.
+RDI	Mechanistically, THOR directly bound to ?-catenin mRNA, enhanced ?-catenin mRNA stability and thus increased its expression. Furthermore, overexpression of ?-catenin partially diminished THOR silencing-mediated inhibition on TNBC cell stemness.
+RDI	Thirdly, knockdown of GHET1 decreased the IC50 of Gemcitabine in Gemcitabine-resistant BC cell lines and advanced the Gemcitabine-induced cytotoxicity; GHET1 promoted Gemcitabine resistance in BC.
+RDI	The multivariate logistic regression analysis revealed that miR-142 level significantly associated with presence of AMI (p < 0.001).
+RDI	HUMT was significantly upregulated in lymph node invasive cells and predicted poorer clinical prognosis.
+RDI	Circ_0000730 was significantly down-regulated in the cancer tissues of 50 CC patients and CC cell lines.
+RDI	In conclusion, high expression of SNHG3 predicted poor prognosis for patients with CRC.
+RDI	Epigenetically silenced miR-34b/c as a novel faecal-based screening marker for colorectal cancer.
+RDI	LINK-A was significantly overexpressed in higher stages of cancer and tumor grades.
+RDI	CircCRIM1 and BTG2 were downregulated, and miR-125b-5p was upregulated in LUAC tissues/cells.
+RDI	Downregulated miR-195 detected in preeclamptic placenta affects trophoblast cell invasion via modulating ActRIIA expression.
+RDI	In conclusion,our results demonstrated that increased plasma HOTAIR and CCAT1 could be used as a predictive biomarker for CRC screening,and that combination of HOTAIR and CCAT1 had a higher positive diagnostic rate of CRC than HOTAIR or CCAT1 alone.
+RDI	Results suggested that rescuing miR 194 expression in PDAC can inhibit lncRNA H19 and PFTK1 expression, subsequently suppressing PDAC cell proliferation and migration.
+RDI	miR-106b may promote cell cycling of gastric cancer cells through regulation of p21 and E2F5 target gene expression.
+RDI	ZEB2NAT depletion reversed CAF-CM-induced EMT and invasion of cancer cells,as well as reduced the ZEB2 protein level.
+RDI	MicroRNA-335 inhibits tumor reinitiation and is silenced through genetic and epigenetic mechanisms in human breast cancer.
+RDI	Here, we found that circRNA_100290 expression was significantly upregulated in LSCC tissues and cell lines compared with the normal controls.
+RDI	Kaplan-Meier survival analysis revealed that high level of ANCR expression was significantly associated with poor disease-free survival but not with OS in NPC patients. Univariate analysis showed a significant association between increased ANCR expression and adverse OS (P < .05), but multivariate analysis suggested that ANCR could not be used as an independent prognostic factor for NPC patients.
+RDI	Additionally, we identified that SNHG1 increased human nin one binding protein (NOB1), an oncogene, through sponging miR-326 as competing endogenous RNA (ceRNA), finally prompting cell growth, migration and invasion in OS.
+RDI	Additionally, HOTTIP regulated HMGB3 expression by acting as a molecular sponge of miR-615-3p in NSCLC cells.
+RDI	In both AD mice and patients, the expression of miR-129-5p was elevated by physical exercise.
+RDI	Doxifluridine/Oxaliplatin treated advanced stage gastric cancer patients. The expression of miR-181b and miR-21 was significantly overexpressed in gastric tumors compared to normal gastric tissues.
+RDI	In the current study, we found that ZFAS1 was upregulated in glioma tissues and cell lines.
+RDI	expression of Gm10660 in plasma during heart failure is upregulated
+RDI	Our result revealed that METTL3 was significantly increased in GC tissues compared with control in big crowd data sets.
+RDI	The enrichment of circ_0091579 was enhanced in HCC tissues (n = 77) and four HCC cell lines (HB611, Huh-7, MHCC97, and SNU423) compared with adjacent non-tumor tissues (n = 77) and normal human liver cell line THLE-2.
+RDI	qRT-PCR showed that the expression of MALAT1 in bladder cancer tissues was 2.85 times higher than those measured in adjacent normal tissues (P< .001).
+RDI	It was demonstrated that expression level of circ_0000527 in RB samples was significantly up-regulated compared to normal tissues, while miR-646 was markedly down-regulated.
+RDI	In this study, Rab27A mRNA and protein were proven to be overexpressed in intestinal epithelial cells of UC patients and DSS-induced colitis mice, compared with control (P < 0.05).
+RDI	Firstly, the expression of GHET1 was up-regulated in BC, its high expression was relevant to high grade and muscle invasion of BC patients.
+RDI	AC1MMYR2, an inhibitor of dicer-mediated biogenesis of Oncomir miR-21, reverses epithelial-mesenchymal transition and suppresses tumor growth and progression.
+RDI	miR-217 reduced NO production and promoted endothelial dysfunction, increased blood pressure, and exacerbated atherosclerosis in proatherogenic apoE-/- mice.
+RDI	Subcellular fractionation showed that 62% of Haunt transcripts are located in the nucleus, and more than half appeared to be bound to chromatin (Figure 5A).
+RDI	However, in several neuronsthe mRNAs for ρ1 or ρ2 could be found more than 100 mm away from the cell soma, indicating localization to distal dendrites (Table 1).
+RDI	In this study, we demonstrate that lncRNA-CLMAT3 expression was significantly increased in colorectal cancer cells compared with a normal intestinal mucous cell line and that inhibition of lncRNA-CLMAT3 suppressed colorectal cancer cell proliferation in vitro.
+RDI	Human esophageal carcinoma cell lines EC9706 and KYSE150 were transfected with MALAT-1 small interference RNA.
+RDI	LncRNA HOXA-AS2 facilitates tumorigenesis and progression of papillary thyroid cancer through modulating miR-15a-5p/HOXA3 axis.
+RDI	MicroRNAs-10a and -10b contribute to retinoic acid-induced differentiation of neuroblastoma cells and target the alternative splicing regulatory factor SFRS1
+RDI	MiR-139-5p, miR-137, and miR-338-3p were validated to be significantly linked to prognosis in glioma patients.
+RDI	Five of the analyzed lncRNAs (BC038205, BC130595, TUG1, MEG3, and LOC646329) were markedly increased, while five lncRNAs (LOC729178, PLAC2, LOC339529, LINC00229, and SNHG5) were significantly decreased in COPD lung tissues compared with non-COPD lung tiss
+RDI	HAGLR was found to be highly expressed in TNBC tissues and cells, and inhibiting HAGLR suppressed cell proliferation, migration, and invasion and promoted cell apoptosis in TNBC.
+RDI	MAPK6 was the most highly expressed MAPK component in liver cancer and liver TICs and lncMAPK6 participated in the transcriptional regulation of MAPK6in cis.
+RDI	in vitro functional screening of the downregulated miRNAs in non-malignant and breast cancer cell lines identified several possible tumor suppressor miRNAs, including miR-193b, miR-193a-3p, miR-126, miR-134, miR-132, miR-486-5p, miR-886-3p, miR-195 and miR-497, showing reduced growth when re-expressed in cancer cells
+RDI	Circ_0007142 and SGK1 levels were clearly increased, while miR-455-5p level was reduced in CRC tissues and cell lines.
+RDI	In conclusion, this meta-analysis suggests that the miR-499 rs3746444 polymorphism (A>G) is a low-penetrant risk factor for cancer development among Asians and may contribute to breast cancer susceptibility.
+RDI	hsa_circ_0004771 and Zinc finger E-box binding homeobox 2 (ZEB2) expression levels were up-regulated and positively correlated in breast cancer tumor tissues.
+RDI	Mechanistic assay demonstrated that SNHG6 was negatively correlated with p21 and KLF2 in osteosarcoma.
+RDI	Stratified analyses indicated that elevated levels of ciRS-7 appeared to be a powerful prognostic biomarker for patients with non-small-cell lung cancer (NSCLC) (HR: 2.50, 95% CI: 1.07-6.07, P < 0.001) in various cancers.
+RDI	After univariate and multivariate Cox regression analysis, eight lncRNAs (GS1-600G8.5, LINC00365, CTD-2357A8.3, RP11-705O24.1, LINC01554, RP1-90J4.1, RP11-327J17.1, and LINC00176) were finally screened out to establish a predictive model by which patients could be classified into high-risk and low-risk groups with significantly different overall survival.
+RDI	Our data indicate that Gpx4 is expressed at high levels in mouse erythroleukemia cells and that expression silencing of the Gpx4 gene delays in vitro erythropoiesis.
+RDI	Here, we show that the KCNQ1OT1 transcriptional level was significantly increased in human colorectal cancer cells in which B-catenin was excessively accumulated in the nucleus.
+RDI	a lncRNA, Breast-Cancer Anti-Estrogen Resistance 4 (BCAR4), which plays a pivotal role in the tamoxifen-resistance of breast cancer, was significantly upregulated in CRPC, but not in castration-sensitive prostate cancer (CSPC), compared to normal prostate tissue.
+RDI	Taken together, our findings revealed that circ_0067934 promotes CC progression via miR 545/EIF3C axis.
+RDI	KCNQ1OT1 was up-regulated while miR-26a-5p was decreased in MI patients, I/R mouse and H/R-induced cell model.
+RDI	Hsa-miR-100 was significantly down-regulated in the estrogen-dependent endometrial cancer samples as compared to the estrogen-independent samples and thus has the potential to target ESR1.
+RDI	These results suggest that sTLR4/MD-2 complex inhibits CRC migration and invasiveness in vitro and in vivo by lncRNA H19 down-regulation.
+RDI	ROC curve indicated that CASC2 has clinical value in diagnosing thyroid cancer.
+RDI	The silence of GNG12-AS1 inhibited the proliferation, migration and epithelial-mesenchymal transition of glioma cells, and reduced the activity of the AKT/GSK-3β/β-catenin pathway. Notably, SKL2001 could reverse cell migration as well as β-catenin expression in glioma cells with lower GNG12-AS1 expression.
+RDI	High-regulated expression of circCUL3 was observed in both GC tissues and cell lines.
+RDI	In this study, we found that GAS5 low-expressed in BTCC tissues and cells, and its low expression level had positive correlation with higher pathological grades of BTCC.
+RDI	Furthermore, we found that KLF12 mRNA and protein level was lower in BC cells than in bladder epithelial cells (Fig. 1D).
+RDI	Furthermore,low NKILA expression is associated with breast cancer metastasis and poor patient prognosis.
