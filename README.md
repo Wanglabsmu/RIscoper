@@ -5,7 +5,7 @@
 <u>**Conda install***</u> 
 
 ```{r}
-conda create -n RIscoper
+conda create -n RIscoper python=3.7
 conda activate RIscoper
 pip install -r requirements.txt 
 ```
@@ -46,11 +46,11 @@ your_text = "taken together, our data suggest that mir-155 may attenuate the exp
 ```
 Result of RE:
 ```{r}
-predict_single(your_text)[1] 
+predict_single(your_text)[1]  # 'RRI'
 ```
 Result of NER:
 ```{r}
-NER.recognize(your_text)
+NER.recognize(your_text)  # [('mir-155', 'rna'), ('smad2', 'rna'), ('smad2', 'rna')]
 ```
 
 ### 2.2 Multiple sentences
